@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Contracts\Authentication\" />
+    <Folder Include="Contracts\Persistance\" />
+    <Folder Include="Contracts\Common\" />
+    <Folder Include="Contracts\Registration\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReadModel\ReadModel.csproj" />
+    <ProjectReference Include="..\DataTransferModel\WriteModel\WriteModel.csproj" />
+  </ItemGroup>
+</Project>

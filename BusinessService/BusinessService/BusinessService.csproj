@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Domain\Authentication\" />
+    <Folder Include="Domain\Registration\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EngineFactory\EngineFactory\EngineFactory.csproj" />
+  </ItemGroup>
+</Project>
