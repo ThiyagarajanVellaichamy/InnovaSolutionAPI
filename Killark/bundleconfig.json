@@ -1,0 +1,39 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/css.min/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/bootstrap.css",
+      "wwwroot/css/font-awesome.min.css",
+      "wwwroot/css/jquery.jscrollpane.codrops2.css",
+      "wwwroot/css/jquery.mCustomScrollbar.min.css"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/js.min/site.min.js",
+    "inputFiles": [
+      "wwwroot/js/bootstrap.min.js",
+      "wwwroot/js/bootstrap-show-password.min.js",
+      "wwwroot/js/jquery.validate.min.js",
+      "wwwroot/js/jquery.validate.unobtrusive.min.js",
+      "wwwroot/js/jquery.colorbox-min.js",
+      "wwwroot/js/jquery.jscrollpane.min.js",
+      "wwwroot/js/jquery.mCustomScrollbar.concat.min.js",
+      "wwwroot/js/jquery.mousewheel.js",
+      "wwwroot/js/sorttable.js",
+      "wwwroot/js/scroll-startstop.events.jquery.js",
+      "wwwroot/js/mwheelIntent.js",
+      "wwwroot/js/jspdf.min.js",
+      "wwwroot/js/html2canvas.min.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

@@ -1,0 +1,35 @@
+﻿@model Killark.ViewModel.HoleConfigurationViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript" src="~/wwwroot/js/hubbellscript.js"></script>
+    <script>$(document).ready(function () {
+            $('#applicationName').prepend('EXBLT ');
+        });</script>
+</head>
+<body>
+    <div id="dialog" title="Basic dialog">
+        <p>It's not support for this view. Please view in desktop</p>
+    </div>    
+    <div class="ful-body-wrap">
+        <div class="ful-body">
+            <div class="kil-bdy-wrap setup-content kil-bdy-wrap-scroll scrollstyle" id="step-1">
+                @{
+                    Html.RenderPartial("Partial/EnclosureSelection");
+                }
+            </div>
+            <div class="kil-bdy-wrap kil-bdy-wrap-scroll scrollstyle" id="step-configuration">
+                @{
+                    Html.RenderPartial("Partial/Configuration",
+                        Model.ConfigurationModel as Killark.ViewModel.ConfigurationViewModel);
+                }
+            </div>
+            <div class="kil-bdy-wrap setup-content kil-bdy-wrap-scroll scrollstyle" id="step-4">
+                @{
+                    Html.RenderPartial("Partial/Result");
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html >

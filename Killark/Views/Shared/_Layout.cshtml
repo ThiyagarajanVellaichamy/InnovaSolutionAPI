@@ -1,0 +1,131 @@
+﻿@using System.Configuration;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/css/jscrollpane.codrops2.css" />
+    <link rel="stylesheet" href="/css/mCustomScrollbar.min.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/style.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/custom-style.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/tile-popup.css" />
+
+
+</head>
+<body>
+    <!-- Header -->
+    <header class="kil-head">
+        <div class="head-inner">
+            <div class="head-inner-a">
+                <a href="javascript:void(0)"><img src="~/Content/images/killark-logo.png" alt="killark-logo" title="killark-logo"></a>
+            </div>
+            <div class="head-inner-b">
+                <h1 id="applicationName">Enclosure configurator</h1>
+            </div>
+            <div class="head-inner-c">
+                <div class="dropdown">
+                    <div class="user1" type="button" data-toggle="dropdown">
+                        <span class="username_head"> Hi @ViewBag.FirstName @ViewBag.LastName </span>
+                        <span class="caret"></span>
+                    </div>
+                    <ul class="dropdown-menu header-drop">
+                        <li><a href="@Url.Action("Index","Dashboard")">Dashboard</a></li>
+                        <li><a href="@Url.Action("Logout","Account")">Logout</a></li>
+                    </ul>
+                </div>
+                <a href="javascript:void(0)"><img src="~/Content/images/hubbell-logo.png" alt="Hubbell" title="Hubbell"></a>
+            </div>
+        </div>
+        <div class="stepview">
+            @Html.Partial("StepPartialView")
+        </div>
+    </header>
+    <!-- Header -->
+    <!-- Body -->
+    <div class="body-content">
+        @RenderBody()
+    </div>
+    <!-- Body -->
+    <!-- Footer -->
+    <div>
+        <div class="pdf_Footer clearBoth">
+            <p class="pdf-footer-content"><span class="contacts">Contact us: 1800 Killark, Killarkinfo@hubbell.com</span></p>
+        </div>
+        <footer>
+            <div class="kil-footer">
+                <div class="footer_contents">
+                    <div class="footer-inner-version">
+                        <span>VERSION : 2020</span>
+                    </div>
+                    <div class="footer-inner-a">
+                        <span>&copy; @DateTime.UtcNow.Year - Hubbell incorporated</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- Footer -->
+    <!-- Page Modal Error -->
+    <div id="myModal" class="modal fade error_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header error">
+                    <span class="remove_error_icon">
+                        <button type="button" class="btn btn-circle">
+                            <i class="glyphicon glyphicon-remove"></i>
+                        </button>
+                    </span>
+                </div>
+                <div class="Opps_section"><h4>Oops!</h4></div>
+                <div class="modal-body" style="border-color:transparent;">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="kil-btn kil-btn-small btn-modal-ok" data-dismiss="modal">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Modal Error -->
+    <!-- Page Modal Sucess  -->
+    <div class="" id="sucess" style="display: none;">
+        <div class="Pop_header">
+            <div class="">
+                <span class="tick_circle">
+                    <i class="glyphicon glyphicon-ok"></i>
+                </span>
+            </div>
+        </div>
+        <div class="pop_content">
+            <h3>Thank You..!!!</h3>
+            <p>Successfully submitted your data. <a id="renderID" href="#"></a></p>
+        </div>
+        <div class="footer">
+            <button type="button" class="kil-btn kil-btn-small popup-cancel submit_ok"
+                    onclick='window.location.href = "./../Dashboard/Index"' data-dismiss="modal">
+                OK
+            </button>
+        </div>
+    </div>
+    <!-- Page Modal Sucess  -->
+    <!--Loader-->
+    <div class="container" id="loader_wrapper" style="display: none;">
+        <div class="row mt">
+            <div class="col-md-12">
+                <div class="panel panel-default panel-part">
+                    <div class="adjust">
+                        <div class="loader2">
+                            <div class="panel-heading">
+                                <h5><i class="fa fa-fw fa-check"></i> Please Wait...</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Loader-->
+</body>
+</html>

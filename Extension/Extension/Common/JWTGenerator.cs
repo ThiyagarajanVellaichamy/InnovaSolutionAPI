@@ -4,9 +4,9 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
+using ServiceProvider.Contracts.Authentication;
 using ServiceProvider.Contracts.Common;
 using ServiceProvider.Contracts.Persistance;
-using WriteModel.Authentication;
 
 namespace Extension.Common
 {
@@ -24,7 +24,7 @@ namespace Extension.Common
         /// <returns></returns>
         public string Generate(IUser param)
         {
-            return this.Generate(param, DateTime.UtcNow);
+            return this.Generate(param, DateTime.Now.AddDays(1));
         }
         /// <summary>
         /// To Generate token with expiry

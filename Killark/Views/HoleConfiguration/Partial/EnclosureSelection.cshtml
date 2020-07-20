@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <div class="ful-body-wrap enclosure_container">
+        <div class="row ful-body">
+            <div class="kil-bdy-wrap col-md-8">
+                <div class="kil-bdy-wrap-inner cus-scroll" id="jp-container">
+                    <form class="crow">
+                        <!-- left form filed starts -->
+                        <div class="blk-frm-left">
+                            <div class="secttion_box same-height scrollstyle">
+                                <div class="set-box mt0 setbox1">
+                                    <div class="frm-row select-row form_align">
+                                        <label class="label_title">
+                                            Enclosure Type
+                                        </label>
+                                        <select id="enclosureType" onchange="enclosureTypeOnChange();">
+                                            @if (ViewBag.Product == "EXB")
+                                            {
+                                                <option value="EXB">EXB : Cast Cover</option>
+                                            }
+                                            else
+                                            {
+                                                <option value="EXBLTP">EXBLTP : Plate Cover</option>
+                                                <option value="EXBLTC">EXBLTC : Cast Cover</option>
+                                            }
+                                        </select>
+                                        <div class="showMessage">"Window option not available for EXBLTP"</div>
+                                    </div>
+                                    <div class="Enclosure_wrapper">
+                                        <div>
+                                            <div class="frm-row select-row enclosure_sec" style="">
+                                                <label class="label_title" style="margin-top: -10px;background: white;">
+                                                    Catalog Number
+                                                </label>
+                                                <!--Enclosure Dimension Fetched From Database-->
+                                                <select id="enclosureDimension" onchange="enclosureDimensionOnChange()"></select>
+                                            </div>
+                                            <div class="catlog_mobile">
+                                                <div class="wld_sec">
+                                                    <label style="background:white;">[W" L" D"]</label>
+                                                </div>
+                                                <div class="checkbox">
+                                                    <label class="label_title" style="background:white;"><input type="checkbox" value="" name="sortBy">Sort by</label>
+                                                </div>
+                                                <div class="frm-row select-row operator_count">
+                                                    <label class="label_title">
+                                                        Number of Operator
+                                                    </label>
+                                                    <select id="operatorsCount" disabled class="disabled-grey" onchange="operatorsCountOnChange()">
+                                                        <option value="1">1</option>
+                                                        <option value="2">2</option>
+                                                        <option value="3">3</option>
+                                                        <option value="4">4</option>                                                    
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="frm-2col-row form_align_last placement_section">
+                                        <div class="frm-row">
+                                            <label class="label_title">Hinge</label>
+                                            <div class="sn-btn-group">
+                                                <label class="radio-inline">
+                                                    <input type="radio" name="hingeOption" value="Yes">Yes
+                                                </label>
+                                            </div>
+                                            <div class="sn-btn-group">
+                                                <label class="radio-inline">
+                                                    <input type="radio" name="hingeOption" value="No">No
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="frm-row high_place">
+                                            <label class="label_title">Hinge Placement<span class="lab-arlt">!</span></label>
+                                            <select id="hingeOrientation" onchange="hingeOrientationOnChange()">
+                                                <option>Left</option>
+                                                <option>Right</option>
+                                                <option>Top</option>
+                                                <option>Bottom</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="frm-row form_align mountPan_sec">
+                                        <label class="label_title">
+                                            Mounting Pan
+                                        </label>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="mountingPanel" value="Yes">Yes
+                                            </label>
+                                        </div>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="mountingPanel" value="No">No
+                                            </label>
+                                        </div>
+                                        <div class="emounting-value pipe-separator" style="">
+                                            <label class="label_title value-update">Pan #</label> <span class="mount_value">7997-6</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="set-box setbox2">
+                                    <div class="frm-row form_align">
+                                        <label class="label_title">
+                                            Certification Type
+                                        </label>
+                                        <select id="certificatetype" onchange="certificationTypeOnChange()">
+                                            <option>NEC</option>
+                                            <option>NEC/ATEX/IECEx</option>
+                                        </select>
+                                    </div>
+                                    <div class="frm-row form_align_last">
+                                        <label class="label_title">
+                                            Enclosure Cover Bolt Type
+                                        </label>
+                                        <select id="bolttype" onchange="boltOptionOnChange()">
+                                            <option>N4 = (NEC-UL/CSA Type 4) with Steel External Hardware</option>
+                                            <option>N4x = (NEC-UL/CSA Type 4X) with Stainless Steel External Hardware</option>
+                                            <option>N4TL = (NEC-UL/CSA Type 4) with Tri-lead Stainless Steel External Hardware</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="set-box setbox3">
+                                    <div class="frm-row form_align">
+                                        <label class="label_title">
+                                            External Grounding Kit
+                                        </label>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="externalGroundingKit" value="Yes" />Yes
+                                            </label>
+                                        </div>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="externalGroundingKit" value="No" />No
+                                            </label>
+                                        </div>
+                                        <div class="external-grounding-value pipe-separator">
+                                            <label class="label_title value-update">Size</label> <span class="exrenal_value">100 Amp</span>
+                                        </div>
+                                    </div>
+                                    <div class="frm-row form_align_last">
+                                        <label class="label_title">
+                                            Internal Grounding Kit
+                                        </label>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="internalGroundingKit" value="Yes" />Yes
+                                            </label>
+                                        </div>
+                                        <div class="sn-btn-group">
+                                            <label class="radio-inline">
+                                                <input type="radio" name="internalGroundingKit" value="No" />No
+                                            </label>
+                                        </div>
+                                        <div class="internal-grounding-value pipe-separator">
+                                            <label class="label_title value-update">Size</label> <span class="internal_value">100 Amp</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="set-box mb0 setbox4">
+                                    <div class="frm-row form_align_last">
+                                        <label class="label_title">Finish</label>
+                                        <select id="finishdropdown" onchange="finishTypeOnChange()">
+                                            <option value="1">Do Not Paint</option>
+                                            <option value="2">Powder Epoxy Gray (External Only)</option>
+                                            <option value="3">Powder Epoxy Gray (External &amp; Internal)</option>
+                                            <option value="4" selected>Wet Laquer Gray (External Only)</option>
+                                            <option value="5">Wet Laquer Gray (External &amp; Internal)</option>
+                                            <option value="6">Fungus Proofing (Internal Only)</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- left form filed End -->
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-4 enclosureImagePos">
+                <div class="img_section">
+                    <img class="enclosureImage" src="~/Content/images/EXBLTP/NOHINGE/EXBLTP-664 N4.jpg" />
+                </div>
+                <div class="specLinkPos">
+                    <a class="specLink">Specification Link</a>
+                </div>
+                <div class="row dimention_box">
+                    <div class="dimention_wrap">
+                        <div class="dimention_label"><label>Internal Dimension</label></div>
+                        <div class="dimention_input"><input value="" class="selectionReadonlyValue" id="iDimension" readonly /></div>
+                    </div>
+                    <div class="dimention_wrap">
+                        <div class="dimention_label"><label>External Dimension</label></div>
+                        <div class="dimention_input"><input value="" class="selectionReadonlyValue" id="eDimension" readonly /></div>
+                    </div>
+                </div>
+                <div class="row dimention_box">
+                    <div class="dimention_wrap">
+                        <div class="dimention_label"><label>Max Sizes - NPT/Metric</label></div>
+                        <div class="dimention_input"><input value="" class="selectionReadonlyValueRight" id="maxSize" readonly /></div>
+                    </div>
+                    <div class="dimention_wrap">
+                        <div class="dimention_label"><label>Weight LBS (kg)</label></div>
+                        <div class="dimention_input"><input value="" class="selectionReadonlyValueRight" id="weightLBS" readonly /></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

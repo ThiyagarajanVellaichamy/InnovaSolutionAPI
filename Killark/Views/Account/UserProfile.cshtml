@@ -1,0 +1,349 @@
+﻿@model Killark.Models.RegisterViewModel
+@{
+    Layout = "~/Views/Shared/Login_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        $(document).ready(function () {
+        @{
+            if(Model != null && Model.ErrorMessage != null)
+            {
+                <text>
+                    $('#errorText').html('@Model.ErrorMessage');
+                    $('.confirm_sec_btn_error').show();
+                    hideUserProfile();
+                </text>
+            }
+            else
+            {
+                <text>
+                    $('.confirm_sec_btn_error').hide();
+                </text>
+            }
+        }
+        });
+
+        function userProfileValidation() {
+            var isValidate = $("#frmLogin").valid();
+            $(".userProfileForm :input").each(function () {
+                if ($(this).attr("type") != "button") {
+                    if ($(this).prop('required') && this.value == "") {
+                        $('#' + this.id).css('border-color', 'red');
+                    }
+                    else {
+                        $('#' + this.id).css('border-color', '#199C66');
+                    }
+                }
+            });
+            if (isValidate == true) {
+                hideUserProfile();
+            }
+        }
+
+        function hideUserProfile() {
+            $('#userpro').css('display', 'none');
+            $('#register').css('display', 'block');
+        }
+
+        function CheckEmpty(id) {
+            if ($('#' + id).val() == "")
+                $('#' + id).css('border-color', 'red');
+            else
+                $('#' + id).css('border-color', '#199C66');
+        }
+    </script>
+    <style>
+
+        .field-validation-error > span {
+            font-size: 10px;
+            visibility: hidden;
+            width: 120px;
+            background: #5dbe96;
+            color: #ffffff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            right: -10.5%;
+            z-index: 1;
+            /* border: 1px solid black; */
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+            .field-validation-error > span::after {
+                content: " ";
+                position: absolute;
+                top: 25%;
+                right: 99.5%;
+                margin-top: -5px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: transparent #5dbe96 transparent transparent;
+            }
+
+        .field-validation-error > span {
+            visibility: visible;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div id="dialog" title="Basic dialog">
+        <p>It's not support for this view. Please view in desktop</p>
+    </div>
+    @using (Html.BeginForm("UserProfile", "Account", FormMethod.Post, new { role = "form", id = "frmLogin", @autocomplete = "off" }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(false, "", new { @class = "text-danger", @id = "loginvalidationsummary", @style = "display:none" })
+        <div class="container userProfile">
+            <div id="userpro" class="mobile">
+                <div class="userProfileForm">
+                    <div class="row">
+                        <div class="col-md-12 col-lg-12"><h4 class="text-center">User Profile</h4></div>
+                        <div class="col-md-6 vr_line">
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="title">Title</label></div>
+                                    <div class="col-md-7"> @Html.TextBoxFor(x => x.Title,
+                                                          new { @id = "title", @name = "title",
+                                                              tabindex = "1", @type = "text",
+                                                              @class = "form-control" })</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="lastName">Last Name <sup class="req">*</sup></label></div>
+
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.LastName,
+                                                         new { @id = "lastName", @name = "lastName",
+                                                             tabindex = "3", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.LastName)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="jobTitle">Job Title</label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.JobTitle,
+                                                         new { @id = "jobTitle", @name = "jobTitle",
+                                                             tabindex = "5", @type = "text",
+                                                             @class = "form-control" })</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="mainBusinessActivity">Main Business Activity</label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.BusinessClass,
+                                                         new { @id = "mainBusinessActivity", @name = "mainBusinessActivity",
+                                                             @tabindex = "7", @type = "text",
+                                                             @class = "form-control" })</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="addressCont">Address (cont)</label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.AddressCont,
+                                                         new { @id = "addressCont", @name = "addressCont",
+                                                             @tabindex = "9", @type = "text",
+                                                             @class = "form-control" })</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="countryState">Country/State <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.CountryState,
+                                                         new { @id = "countryState", @name = "countryState",
+                                                             @tabindex = "11", @type = "text",
+                                                             @class = "form-control", @required = "required"})</div>
+                                    @Html.ValidationMessageFor(x => x.CountryState)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="country">Country <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.Country,
+                                                         new { @id = "country", @name = "country",
+                                                             @tabindex = "13", @type = "text",
+                                                             @class = "form-control", @required = "required"})</div>
+                                    @Html.ValidationMessageFor(x => x.Country)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="fax">Fax</label></div>
+                                    <div class="col-md-7"> @Html.TextBoxFor(x => x.Fax,
+                                                          new { @id = "fax", @name = "fax",
+                                                              @tabindex = "15", @type = "text",
+                                                              @class = "form-control" })</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="firstName">First Name <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.FirstName,
+                                                         new { @id = "firstName", @name = "firstName",
+                                                             @tabindex = "2", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.FirstName)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="company">Company <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.Company,
+                                                         new { @id = "company", @name = "company",
+                                                             @tabindex = "4", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.Company)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="clasOfBusiness">Class of business</label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.BusinessClass,
+                                                         new { @id = "clasOfBusiness", @name = "clasOfBusiness",
+                                                             @tabindex = "6", @type = "text",
+                                                             @class = "form-control" })</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="address">Address <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.Address,
+                                                         new { @id = "address", @name = "address",
+                                                             @tabindex = "8", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.Address)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="city">City <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.City,
+                                                         new { @id = "city", @name = "city",
+                                                             @tabindex = "10", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.City)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="postalCodeZip">Zipcode <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7">@Html.TextBoxFor(x => x.Postcode,
+                                                         new { @id = "postalCodeZip", @name = "postalCodeZip",
+                                                             @tabindex = "12", @type = "text",
+                                                             @class = "form-control", @required = "required" })</div>
+                                    @Html.ValidationMessageFor(x => x.Postcode)
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-md-4 text-right"><label for="telephone">Telephone <sup class="req">*</sup></label></div>
+                                    <div class="col-md-7 text-left">@Html.TextBoxFor(x => x.Telephone,
+                                                                   new { @id = "telephone",
+                                                                       @name = "telephone", @tabindex = "14",
+                                                                       @type = "text", @class = "form-control",
+                                                                       autocomplete = "false", @required = "required"})</div>
+                                    @Html.ValidationMessageFor(x => x.Telephone)
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-lg-12">
+                            <div class="profile_btn_part">
+                                <button onclick="window.location.href = '@Url.Action("Login", "Account")'"
+                                        tabindex="17" type="button" class="kil-btn kil-btn-small">Cancel</button>
+                                <button onclick="userProfileValidation()" tabindex="16" type="button" class="kil-btn kil-btn-small">Next</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="manatory_note">
+                        <label class="req"><span style="color:red">* :</span> The marked fields are mandatory</label>
+                    </div>
+                </div>
+            </div>
+            <div class="ful-body-wrap" id="register" style="display:none;">
+                <div class="ful-body register-page">
+                    <div class="">
+                        <section class="log-form">
+                            <div class="register_head">
+                                <h4>Register</h4>
+                            </div>
+                            <div class="form-body container-fluid confirm_wrapper">
+                                <form>
+                                    <div class="col-sm-12 pb-20 input-lrg confirm_sec">
+                                        <label class="confirm_label">
+                                            Email Address
+                                        </label>
+                                        @Html.TextBoxFor(x => x.EmailId, 
+                                        new { @style = "margin-right:10px;" })
+                                        @Html.ValidationMessageFor(x => x.EmailId)
+                                    </div>
+                                    <div class="col-sm-6 pb-20 input-lrg confirm_sec">
+                                        <label class="confirm_label">
+                                            Password
+                                        </label>
+                                        @Html.TextBoxFor(x => x.Password,
+                                        new {
+                                        @type = "password",
+                                        @style = "margin-right:10px;" })
+                                        @Html.ValidationMessageFor(x => x.Password)
+                                    </div>
+                                    <div class="col-sm-6 pb-20 input-lrg confirm_sec">
+                                        <label class="confirm_label">
+                                            Confirm Password
+                                        </label>
+                                        @Html.TextBoxFor(x => x.ConfirmPassword,
+                                        new {
+                                        @type = "password",
+                                        @style = "margin-right:10px;" }) 
+                                        @Html.ValidationMessageFor(x => x.ConfirmPassword)
+                                    </div>
+                                    <div class="confirm_sec_btn_error">
+                                        <label class="confirm_label"></label>
+                                        <div class="error_available_mail">
+                                            <span id="errorText">Email id already available</span>
+                                        </div>
+                                    </div>
+                                    <div class="confirm_sec_btn">
+                                        <label class="confirm_label"></label>
+                                        <div class="confirm_sec_btn_part">
+                                            <button type="submit" class="kil-btn kil-btn-small">Register</button>
+                                        </div>
+                                    </div>
+                                    <div class="confirm_sec_btn back_login">
+                                        <label class="confirm_label"></label>
+                                        <div class="confirm_sec_btn_part">
+                                            <span class="back_alredy_text">Already available? Please </span>
+                                            <span class="back_login_text">
+                                                <a href="javascript:void(0);"
+                                                   class="back_link" onclick="window.location.href = '@Url.Action("Login", "Account")'">Login</a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </section>
+                        <div class="confirm_sec_btn_error">
+                            <label class="confirm_label"></label>
+                            @{
+                                if (@Model != null && Model.ErrorMessage != null)
+                                {
+                                    <span class="text-Warning">@Model.ErrorMessage</span>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>

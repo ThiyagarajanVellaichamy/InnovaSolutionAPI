@@ -1,8 +1,7 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
-using ReadModel.Authentication;
-using RelationalEngine.Authentication;
+using ADOEngine.Authentication;
+using ServiceProvider.Authentication;
 using ServiceProvider.Contracts.Authentication;
 using ServiceProvider.Contracts.Common;
 using ServiceProvider.Contracts.Persistance;
@@ -25,7 +24,7 @@ namespace BusinessService.Domain.Authentication
         /// <param name="password"></param>
         /// <param name="cancel"></param>
         /// <returns></returns>
-        public async Task<LoginResponse> LoginAsync(string username, byte[] password, CancellationToken cancel = default)
+        public async Task<Result<LoginResponse>> LoginAsync(string username, byte[] password, CancellationToken cancel = default(CancellationToken))
         {
             return await this.Instance.GetInstance<IAuthenticate, AuthenticateEngine>().LoginAsync(username, password, cancel);
         }
@@ -37,5 +36,6 @@ namespace BusinessService.Domain.Authentication
         {
             this.Instance?.Dispose();
         }
+
     }
 }

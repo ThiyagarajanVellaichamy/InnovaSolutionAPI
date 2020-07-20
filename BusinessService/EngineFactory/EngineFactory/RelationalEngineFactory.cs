@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using ServiceProvider.Contracts.Authentication;
 using ServiceProvider.Contracts.Common;
 using ServiceProvider.Contracts.Persistance;
 
@@ -8,6 +9,9 @@ namespace EngineFactory
 {
     public sealed class RelationalEngineFactory : IDisposable
     {
+
+
+
         private IList<object> diObject = new List<object>();
         /// <summary>
         /// To Initailize relational engine factory
@@ -37,31 +41,39 @@ namespace EngineFactory
         /// <returns></returns>
         private object Instance(Type type)
         {
-            var ctor = type
-                .GetConstructors()
-                .FirstOrDefault(c => c.GetParameters().Length > 0);
+            try
+            {
+                var ctor = type
+                    .GetConstructors()
+                    .FirstOrDefault(c => c.GetParameters().Length > 0);
 
-            if (ctor == null)
-            {
-                return Activator.CreateInstance(type);
-            }
-            else
-            {
-                var constructorParameters = ctor.GetParameters();
-                object[] instanceParam = new object[constructorParameters.Length];
-                foreach (var param in constructorParameters)
+                if (ctor == null)
                 {
-                    var value = diObject.FirstOrDefault(s => {
-
-                        if (s.GetType() == param.ParameterType)
-                            return true;
-                        else
-                            return s.GetType().GetInterfaces().Any(s => s.Name == param.ParameterType.Name);
-                    });
-                    instanceParam[param.Position] = value ?? constructorParameters[param.Position].DefaultValue;
+                    return Activator.CreateInstance(type);
                 }
+                else
+                {
+                    var constructorParameters = ctor.GetParameters();
+                    object[] instanceParam = new object[constructorParameters.Length];
+                    foreach (var param in constructorParameters)
+                    {
+                        var value = diObject.FirstOrDefault(s =>
+                        {
 
-                return Activator.CreateInstance(type, instanceParam);
+                            if (s.GetType() == param.ParameterType)
+                                return true;
+                            else
+                                return s.GetType().GetInterfaces().Any(s => s.Name == param.ParameterType.Name);
+                        });
+                        instanceParam[param.Position] = value ?? constructorParameters[param.Position].DefaultValue;
+                    }
+
+                    return Activator.CreateInstance(type, instanceParam);
+                }
+            }
+            catch(Exception ex)
+            {
+                throw ex;
             }
         }
 

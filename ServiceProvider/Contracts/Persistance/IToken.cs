@@ -1,5 +1,5 @@
 ﻿using System;
-using WriteModel.Authentication;
+using ServiceProvider.Contracts.Authentication;
 
 namespace ServiceProvider.Contracts.Persistance
 {

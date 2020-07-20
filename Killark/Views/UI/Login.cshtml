@@ -1,0 +1,81 @@
+﻿@model Killark.Models.LoginViewModel
+@{
+    Layout = "~/Views/Shared/Login_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KILLARK - LOGIN</title>
+
+</head>
+<body ng-controller="LoginController">
+        <div class="ful-body-wrap">
+            <div class="ful-body login-page">
+                <div class="center-pos">
+                    <section class="log-form">
+                        <div class="row">
+                            <div class="col-md-12 col-lg-12 logo">
+                                <h4>Login</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div id="loginDiv" class="login_container">
+                                <div class="form-body">
+                                    <div class="pb input-lrg">
+                                        <label>Email Address</label>
+                                        <input id="email" type="text"
+                                               ng-model="login.UserName"
+                                               ng-validate="req,UserId/Email"/>
+                                    </div>
+                                    <div class="input-lrg">
+                                        <label>Password</label>
+                                        <input id="password" style="font-size: 0.9rem;display:inline;"
+                                               type="password" ng-model="login.Password"
+                                               ng-validate="req,Password"
+                                               />
+                                        <i class="fa fa-eye-slash pwd_hide" ng-click="ShowPassword('password')" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                                <div class="two-btn login_button">
+                                    <div class="left_empty">
+                                        <label></label>
+                                    </div>
+                                    <div class="button_loginpart">
+                                        <input type="checkbox" value="lsRememberMe"
+                                               id="rememberMe" style="display: inline-block;"> <label>Remember me.</label>
+                                        <button class="kil-btn kil-btn-small btf" ng-click="Login(login)" id="lnkLogin">Login</button>
+                                    </div>
+                                </div>
+                                <div class="forget_wrapper">
+                                    <div class="left_empty">
+                                        <label></label>
+                                    </div>
+                                    <div class="forget_part forget_container">
+                                        <a href="javascript:void(0);"
+                                           onclick="window.location.href = '@Url.Action("ForgotPassword", "Account")'">Forgot your password?</a>
+                                    </div>
+                                </div>
+                                <div class="register_wrapper">
+                                    <div class="left_empty">
+                                        <label></label>
+                                    </div>
+                                    <div class="register_link">
+                                        <a href="javascript:void(0);"
+                                           onclick="window.location.href = '@Url.Action("UserProfile", "Account")'">Create an account</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+</body>
+</html>
+<script type="text/javascript" src="/js/Hubbell/Login.js?v=2.12"></script>
+<script type="text/javascript">
+    _login.Init();
+</script>

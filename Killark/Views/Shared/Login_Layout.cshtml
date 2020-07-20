@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="stylesheet" href="/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/css/jquery.jscrollpane.codrops2.css" />
+    <link rel="stylesheet" href="/css/jquery.mCustomScrollbar.min.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/style.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/custom-style.css?v=1.1" />
+    <link rel="stylesheet" href="/css/Alertify/alertify.bootstrap.css" />
+    <link rel="stylesheet" href="/css/ALertify/alertify.core.css" />
+    <link rel="stylesheet" href="/css/Alertify/alertify.default.css" />
+    <link rel="stylesheet" href="/Hubbellcustom/style/tile-popup.css" />
+
+    <script type="text/javascript" src="/js/Utility/Resource.js?v=1.1"></script>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/Angular/angular.min.js?v=1.1"></script>
+    <script type="text/javascript" src="/js/Alert/jquery.model.min.js"></script>
+    <script type="text/javascript" src="/js/Alert/alert.min.js"></script>
+    <script type="text/javascript" src="/js/Alert/notify.js"></script>
+    <script type="text/javascript" src="/js/Utility/Helper.js?v=1.1"></script>
+    <script type="text/javascript" src="/js/Angular/App.Layout.js?v=1.1"></script>
+    <script type="text/javascript" src="/js/Angular/jsAngular.Utility.js?v=1.1"></script>
+    <script type="text/javascript" src="/js/Utility/Validate.js"></script>
+</head>
+<body ng-app="myApp">
+    <div id="#page-preloader"></div>
+    <header class="kil-head">
+        <div class="head-inner">
+            <div class="head-inner-a">
+                <a href="javascript:void(0)"><img src="/images/killark-logo.png" alt="killark-logo" title="killark-logo"></a>
+            </div>
+            <div class="head-inner-b">
+                <h1 id="applicationName">Enclosure configurator</h1>
+            </div>
+            <div class="head-inner-c">
+                <a href="javascript:void(0)"><img src="/images/hubbell-logo.png" alt="Hubbell" title="Hubbell"></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="body-content">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <div class="kil-footer">
+            <div class="footer_contents">
+                <div class="footer-inner-version">
+                    <span>VERSION : 2020</span>
+                </div>
+                <div class="footer-inner-a">
+                    <span>&copy; @DateTime.UtcNow.Year - Hubbell incorporated</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

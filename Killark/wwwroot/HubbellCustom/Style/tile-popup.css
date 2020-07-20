@@ -1,0 +1,115 @@
+#myModal.tileModal {
+    height: auto;
+    background: #fff;
+    border-radius: 10px;
+    height: 27rem;
+    box-shadow: 1px 1px 14px 7px rgba(0, 0, 0, 0.23), 0 4px 20px 0 rgba(0, 0, 0, 0.36);
+}
+.tile-body-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background: #fff;
+    border-radius: 10px;
+    margin-top: 2.5rem;
+}
+.tile-head {
+    text-align: center;
+    margin: 0;
+    padding: 25px 0;
+    font-size: 20px;
+    letter-spacing: 0.4px;
+}
+.tile-option-head{
+    font-size: 18px;
+}
+.tile-footer {
+    text-align: center;
+    padding: 30px 0;
+}
+.icon-arrow {
+    position: relative;
+    right: -5px;
+    top: 3px;
+}
+.tile-body-wrapper > .tile-box {
+    width: 11rem;
+    height: 13rem;
+    padding: 0 8px;
+}
+
+.tile-body-wrapper input[type="radio"] {
+    display: none;
+}
+
+.tile-body-wrapper input[type="radio"]:not(:disabled) ~ label {
+    cursor: pointer;
+}
+
+.tile-body-wrapper input[type="radio"]:disabled ~ label {
+    color: #bcc2bf;
+    border-color: #bcc2bf;
+    box-shadow: none;
+    cursor: not-allowed;
+}
+
+.tile-body-wrapper label {
+    height: 100%;
+    display: block;
+    background: white;
+    border: 2px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    box-shadow: 0px 3px 10px -2px rgba(161, 170, 166, 0.5);
+    position: relative;
+    background: url(../../../Content/images/killark-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75%;
+}
+.tile-body-wrapper label:hover {
+    border: 2px solid #199C66;
+}
+
+.tile-body-wrapper input[type="radio"]:hover + label,
+.tile-body-wrapper input[type="radio"]:checked + label {
+    color: #000;
+    border: 2px solid #00000085;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.tile-body-wrapper input[type="radio"]:checked + label::after {
+    color: #199c66;
+    font-family: FontAwesome;
+    border: 2px solid #199c66;
+    content: "\f00c";
+    font-size: 24px;
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    background: white;
+    box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+}
+
+input[type="radio"]#control_05:checked + label {
+    background: red;
+    border-color: red;
+}
+
+p {
+    font-weight: 900;
+}
+
+@media only screen and (max-width: 700px) {
+    .tile-body-wrapper {
+        flex-direction: column;
+    }
+}

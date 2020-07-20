@@ -1,0 +1,923 @@
+﻿@model Killark.ViewModel.CoverViewModel
+
+<script>
+    $(function () {
+        onOperatorLoad();
+    });
+</script>
+
+<div class="hc-box1 hc-box-height even-cls-box full-height">
+    <!-- GO PushButton Pop up form starts-->
+    <div class="clearfix popup-menu submenu6 submenu6css mpop" id="GOPushbuttonsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGOPushButton" type="GO_PushButtons">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GOPushButtonSubType",
+                        Model.GOViewModel.PushButtons.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @class = "goDropDown", @id = "GOPushButtonSubType" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Color Option</label>
+                        <select class="goDropDown" id="GOPushButtonColorOption"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Contact Configuration</label>
+                        <select class="goDropDown" id="GOPushButtonContactConfiguration"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>RB Contact Configuration</label>
+                        <select class="goDropDown" id="GOPushButtonRightButtonContactConfiguration"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select class="goDropDown" id="GOPushButtonNamePlateOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select class="goDropDown" id="GOPushButtonAccessoryOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Options</label>
+                        <select class="goDropDown" id="GOPushButtonLockoutOptions"></select>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i16.png" alt="Preview" title="GO Push Buttons" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="goReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="pushButton">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GO PushButton Pop up form ends-->
+    <!-- GO PilotLight Pop up form starts-->
+    <div class="clearfix popup-menu submenu6 submenu6css mpop" id="GOPilotLightsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGOPilotLight" type="GO_PilotLights">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GOPilotLightTypeSubType",
+                        Model.GOViewModel.PilotLights.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @class = "goDropDown", @id = "GOPilotLightTypeSubType" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Color Option</label>
+                        <select class="goDropDown" id="GOPilotLightColorOption"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Pilot Light Voltage</label>
+                        <select class="goDropDown" id="GOPilotLightVoltage"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Contact Configuration</label>
+                        <select class="goDropDown" id="GOPilotLightContactConfiguration"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select class="goDropDown" id="GOPilotLightNamePlateOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select class="goDropDown" id="GOPilotLightAccessoryOptions"></select>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i16.png" alt="Preview" title="GO Push Buttons" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="goReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="pilotLight">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GO PilotLight Pop up form ends-->
+    <!-- GO SelectorSwitches Pop up form starts-->
+    <div class="clearfix popup-menu submenu6 submenu6css mpop" id="GOSelectorSwitchesPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGOSelectorSwitch" type="GO_SelectorSwitches">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GOSelectorSwitchSubType",
+                        Model.GOViewModel.SelectorSwitches.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @class = "goDropDown", @id = "GOSelectorSwitchSubType" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Selector Switch Position</label>
+                        <select class="goDropDown" id="GOSelectorSwitchPosition"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Contact Configuration</label>
+                        <select class="goDropDown" id="GOSelectorSwitchContactConfiguration"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select class="goDropDown" id="GOSelectorSwitchNamePlateOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select class="goDropDown" id="GOSelectorSwitchAccessoryOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Options</label>
+                        <select class="goDropDown" id="GOSelectorSwitchLockoutOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Type</label>
+                        <select class="goDropDown" id="GOSelectorSwitchLockoutType"></select>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i16.png" alt="Preview" title="GO Push Buttons" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="goReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="selectorSwitches">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GO SelectorSwitches Pop up form ends-->
+    <!-- GO SpecialityOpeators Pop up form starts-->
+    <div class="clearfix popup-menu submenu6 submenu6css mpop" id="GOSpecialityOpeatorsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGOSpecialityOpeator" type="GO_SpecialOperators">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GOSpecialityOpeatorSubType",
+                        Model.GOViewModel.SpecialityOpeators.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @class = "goDropDown", @id = "GOSpecialityOpeatorSubType" })
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i16.png" alt="Preview" title="GO Push Buttons" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="goReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="specialityOperator">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GO SpecialityOpeators Pop up form ends-->
+    <!-- Blank Pop up form starts-->
+    <div class="clearfix popup-menu submenu6 submenu6css mpop" id="GOBlankPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGOBlank" type="GO_Blank">
+                <div class="col-md-8 pop-lft-dis-custom pop-lft-dis" style="width:37rem;">
+                    <div class="pfrm-holes t-field" style="padding-left: 0;">
+                        <label>Plugged</label>
+                        <span class="plug-frm customCheckbox">
+                            <input type="checkbox" name="plugged">
+                        </span>
+                    </div>
+                    <div class="pfrm-holes pop1 t-field">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="./../Content/images/i3.png" alt="Preview" title="Rectangular Window Opening" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="blankHoleReadoutString" value="" readonly>
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="blankOperator">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Blank Pop up form ends-->
+    <!-- Rectangular Pop up form starts-->
+    <div class="clearfix submenu7 mpop widow_open_popup" id="rectPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormRect" type="RectangularWindowOption">
+                <div class="col-md-8 pop-lft-dis-custom">
+                    <div class="pfrm-group f-field">
+                        <label>Sub type</label>
+                        <select id="SelectedRectangularWindowOption" onchange="windowOptionOnChange('rectangular');" uid="subType"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Number of Window Opening</label>
+                        <input type="number" id="maxRectValue" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/Window/GLXR13B.jpg" alt="Preview" title="Rectangular Window Opening" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" id="rectangularReadout" value="GLXR13B" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="rectangular">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Rectangular Pop up form ends-->
+    <!-- Circular Pop up form starts-->
+    <div class="clearfix submenu7 mpop widow_open_popup" id="circularPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormCircular" type="CircularWindowOption">
+                <div class="col-md-9 pop-lft-dis-custom">
+                    <div class="pfrm-group f-field">
+                        <label>Sub type</label>
+                        <select id="SelectedCircularWindowOption" onchange="windowOptionOnChange('circular');" uid="subType"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Number of Window Opening</label>
+                        <input type="number" id="maxCircleValue" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i22.png" alt="Preview" title="Circular Window Opening" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" id="circularReadout" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="circular">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Circular Pop up form ends-->
+    <!-- GZ PushButton Pop up form starts-->
+    <div class="clearfix popup-menu mpop" id="GZPushbuttonsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGZPushButton" type="GZ_PushButtons">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GZPushButtonSubType",
+                        Model.GZViewModel.PushButtons.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @uid = "subType", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Insert Color</label>
+                        <select class="gzDropDown" id="GZPushButtonInsertColor"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Contact Configuration</label>
+                        <select class="gzDropDown" id="GZPushButtonContactConfiguration"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Specify LED Voltage</label>
+                        <select class="gzDropDown" id="GZPushButtonSpecifyLEDVoltage"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select class="gzDropDown" id="GZPushButtonAccessoryOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Options</label>
+                        <select class="gzDropDown" id="GZPushButtonLockoutOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select class="gzDropDown" id="GZPushButtonNamePlateOptions"></select>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_1 d-none">
+                        <label>Custom 1</label>
+                        <div class="select-wraper">
+                            <input id="GZPushButtonCustomText1" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_2 d-none">
+                        <label>Custom 2</label>
+                        <div class="select-wraper">
+                            <input id="GZPushButtonCustomText2" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_3 d-none">
+                        <label>Custom 3</label>
+                        <div class="select-wraper">
+                            <input id="GZPushButtonCustomText3" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_4 d-none">
+                        <label>Custom 4</label>
+                        <div class="select-wraper">
+                            <input id="GZPushButtonCustomText4" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/PUSHBUTTONS.jpg" 
+                             alt="Preview" title="GZ Push Buttons" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="gzReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="pushButton">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GZ PushButton Pop up form ends-->
+    <!-- GZ PilotLight Pop up form starts-->
+    <div class="clearfix popup-menu mpop" id="GZPilotLightsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGZPilotLight" type="GZ_PilotLights">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Specify Lens Color</label>
+                        @Html.DropDownList("GZPilotLightSpecifyLensColor",
+                        Model.GZViewModel.PilotLights.PilotLightType.SpecifyLensColor
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @uid = "subType", @class = "gzDropDown"})
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Specify LED Voltage</label>
+                        @Html.DropDownList("GZPilotLightSpecifyLEDVoltage",
+                        Model.GZViewModel.PilotLights.PilotLightType.SpecifyLEDVoltage
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { onchange = "", @uid = "GZPilotLightSpecifyLEDVoltage", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field" style="display: none;">
+                        <label>Accessory Options</label>
+                        @Html.DropDownList("GZPilotLightAccessoryOptions",
+                        Model.GZViewModel.PilotLights.PilotLightType.AccessoryOptions
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { onchange = "", @uid = "GZPilotLightAccessoryOptions", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field" style="display: none;">
+                        <label>Lockout Options</label>
+                        @Html.DropDownList("GZPilotLightLockoutOptions",
+                        Model.GZViewModel.PilotLights.PilotLightType.LockoutOptions
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { onchange = "", @uid = "GZPilotLightLockoutOptions", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        @Html.DropDownList("GZPilotLightNamePlateOptions",
+                        Model.GZViewModel.PilotLights.PilotLightType.NamePlateOptions
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @uid = "GZPilotLightNamePlateOptions", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_1 d-none">
+                        <label>Custom 1</label>
+                        <div class="select-wraper">
+                            <input id="GZPilotLightCustomText1" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_2 d-none">
+                        <label>Custom 2</label>
+                        <div class="select-wraper">
+                            <input id="GZPilotLightCustomText2" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_3 d-none">
+                        <label>Custom 3</label>
+                        <div class="select-wraper">
+                            <input id="GZPilotLightCustomText3" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_4 d-none">
+                        <label>Custom 4</label>
+                        <div class="select-wraper">
+                            <input id="GZPilotLightCustomText4" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/PILOTLIGHT.jpg" 
+                             alt="Preview" title="GZ Pilot Light" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="gzReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="pilotLight">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GZ PilotLight Pop up form ends-->
+    <!-- GZ SelectorSwitches Pop up form starts-->
+    <div class="clearfix popup-menu mpop" id="GZSelectorSwitchesPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGZSelectorSwitch" type="GZ_SelectorSwitches">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GZSelectorSwitchSubType",
+                        Model.GZViewModel.SelectorSwitches.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @uid = "subType", @class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Specify Switch Type</label>
+                        <select id="GZSelectorSwitchSpecifySwitchType" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Contact Configuration</label>
+                        <select id="GZSelectorSwitchContactConfiguration" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select id="GZSelectorSwitchAccessoryOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Options</label>
+                        <select id="GZSelectorSwitchLockoutOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Position</label>
+                        <select id="GZSelectorSwitchLockoutPosition" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select id="GZSelectorSwitchNamePlateOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_1 d-none">
+                        <label>Custom 1</label>
+                        <div class="select-wraper">
+                            <input id="GZSelectorSwitchCustomText1" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_2 d-none">
+                        <label>Custom 2</label>
+                        <div class="select-wraper">
+                            <input id="GZSelectorSwitchCustomText2" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_3 d-none">
+                        <label>Custom 3</label>
+                        <div class="select-wraper">
+                            <input id="GZSelectorSwitchCustomText3" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_4 d-none">
+                        <label>Custom 4</label>
+                        <div class="select-wraper">
+                            <input id="GZSelectorSwitchCustomText4" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/SELECTORSWITCH.jpg" 
+                             alt="Preview" title="GZ Selector Switches" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="gzReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="selectorSwitches">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GZ SelectorSwitches Pop up form ends-->
+    <!-- GZ SpecialityOpeators Pop up form starts-->
+    <div class="clearfix popup-menu mpop" id="GZSpecialityOpeatorsPop">
+        <div id="myForm" class="customPopup">
+            <form id="popFormGZSpecialityOpeator" type="GZ_SpecialityOperators">
+                <div class="col-md-8 pop-lft-dis-custom" style="width: 37rem;">
+                    <div class="pfrm-group f-field">
+                        <label>Operator Sub Type</label>
+                        @Html.DropDownList("GZSpecialityOpeatorSubType",
+                        Model.GZViewModel.SpecialityOpeators.OperatorSubType
+                        .Select(x => new SelectListItem() { Text = x, Value = x }),
+                        new { @uid = "subType",@class = "gzDropDown" })
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Specify Resistance Sub-Type</label>
+                        <select id="GZSpecialityOperatorSpecifyResistanceSubType" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Accessory Options</label>
+                        <select id="GZSpecialityOperatorAccessoryOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field">
+                        <label>Lockout Options</label>
+                        <select id="GZSpecialityOperatorLockoutOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field custom-text-identifier">
+                        <label>Nameplate Options</label>
+                        <select id="GZSpecialityOperatorNamePlateOptions" class="gzDropDown"></select>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_1 d-none">
+                        <label>Custom 1</label>
+                        <div class="select-wraper">
+                            <input id="GZSpecialityOperatorCustomText1" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_2 d-none">
+                        <label>Custom 2</label>
+                        <div class="select-wraper">
+                            <input id="GZSpecialityOperatorCustomText2" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_3 d-none">
+                        <label>Custom 3</label>
+                        <div class="select-wraper">
+                            <input id="GZSpecialityOperatorCustomText3" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes t-field customUpdate customUpdate_4 d-none">
+                        <label>Custom 4</label>
+                        <div class="select-wraper">
+                            <input id="GZSpecialityOperatorCustomText4" type="text" />
+                        </div>
+                    </div>
+                    <div class="pfrm-holes pop1">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/SPECIALITYOPERATOR.jpg" 
+                             alt="Preview" title="GZ Speciality Operator" class="previewImage">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="gzReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="specialityOperator">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- GZ SpecialityOpeators Pop up form ends-->
+
+    <div class="hc-box-inner scrollstyle sameheight_large_device" style="overflow-y: auto;overflow-x: hidden;">
+        <div class="cover-option-header">
+            <label>Cover Option</label>
+        </div>
+        <div class="tab-content">
+            <div id="view-tab1" class="tab-pane fade in active">
+                <div class="clearfix box1-menu cus-scroll">
+                    <ul class="list-unstyled b1-par-menu">
+
+                        <!--GO Operators starts-->
+                        @if (ViewBag.Product == "EXB")
+                        {
+                            <li class="b1_first_menu">
+                                <a href="javascript:void(0)" class="cover-type">
+                                    <img src="~/Content/images/GOOPERATOR/GOPushButton.JPG" alt="Go Operator">
+                                    GO Operator
+                                </a>
+                                <ul class="list-unstyled b1-sub-menu">
+                                    <li>
+                                        <a href="GOPushbuttonsPop">
+                                            <img src="~/Content/images/GOOPERATOR/GOPushButton.JPG" alt="Push Buttons">
+                                            Push Buttons
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="GOPilotLightsPop">
+                                            <img src="~/Content/images/GOOPERATOR/GOPilotLight.JPG" alt="Pilot Light">
+                                            Pilot Light
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="GOSelectorSwitchesPop">
+                                            <img src="~/Content/images/GOOPERATOR/GOSelectorSwitches.JPG" alt="Selector Switches">
+                                            Selector Switches
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="GOSpecialityOpeatorsPop">
+                                            <img src="~/Content/images/GOOPERATOR/GOSpecialityOperator.JPG" alt="speciality operator">
+                                            Speciality Operator
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="GOBlankPop">
+                                            <img src="~/Content/images/i16.png" alt="blank hole (3/4-14 NPSM)">
+                                            Blank Hole (3/4 NPSM)
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+                        <!--GO Operators end-->
+
+                        <li class="b1_first_menu">
+                            <a href="javascript:void(0)" class="cover-type">
+                                <img src="~/Content/images/PUSHBUTTONS.jpg" alt="GZ Operator">
+                                GZ Operator
+                            </a>
+                            <ul class="list-unstyled b1-sub-menu">
+                                <li>
+                                    <a href="GZPushbuttonsPop">
+                                        <img src="~/Content/images/PUSHBUTTONS.jpg" alt="GZPushbuttons">
+                                        Push Buttons
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="GZPilotLightsPop">
+                                        <img src="~/Content/images/PILOTLIGHT.jpg" alt="GZPilotLights">
+                                        Pilot Lights
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="GZSelectorSwitchesPop">
+                                        <img src="~/Content/images/SELECTORSWITCH.jpg" alt="GZSelectorSwitches">
+                                        Selector Switches
+                                    </a>
+                                </li>
+                                <li class="d-none">
+                                    <a href="GZSpecialityOpeatorsPop">
+                                        <img src="~/Content/images/SPECIALITYOPERATOR.jpg" alt="GZSpecialityOpeators">
+                                        Speciality Opeators
+                                    </a>
+                                </li>
+                                @if (ViewBag.Product == "EXBLT")
+                                {
+                                    <li>
+                                        <a href="GOBlankPop">
+                                            <img src="~/Content/images/i16.png" alt="blank hole (3/4-14 NPSM)">
+                                            Blank Hole (3/4 NPSM)
+                                        </a>
+                                    </li>
+                                }
+                            </ul>
+                        </li>
+
+                        <li class="b1_second_menu">
+                            <a href="javascript:void(0)" class="cover-type">
+                                <img src="~/Content/images/i2.png" alt="Window Option">
+                                Window Opening
+                            </a>
+                            <ul class="list-unstyled b1-sub-menu">
+                                <li id="rectangularPop">
+                                    <a href="rectPop">
+                                        <img src="~/Content/images/i21.png" alt="Rectangular">
+                                        Rectangular
+                                    </a>
+                                </li>
+                                <li id="circlePop">
+                                    <a href="circularPop">
+                                        <img src="~/Content/images/i22.png" alt="Circular">
+                                        Circular
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

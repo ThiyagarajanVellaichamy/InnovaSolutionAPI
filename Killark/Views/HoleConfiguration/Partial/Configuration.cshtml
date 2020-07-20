@@ -1,0 +1,105 @@
+﻿@model Killark.ViewModel.ConfigurationViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="~/Content/HubbellCustom/HoleConfiguration/Script/SAT/SAT.min.js"></script>
+</head>
+<body>
+    <div class="ful-body-wrap">
+        <div class="ful-body hole-config-page">
+            <div class="kil-bdy-wrap kil-inpbdy-wrap" id="same-height">
+                <div class="kil-inpage-wrap">
+                    <!-- 3box wrapper starts  class="bottom-active right-active left-active" -->
+                    <div id="panel-wrap" class="left-active bottom-active right-active">
+                        <div class="clearfix box3-wrap full-height marginbuttom">
+                            <div class="clearfix box3-row full-height">
+                                <!-- View Option goes here -->
+                                <div class="setup-content" id="step-2">
+                                    @{
+                                        Html.RenderPartial("Partial/CoverView", Model.CoverViewModel as Killark.ViewModel.CoverViewModel);
+                                    }
+                                </div>
+                                <div class="setup-content" id="step-3">
+                                    @{
+                                        Html.RenderPartial("Partial/BoxView");
+                                    }
+                                </div>
+                                <!-- box-2 starts -->
+                                <div class="hc-box2 hc-box-height even-cls-box full-height sameheight_labtop_hcbox2" id="sameheight_large_hcbox2">
+                                    <div class="hc-box-inner">
+                                        <div class="hc-box-innersp">
+                                            <svg id="SVGContainer" class="SVGContainer svgfull-height"></svg>
+                                        </div>
+                                    </div>
+                                    <div class="row option_group" style="border-style:groove; border-width:1px; border-color:black; width: 100%; margin:0;border-radius: 3px;">
+                                        <div class="col-md-7 scrollstyle grid_opt_section" style="height: 100%;">
+                                            <div class="col-md-12 option1">
+                                                <div class="checkbox">
+                                                    <div class="grid_opt_label">
+                                                        <label class="label_title"><input type="checkbox" value="" name="gridOption">Grid Option</label>
+                                                    </div>
+                                                    <div class="clearfix padd_grid">
+                                                        <label  class="paddr label_title">Spacing</label>
+                                                        <select name="gridSpacing">
+                                                            <option>1/4"</option>
+                                                            <option>1/2"</option>
+                                                            <option>3/4"</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 option2">
+                                                <div class="checkbox">
+                                                    <div class="alignment_opt_label">
+                                                        <label class="label_title"><input type="checkbox" value="" name="alignmentOption">Alignment Option</label>
+                                                    </div>
+                                                    <div class="box3_btn">
+                                                        <button name="alignmentVertical" class="kil-btn kil-btn-small btf">Vertical</button>
+                                                        <button name="alignmentHorizontal" class="kil-btn kil-btn-small">Horizontal</button>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-5 message_part">
+                                            <div class="clearfix padd_grid bx3-msg" style="padding-top: 4px;">
+                                                <label class="label_title">Message :</label>
+                                                <p name="showMessage">
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- box-2 end -->
+                                <!-- box-3 start -->
+                                <div class="hc-box3 hc-box-height even-cls-box full-height sameheight_large_device">
+                                    <div class="hc-box-inner cus-scroll">
+                                        <div class="hc-box-inner-wrap">
+                                            <div class="cover-option-header">
+                                                <label>Operators/Holes</label>
+                                            </div>
+                                            <div class="clearfix hc-info-data table-full" style="margin: 0px !important; border: 0px !important">
+                                                <div class="table-responsive scrollstyle" style="height: 64vh; font-size: 0.9rem;">
+                                                    <div class="bot-table xytable-font-size">
+                                                        <table class="table" id="xyTable">
+                                                            <tbody></tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- box-3 End -->
+                                </div>
+                                <!-- box-3 end -->
+                            </div>
+                            <!-- 3box wrapper End -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

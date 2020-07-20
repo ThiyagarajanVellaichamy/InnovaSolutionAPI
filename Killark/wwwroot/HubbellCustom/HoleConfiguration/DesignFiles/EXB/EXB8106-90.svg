@@ -1,0 +1,4953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FF0000;stroke-miterlimit:10;stroke-dasharray:15.4959,2.5826,2.5826,2.5826;}
+	.st2{fill:none;stroke:#199C66;stroke-miterlimit:10;}
+</style>
+<g id="Dimension__x28_ANSI_x29_">
+	<g id="INSERT">
+		<g id="CIRCLE">
+			<path class="st0" d="M611.8,600c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C606.5,611.8,611.8,606.5,611.8,600L611.8,600z"/>
+		</g>
+		<g id="LINE">
+			<line class="st0" x1="588.2" y1="600" x2="600" y2="588.2"/>
+		</g>
+		<g id="ARC">
+			<path class="st0" d="M600,588.2c-6.5,0-11.8,5.3-11.8,11.8"/>
+		</g>
+		<g id="HATCH">
+			<path d="M588.2,600l11.7-11.8C593.5,588.2,588.2,593.5,588.2,600L588.2,600z"/>
+		</g>
+		<g id="LINE_1_">
+			<line class="st0" x1="611.8" y1="600" x2="600" y2="611.8"/>
+		</g>
+		<g id="ARC_1_">
+			<path class="st0" d="M600,611.8c6.5,0,11.8-5.3,11.8-11.8"/>
+		</g>
+		<g id="HATCH_1_">
+			<path d="M611.8,600L600,611.8C606.5,611.8,611.8,606.5,611.8,600L611.8,600z"/>
+		</g>
+		<g id="POLYLINE">
+			<polyline class="st0" points="600,600 600,588.2 588.2,600 600,600 			"/>
+		</g>
+		<g id="SOLID">
+			<polygon points="600,600 600,588.2 588.2,600 			"/>
+		</g>
+		<g id="POLYLINE_1_">
+			<polyline class="st0" points="600,600 588.2,600 611.8,600 600,600 			"/>
+		</g>
+		<g id="SOLID_1_">
+			<polygon points="600,600 588.2,600 611.8,600 			"/>
+		</g>
+		<g id="POLYLINE_2_">
+			<polyline class="st0" points="600,600 611.8,600 600,611.8 600,600 			"/>
+		</g>
+		<g id="SOLID_2_">
+			<polygon points="600,600 611.8,600 600,611.8 			"/>
+		</g>
+		<g id="POLYLINE_3_">
+			<polyline class="st0" points="600,600 600,611.8 600,600 			"/>
+		</g>
+		<g id="SOLID_3_">
+			<path d="M600,600v11.8V600z"/>
+		</g>
+	</g>
+	<g id="INSERT_1_">
+		<g id="CIRCLE_10_">
+			<path class="st0" d="M611.8,600c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C606.5,611.8,611.8,606.5,611.8,600L611.8,600z"/>
+		</g>
+		<g id="LINE_21_">
+			<line class="st0" x1="600" y1="588.2" x2="588.2" y2="600"/>
+		</g>
+		<g id="ARC_20_">
+			<path class="st0" d="M588.2,600c0-6.5,5.3-11.8,11.8-11.8"/>
+		</g>
+		<g id="HATCH_2_">
+			<path d="M600,588.2L588.2,600C588.2,593.5,593.5,588.2,600,588.2L600,588.2z"/>
+		</g>
+		<g id="LINE_22_">
+			<line class="st0" x1="600" y1="611.8" x2="611.8" y2="600"/>
+		</g>
+		<g id="ARC_21_">
+			<path class="st0" d="M611.8,600c0,6.5-5.3,11.8-11.8,11.8"/>
+		</g>
+		<g id="HATCH_3_">
+			<path d="M600,611.8l11.8-11.8C611.8,606.5,606.5,611.8,600,611.8L600,611.8z"/>
+		</g>
+		<g id="POLYLINE_4_">
+			<polyline class="st0" points="600,600 588.2,600 600,588.2 600,600 			"/>
+		</g>
+		<g id="SOLID_4_">
+			<polygon points="600,600 600,588.2 588.2,600 			"/>
+		</g>
+		<g id="POLYLINE_5_">
+			<polyline class="st0" points="600,600 600,588.2 600,611.8 600,600 			"/>
+		</g>
+		<g id="SOLID_5_">
+			<polygon points="600,600 600,611.8 600,588.2 			"/>
+		</g>
+		<g id="POLYLINE_6_">
+			<polyline class="st0" points="600,600 600,611.8 611.8,600 600,600 			"/>
+		</g>
+		<g id="SOLID_6_">
+			<polygon points="600,600 611.8,600 600,611.8 			"/>
+		</g>
+		<g id="POLYLINE_7_">
+			<polyline class="st0" points="600,600 611.8,600 600,600 			"/>
+		</g>
+		<g id="SOLID_7_">
+			<polygon points="600,600 600,600 611.8,600 			"/>
+		</g>
+	</g>
+	<g id="INSERT_2_">
+		<g id="CIRCLE_16_">
+			<path class="st0" d="M611.8,1137c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C606.5,1148.8,611.8,1143.5,611.8,1137L611.8,1137z"/>
+		</g>
+		<g id="LINE_72_">
+			<line class="st0" x1="600" y1="1148.8" x2="588.2" y2="1137"/>
+		</g>
+		<g id="ARC_66_">
+			<path class="st0" d="M588.2,1137c0,6.5,5.3,11.8,11.8,11.8"/>
+		</g>
+		<g id="HATCH_4_">
+			<path d="M600,1148.7l-11.8-11.7C588.2,1143.5,593.5,1148.7,600,1148.7L600,1148.7z"/>
+		</g>
+		<g id="LINE_73_">
+			<line class="st0" x1="600" y1="1125.2" x2="611.8" y2="1137"/>
+		</g>
+		<g id="ARC_67_">
+			<path class="st0" d="M611.8,1137c0-6.5-5.3-11.8-11.8-11.8"/>
+		</g>
+		<g id="HATCH_5_">
+			<path d="M600,1125.2l11.8,11.8C611.8,1130.5,606.5,1125.2,600,1125.2L600,1125.2z"/>
+		</g>
+		<g id="POLYLINE_8_">
+			<polyline class="st0" points="600,1137 588.2,1137 600,1148.8 600,1137 			"/>
+		</g>
+		<g id="SOLID_8_">
+			<polygon points="600,1137 588.2,1137 600,1148.8 			"/>
+		</g>
+		<g id="POLYLINE_9_">
+			<polyline class="st0" points="600,1137 600,1148.8 600,1125.2 600,1137 			"/>
+		</g>
+		<g id="SOLID_9_">
+			<polygon points="600,1137 600,1148.8 600,1125.2 			"/>
+		</g>
+		<g id="POLYLINE_10_">
+			<polyline class="st0" points="600,1137 600,1125.2 611.8,1137 600,1137 			"/>
+		</g>
+		<g id="SOLID_10_">
+			<polygon points="600,1137 600,1125.2 611.8,1137 			"/>
+		</g>
+		<g id="POLYLINE_11_">
+			<polyline class="st0" points="600,1137 611.8,1137 600,1137 			"/>
+		</g>
+		<g id="SOLID_11_">
+			<path d="M600,1137h11.8H600z"/>
+		</g>
+	</g>
+	<g id="INSERT_3_">
+		<g id="CIRCLE_17_">
+			<path class="st0" d="M1172.8,600c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C1167.5,611.8,1172.8,606.5,1172.8,600L1172.8,600z"/>
+		</g>
+		<g id="LINE_225_">
+			<line class="st0" x1="1161" y1="611.8" x2="1149.2" y2="600"/>
+		</g>
+		<g id="ARC_82_">
+			<path class="st0" d="M1149.2,600c0,6.5,5.3,11.8,11.8,11.8"/>
+		</g>
+		<g id="HATCH_6_">
+			<path d="M1161,611.8l-11.8-11.7C1149.1,606.5,1154.5,611.8,1161,611.8L1161,611.8z"/>
+		</g>
+		<g id="LINE_226_">
+			<line class="st0" x1="1161" y1="588.2" x2="1172.8" y2="600"/>
+		</g>
+		<g id="ARC_83_">
+			<path class="st0" d="M1172.8,600c0-6.5-5.3-11.8-11.8-11.8"/>
+		</g>
+		<g id="HATCH_7_">
+			<path d="M1161,588.2l11.8,11.9C1172.8,593.5,1167.5,588.2,1161,588.2L1161,588.2z"/>
+		</g>
+		<g id="POLYLINE_12_">
+			<polyline class="st0" points="1161,600 1149.2,600 1161,611.8 1161,600 			"/>
+		</g>
+		<g id="SOLID_12_">
+			<polygon points="1161,600 1149.2,600 1161,611.8 			"/>
+		</g>
+		<g id="POLYLINE_13_">
+			<polyline class="st0" points="1161,600 1161,611.8 1161,588.2 1161,600 			"/>
+		</g>
+		<g id="SOLID_13_">
+			<polygon points="1161,600 1161,611.8 1161,588.2 			"/>
+		</g>
+		<g id="POLYLINE_14_">
+			<polyline class="st0" points="1161,600 1161,588.2 1172.8,600 1161,600 			"/>
+		</g>
+		<g id="SOLID_14_">
+			<polygon points="1161,600 1161,588.2 1172.8,600 			"/>
+		</g>
+		<g id="POLYLINE_15_">
+			<polyline class="st0" points="1161,600 1172.8,600 1161,600 			"/>
+		</g>
+		<g id="SOLID_15_">
+			<path d="M1161,600h11.8H1161z"/>
+		</g>
+	</g>
+	<g id="INSERT_4_">
+		<g id="CIRCLE_18_">
+			<path class="st0" d="M50.8,600c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C45.5,611.8,50.8,606.5,50.8,600L50.8,600z"/>
+		</g>
+		<g id="LINE_362_">
+			<line class="st0" x1="39" y1="611.8" x2="50.8" y2="600"/>
+		</g>
+		<g id="ARC_98_">
+			<path class="st0" d="M50.8,600c0,6.5-5.3,11.8-11.8,11.8"/>
+		</g>
+		<g id="HATCH_8_">
+			<path d="M39,611.8l11.8-11.7C50.9,606.5,45.5,611.8,39,611.8L39,611.8z"/>
+		</g>
+		<g id="LINE_363_">
+			<line class="st0" x1="39" y1="588.2" x2="27.2" y2="600"/>
+		</g>
+		<g id="ARC_99_">
+			<path class="st0" d="M27.2,600c0-6.5,5.3-11.8,11.8-11.8"/>
+		</g>
+		<g id="HATCH_9_">
+			<path d="M39,588.2l-11.8,11.9C27.2,593.5,32.5,588.2,39,588.2L39,588.2z"/>
+		</g>
+		<g id="POLYLINE_16_">
+			<polyline class="st0" points="39,600 50.8,600 39,611.8 39,600 			"/>
+		</g>
+		<g id="SOLID_16_">
+			<polygon points="39,600 39,611.8 50.8,600 			"/>
+		</g>
+		<g id="POLYLINE_17_">
+			<polyline class="st0" points="39,600 39,611.8 39,588.2 39,600 			"/>
+		</g>
+		<g id="SOLID_17_">
+			<polygon points="39,600 39,588.2 39,611.8 			"/>
+		</g>
+		<g id="POLYLINE_18_">
+			<polyline class="st0" points="39,600 39,588.2 27.2,600 39,600 			"/>
+		</g>
+		<g id="SOLID_18_">
+			<polygon points="39,600 27.2,600 39,588.2 			"/>
+		</g>
+		<g id="POLYLINE_19_">
+			<polyline class="st0" points="39,600 27.2,600 39,600 			"/>
+		</g>
+		<g id="SOLID_19_">
+			<polygon points="39,600 39,600 27.2,600 			"/>
+		</g>
+	</g>
+	<g id="INSERT_5_">
+		<g id="CIRCLE_19_">
+			<path class="st0" d="M611.8,63c0-6.5-5.3-11.8-11.8-11.8c-6.5,0-11.8,5.3-11.8,11.8c0,6.5,5.3,11.8,11.8,11.8
+				C606.5,74.8,611.8,69.5,611.8,63L611.8,63z"/>
+		</g>
+		<g id="LINE_512_">
+			<line class="st0" x1="600" y1="51.2" x2="588.2" y2="63"/>
+		</g>
+		<g id="ARC_116_">
+			<path class="st0" d="M588.2,63c0-6.5,5.3-11.8,11.8-11.8"/>
+		</g>
+		<g id="HATCH_10_">
+			<path d="M600,51.3L588.2,63C588.2,56.5,593.5,51.3,600,51.3L600,51.3z"/>
+		</g>
+		<g id="LINE_513_">
+			<line class="st0" x1="600" y1="74.8" x2="611.8" y2="63"/>
+		</g>
+		<g id="ARC_117_">
+			<path class="st0" d="M611.8,63c0,6.5-5.3,11.8-11.8,11.8"/>
+		</g>
+		<g id="HATCH_11_">
+			<path d="M600,74.8L611.8,63C611.8,69.5,606.5,74.8,600,74.8L600,74.8z"/>
+		</g>
+		<g id="POLYLINE_20_">
+			<polyline class="st0" points="600,63 588.2,63 600,51.2 600,63 			"/>
+		</g>
+		<g id="SOLID_20_">
+			<polygon points="600,63 600,51.2 588.2,63 			"/>
+		</g>
+		<g id="POLYLINE_21_">
+			<polyline class="st0" points="600,63 600,51.2 600,74.8 600,63 			"/>
+		</g>
+		<g id="SOLID_21_">
+			<polygon points="600,63 600,74.8 600,51.2 			"/>
+		</g>
+		<g id="POLYLINE_22_">
+			<polyline class="st0" points="600,63 600,74.8 611.8,63 600,63 			"/>
+		</g>
+		<g id="SOLID_22_">
+			<polygon points="600,63 611.8,63 600,74.8 			"/>
+		</g>
+		<g id="POLYLINE_23_">
+			<polyline class="st0" points="600,63 611.8,63 600,63 			"/>
+		</g>
+		<g id="SOLID_23_">
+			<polygon points="600,63 600,63 611.8,63 			"/>
+		</g>
+	</g>
+</g>
+<g id="CenterLine">
+	<g id="LINE_2_">
+		<line class="st1" x1="335.9" y1="600" x2="864.1" y2="600"/>
+	</g>
+	<g id="LINE_34_">
+		<line class="st1" x1="600" y1="359.9" x2="600" y2="840.1"/>
+	</g>
+	<g id="LINE_74_">
+		<line class="st1" x1="600" y1="888.1" x2="600" y2="1176"/>
+	</g>
+	<g id="LINE_216_">
+		<line class="st1" x1="912.1" y1="600" x2="1200" y2="600"/>
+	</g>
+	<g id="LINE_353_">
+		<line class="st1" x1="287.9" y1="600" x2="0" y2="600"/>
+	</g>
+	<g id="LINE_514_">
+		<line class="st1" x1="600" y1="311.9" x2="600" y2="24"/>
+	</g>
+</g>
+<g id="L_x5F_COVER_x5F_10.13X7.63">
+	<g id="LWPOLYLINE">
+		<rect x="478.4" y="508.4" class="st2" width="243.2" height="183.2"/>
+	</g>
+</g>
+<g id="Visible__x28_ANSI_x29_">
+	<g id="LINE_3_">
+		<line class="st0" x1="502.2" y1="739.6" x2="502.1" y2="739.5"/>
+	</g>
+	<g id="LINE_4_">
+		<line class="st0" x1="502.1" y1="730.6" x2="502.2" y2="730.5"/>
+	</g>
+	<g id="SPLINE">
+		<path class="st0" d="M504.8,726c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_1_">
+		<path class="st0" d="M510,726c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_2_">
+		<path class="st0" d="M515.2,744c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_3_">
+		<path class="st0" d="M510,744c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_4_">
+		<path class="st0" d="M520.4,735c-0.9,1.6-1.8,3.1-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_5_">
+		<path class="st0" d="M517.8,739.5c-0.8,1.4-1.7,2.9-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_6_">
+		<path class="st0" d="M504.8,744c-0.9-1.6-1.8-3-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_7_">
+		<path class="st0" d="M502.1,739.5c-0.8-1.4-1.6-2.8-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_8_">
+		<path class="st0" d="M515.2,726c0.9,1.6,1.8,3.1,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_9_">
+		<path class="st0" d="M517.8,730.5c0.8,1.4,1.7,2.9,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_10_">
+		<path class="st0" d="M499.6,735c0.9-1.6,1.8-3,2.6-4.4"/>
+	</g>
+	<g id="SPLINE_11_">
+		<path class="st0" d="M502.2,730.5c0.8-1.4,1.6-2.8,2.6-4.4"/>
+	</g>
+	<g id="ARC_2_">
+		<path class="st0" d="M502.2,730.5c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="ARC_3_">
+		<path class="st0" d="M502.1,739.5c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_1_">
+		<path class="st0" d="M519,735c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C515,744,519,740,519,735L519,735z"/>
+	</g>
+	<g id="LINE_5_">
+		<line class="st0" x1="568.3" y1="739.6" x2="568.2" y2="739.5"/>
+	</g>
+	<g id="LINE_6_">
+		<line class="st0" x1="568.2" y1="730.6" x2="568.3" y2="730.5"/>
+	</g>
+	<g id="SPLINE_12_">
+		<path class="st0" d="M570.8,726c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_13_">
+		<path class="st0" d="M576,726c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_14_">
+		<path class="st0" d="M581.2,744c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_15_">
+		<path class="st0" d="M576,744c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_16_">
+		<path class="st0" d="M586.4,735c-0.9,1.6-1.8,3.1-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_17_">
+		<path class="st0" d="M583.8,739.5c-0.8,1.4-1.7,2.9-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_18_">
+		<path class="st0" d="M570.8,744c-0.9-1.6-1.8-3-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_19_">
+		<path class="st0" d="M568.2,739.5c-0.8-1.4-1.6-2.8-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_20_">
+		<path class="st0" d="M581.2,726c0.9,1.6,1.8,3.1,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_21_">
+		<path class="st0" d="M583.8,730.5c0.8,1.4,1.7,2.9,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_22_">
+		<path class="st0" d="M565.6,735c0.9-1.6,1.8-3,2.6-4.4"/>
+	</g>
+	<g id="SPLINE_23_">
+		<path class="st0" d="M568.3,730.5c0.8-1.4,1.6-2.8,2.6-4.4"/>
+	</g>
+	<g id="ARC_4_">
+		<path class="st0" d="M568.3,730.5c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="ARC_5_">
+		<path class="st0" d="M568.2,739.5c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_2_">
+		<path class="st0" d="M585,735c0-5-4-9-9-9s-9,4-9,9c0,5,4,9,9,9S585,740,585,735L585,735z"/>
+	</g>
+	<g id="LINE_7_">
+		<line class="st0" x1="616.3" y1="739.6" x2="616.2" y2="739.5"/>
+	</g>
+	<g id="LINE_8_">
+		<line class="st0" x1="616.2" y1="730.6" x2="616.3" y2="730.5"/>
+	</g>
+	<g id="SPLINE_24_">
+		<path class="st0" d="M618.8,726c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_25_">
+		<path class="st0" d="M624,726c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_26_">
+		<path class="st0" d="M629.2,744c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_27_">
+		<path class="st0" d="M624,744c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_28_">
+		<path class="st0" d="M634.4,735c-0.9,1.6-1.8,3.1-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_29_">
+		<path class="st0" d="M631.8,739.5c-0.8,1.4-1.7,2.9-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_30_">
+		<path class="st0" d="M618.8,744c-0.9-1.6-1.8-3-2.5-4.4"/>
+	</g>
+	<g id="SPLINE_31_">
+		<path class="st0" d="M616.2,739.5c-0.8-1.4-1.6-2.8-2.5-4.4"/>
+	</g>
+	<g id="SPLINE_32_">
+		<path class="st0" d="M629.2,726c0.9,1.6,1.8,3.1,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_33_">
+		<path class="st0" d="M631.8,730.5c0.8,1.4,1.7,2.9,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_34_">
+		<path class="st0" d="M613.6,735c0.9-1.6,1.8-3,2.5-4.4"/>
+	</g>
+	<g id="SPLINE_35_">
+		<path class="st0" d="M616.3,730.5c0.8-1.4,1.6-2.8,2.5-4.4"/>
+	</g>
+	<g id="ARC_6_">
+		<path class="st0" d="M616.3,730.5c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="ARC_7_">
+		<path class="st0" d="M616.2,739.5c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_3_">
+		<path class="st0" d="M633,735c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C629,744,633,740,633,735L633,735z"/>
+	</g>
+	<g id="LINE_9_">
+		<line class="st0" x1="682.2" y1="739.6" x2="682.1" y2="739.5"/>
+	</g>
+	<g id="LINE_10_">
+		<line class="st0" x1="682.1" y1="730.6" x2="682.2" y2="730.5"/>
+	</g>
+	<g id="SPLINE_36_">
+		<path class="st0" d="M684.8,726c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_37_">
+		<path class="st0" d="M690,726c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_38_">
+		<path class="st0" d="M695.2,744c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_39_">
+		<path class="st0" d="M690,744c-1.6,0-3.4,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_40_">
+		<path class="st0" d="M700.4,735c-0.9,1.6-1.8,3.1-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_41_">
+		<path class="st0" d="M697.8,739.5c-0.8,1.4-1.7,2.9-2.6,4.5"/>
+	</g>
+	<g id="SPLINE_42_">
+		<path class="st0" d="M684.8,744c-0.9-1.6-1.8-3-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_43_">
+		<path class="st0" d="M682.1,739.5c-0.8-1.4-1.6-2.8-2.6-4.4"/>
+	</g>
+	<g id="SPLINE_44_">
+		<path class="st0" d="M695.2,726c0.9,1.6,1.8,3.1,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_45_">
+		<path class="st0" d="M697.8,730.5c0.8,1.4,1.7,2.9,2.6,4.5"/>
+	</g>
+	<g id="SPLINE_46_">
+		<path class="st0" d="M679.6,735c0.9-1.6,1.8-3,2.6-4.4"/>
+	</g>
+	<g id="SPLINE_47_">
+		<path class="st0" d="M682.2,730.5c0.8-1.4,1.6-2.8,2.6-4.4"/>
+	</g>
+	<g id="ARC_8_">
+		<path class="st0" d="M682.2,730.5c0,0.1,0,0.1-0.1,0.2"/>
+	</g>
+	<g id="ARC_9_">
+		<path class="st0" d="M682.1,739.5c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_4_">
+		<path class="st0" d="M699,735c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C695,744,699,740,699,735L699,735z"/>
+	</g>
+	<g id="LINE_11_">
+		<line class="st0" x1="759" y1="607.7" x2="758.8" y2="607.9"/>
+	</g>
+	<g id="LINE_12_">
+		<line class="st0" x1="750" y1="607.9" x2="749.8" y2="607.7"/>
+	</g>
+	<g id="SPLINE_48_">
+		<path class="st0" d="M745.4,605.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_49_">
+		<path class="st0" d="M745.4,600c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_50_">
+		<path class="st0" d="M763.4,594.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_51_">
+		<path class="st0" d="M763.4,600c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_52_">
+		<path class="st0" d="M754.4,589.6c1.6,0.9,3.1,1.8,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_53_">
+		<path class="st0" d="M758.9,592.2c1.4,0.8,2.9,1.7,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_54_">
+		<path class="st0" d="M763.4,605.2c-1.6,0.9-3.1,1.8-4.4,2.5"/>
+	</g>
+	<g id="SPLINE_55_">
+		<path class="st0" d="M758.8,607.9c-1.4,0.8-2.8,1.6-4.4,2.5"/>
+	</g>
+	<g id="SPLINE_56_">
+		<path class="st0" d="M745.4,594.8c1.6-0.9,3.1-1.8,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_57_">
+		<path class="st0" d="M749.9,592.2c1.4-0.8,2.9-1.7,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_58_">
+		<path class="st0" d="M754.4,610.4c-1.6-0.9-3-1.8-4.4-2.5"/>
+	</g>
+	<g id="SPLINE_59_">
+		<path class="st0" d="M749.8,607.7c-1.4-0.8-2.8-1.6-4.4-2.5"/>
+	</g>
+	<g id="ARC_10_">
+		<path class="st0" d="M749.8,607.7c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="ARC_11_">
+		<path class="st0" d="M758.8,607.9c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="CIRCLE_5_">
+		<path class="st0" d="M763.4,600c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C759.4,609,763.4,605,763.4,600L763.4,600z"/>
+	</g>
+	<g id="LINE_13_">
+		<line class="st0" x1="502.2" y1="460.4" x2="502.1" y2="460.5"/>
+	</g>
+	<g id="LINE_14_">
+		<line class="st0" x1="502.1" y1="469.4" x2="502.2" y2="469.5"/>
+	</g>
+	<g id="SPLINE_60_">
+		<path class="st0" d="M504.8,474c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_61_">
+		<path class="st0" d="M510,474c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_62_">
+		<path class="st0" d="M515.2,456c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_63_">
+		<path class="st0" d="M510,456c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_64_">
+		<path class="st0" d="M520.4,465c-0.9-1.6-1.8-3.1-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_65_">
+		<path class="st0" d="M517.8,460.5c-0.8-1.4-1.7-2.9-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_66_">
+		<path class="st0" d="M504.8,456c-0.9,1.6-1.8,3-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_67_">
+		<path class="st0" d="M502.1,460.5c-0.8,1.4-1.6,2.8-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_68_">
+		<path class="st0" d="M515.2,474c0.9-1.6,1.8-3.1,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_69_">
+		<path class="st0" d="M517.8,469.5c0.8-1.4,1.7-2.9,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_70_">
+		<path class="st0" d="M499.6,465c0.9,1.6,1.8,3,2.6,4.4"/>
+	</g>
+	<g id="SPLINE_71_">
+		<path class="st0" d="M502.2,469.5c0.8,1.4,1.6,2.8,2.6,4.4"/>
+	</g>
+	<g id="ARC_12_">
+		<path class="st0" d="M502.1,469.4c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="ARC_13_">
+		<path class="st0" d="M502.2,460.4c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_6_">
+		<path class="st0" d="M519,465c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C515,474,519,469.9,519,465L519,465z"/>
+	</g>
+	<g id="LINE_15_">
+		<line class="st0" x1="568.3" y1="460.4" x2="568.2" y2="460.5"/>
+	</g>
+	<g id="LINE_16_">
+		<line class="st0" x1="568.2" y1="469.4" x2="568.3" y2="469.5"/>
+	</g>
+	<g id="SPLINE_72_">
+		<path class="st0" d="M570.8,474c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_73_">
+		<path class="st0" d="M576,474c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_74_">
+		<path class="st0" d="M581.2,456c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_75_">
+		<path class="st0" d="M576,456c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_76_">
+		<path class="st0" d="M586.4,465c-0.9-1.6-1.8-3.1-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_77_">
+		<path class="st0" d="M583.8,460.5c-0.8-1.4-1.7-2.9-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_78_">
+		<path class="st0" d="M570.8,456c-0.9,1.6-1.8,3-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_79_">
+		<path class="st0" d="M568.2,460.5c-0.8,1.4-1.6,2.8-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_80_">
+		<path class="st0" d="M581.2,474c0.9-1.6,1.8-3.1,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_81_">
+		<path class="st0" d="M583.8,469.5c0.8-1.4,1.7-2.9,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_82_">
+		<path class="st0" d="M565.6,465c0.9,1.6,1.8,3,2.6,4.4"/>
+	</g>
+	<g id="SPLINE_83_">
+		<path class="st0" d="M568.3,469.5c0.8,1.4,1.6,2.8,2.6,4.4"/>
+	</g>
+	<g id="ARC_14_">
+		<path class="st0" d="M568.2,469.4c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="ARC_15_">
+		<path class="st0" d="M568.3,460.4c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_7_">
+		<path class="st0" d="M585,465c0-5-4-9-9-9s-9,4-9,9c0,5,4,9,9,9S585,469.9,585,465L585,465z"/>
+	</g>
+	<g id="LINE_17_">
+		<line class="st0" x1="616.3" y1="460.4" x2="616.2" y2="460.5"/>
+	</g>
+	<g id="LINE_18_">
+		<line class="st0" x1="616.2" y1="469.4" x2="616.3" y2="469.5"/>
+	</g>
+	<g id="SPLINE_84_">
+		<path class="st0" d="M618.8,474c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_85_">
+		<path class="st0" d="M624,474c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_86_">
+		<path class="st0" d="M629.2,456c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_87_">
+		<path class="st0" d="M624,456c-1.6,0-3.3,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_88_">
+		<path class="st0" d="M634.4,465c-0.9-1.6-1.8-3.1-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_89_">
+		<path class="st0" d="M631.8,460.5c-0.8-1.4-1.7-2.9-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_90_">
+		<path class="st0" d="M618.8,456c-0.9,1.6-1.8,3-2.5,4.4"/>
+	</g>
+	<g id="SPLINE_91_">
+		<path class="st0" d="M616.2,460.5c-0.8,1.4-1.6,2.8-2.5,4.4"/>
+	</g>
+	<g id="SPLINE_92_">
+		<path class="st0" d="M629.2,474c0.9-1.6,1.8-3.1,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_93_">
+		<path class="st0" d="M631.8,469.5c0.8-1.4,1.7-2.9,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_94_">
+		<path class="st0" d="M613.6,465c0.9,1.6,1.8,3,2.5,4.4"/>
+	</g>
+	<g id="SPLINE_95_">
+		<path class="st0" d="M616.3,469.5c0.8,1.4,1.6,2.8,2.5,4.4"/>
+	</g>
+	<g id="ARC_16_">
+		<path class="st0" d="M616.2,469.4c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="ARC_17_">
+		<path class="st0" d="M616.3,460.4c0,0.1-0.1,0.1-0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_8_">
+		<path class="st0" d="M633,465c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C629,474,633,469.9,633,465L633,465z"/>
+	</g>
+	<g id="LINE_19_">
+		<line class="st0" x1="682.2" y1="460.4" x2="682.1" y2="460.5"/>
+	</g>
+	<g id="LINE_20_">
+		<line class="st0" x1="682.1" y1="469.4" x2="682.2" y2="469.5"/>
+	</g>
+	<g id="SPLINE_96_">
+		<path class="st0" d="M684.8,474c1.9,0,3.6,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_97_">
+		<path class="st0" d="M690,474c1.6,0,3.3,0,5.2,0"/>
+	</g>
+	<g id="SPLINE_98_">
+		<path class="st0" d="M695.2,456c-1.9,0-3.6,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_99_">
+		<path class="st0" d="M690,456c-1.6,0-3.4,0-5.2,0"/>
+	</g>
+	<g id="SPLINE_100_">
+		<path class="st0" d="M700.4,465c-0.9-1.6-1.8-3.1-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_101_">
+		<path class="st0" d="M697.8,460.5c-0.8-1.4-1.7-2.9-2.6-4.5"/>
+	</g>
+	<g id="SPLINE_102_">
+		<path class="st0" d="M684.8,456c-0.9,1.6-1.8,3-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_103_">
+		<path class="st0" d="M682.1,460.5c-0.8,1.4-1.6,2.8-2.6,4.4"/>
+	</g>
+	<g id="SPLINE_104_">
+		<path class="st0" d="M695.2,474c0.9-1.6,1.8-3.1,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_105_">
+		<path class="st0" d="M697.8,469.5c0.8-1.4,1.7-2.9,2.6-4.5"/>
+	</g>
+	<g id="SPLINE_106_">
+		<path class="st0" d="M679.6,465c0.9,1.6,1.8,3,2.6,4.4"/>
+	</g>
+	<g id="SPLINE_107_">
+		<path class="st0" d="M682.2,469.5c0.8,1.4,1.6,2.8,2.6,4.4"/>
+	</g>
+	<g id="ARC_18_">
+		<path class="st0" d="M682.1,469.4c0,0.1,0.1,0.1,0.1,0.2"/>
+	</g>
+	<g id="ARC_19_">
+		<path class="st0" d="M682.2,460.4c0,0.1,0,0.1-0.1,0.2"/>
+	</g>
+	<g id="CIRCLE_9_">
+		<path class="st0" d="M699,465c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C695,474,699,469.9,699,465L699,465z"/>
+	</g>
+	<g id="LWPOLYLINE_1_">
+		<line class="st0" x1="490.9" y1="452.2" x2="708.9" y2="452.2"/>
+	</g>
+	<g id="LWPOLYLINE_2_">
+		<line class="st0" x1="708.9" y1="747.8" x2="490.9" y2="747.8"/>
+	</g>
+	<g id="LWPOLYLINE_3_">
+		<polyline class="st0" points="771.6,685.1 770,696.8 766.6,708.5 760.8,719.3 753.3,729.4 743.2,736.9 732.4,742.8 720.6,746.1 
+			708.9,747.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_4_">
+		<line class="st0" x1="771.6" y1="514.9" x2="771.6" y2="685.1"/>
+	</g>
+	<g id="LWPOLYLINE_5_">
+		<polyline class="st0" points="708.9,452.2 720.6,453 732.4,457.2 743.2,463.1 753.3,470.6 760.8,479.8 766.6,490.7 770,503.3 
+			771.6,514.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_6_">
+		<polyline class="st0" points="428.2,514.9 429,503.3 433.2,490.7 438.2,479.8 446.5,470.6 455.7,463.1 466.7,457.2 478.4,453 
+			490.9,452.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_7_">
+		<polyline class="st0" points="490.9,747.8 478.4,746.1 466.7,742.8 455.7,736.9 446.5,729.4 438.2,719.3 433.2,708.5 429,696.8 
+			428.2,685.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_8_">
+		<line class="st0" x1="428.2" y1="685.1" x2="428.2" y2="514.9"/>
+	</g>
+	<g id="LWPOLYLINE_23_">
+		<line class="st0" x1="738.2" y1="565.1" x2="738.2" y2="565.9"/>
+	</g>
+	<g id="ARC_26_">
+		<path class="st0" d="M736.5,566.8c0.7-0.2,1.1-0.9,1.1-1.6"/>
+	</g>
+	<g id="LWPOLYLINE_25_">
+		<line class="st0" x1="738.2" y1="550.1" x2="738.2" y2="565.1"/>
+	</g>
+	<g id="ARC_27_">
+		<path class="st0" d="M737.6,550.2c-0.1-0.6-0.4-1-1-1.2"/>
+	</g>
+	<g id="LWPOLYLINE_32_">
+		<line class="st0" x1="738.2" y1="649.1" x2="738.2" y2="649.9"/>
+	</g>
+	<g id="ARC_28_">
+		<path class="st0" d="M736.5,650.8c0.7-0.2,1.1-0.9,1.1-1.6"/>
+	</g>
+	<g id="LWPOLYLINE_35_">
+		<line class="st0" x1="738.2" y1="634.1" x2="738.2" y2="649.1"/>
+	</g>
+	<g id="ARC_29_">
+		<path class="st0" d="M737.6,634.2c-0.1-0.5-0.4-1-1-1.2"/>
+	</g>
+	<g id="ARC_30_">
+		<path class="st0" d="M656.9,712.7c0.1,0.6,0.6,1.1,1.3,1.2"/>
+	</g>
+	<g id="LWPOLYLINE_49_">
+		<line class="st0" x1="673.1" y1="714.3" x2="658.1" y2="714.3"/>
+	</g>
+	<g id="ARC_31_">
+		<path class="st0" d="M673.2,713.9c0.8,0.1,1.5-0.5,1.6-1.2"/>
+	</g>
+	<g id="LWPOLYLINE_51_">
+		<line class="st0" x1="674" y1="714.3" x2="673.1" y2="714.3"/>
+	</g>
+	<g id="ARC_32_">
+		<path class="st0" d="M524.8,712.8c0.1,0.6,0.7,1.1,1.3,1.1"/>
+	</g>
+	<g id="LWPOLYLINE_57_">
+		<line class="st0" x1="541.1" y1="714.3" x2="526" y2="714.3"/>
+	</g>
+	<g id="ARC_33_">
+		<path class="st0" d="M541.1,713.9c0.8,0.1,1.5-0.5,1.6-1.2"/>
+	</g>
+	<g id="LWPOLYLINE_60_">
+		<line class="st0" x1="541.9" y1="714.3" x2="541.1" y2="714.3"/>
+	</g>
+	<g id="ARC_34_">
+		<path class="st0" d="M463.3,632.9c-0.7,0-1.4,0.5-1.5,1.2"/>
+	</g>
+	<g id="LWPOLYLINE_72_">
+		<line class="st0" x1="461.6" y1="649.1" x2="461.6" y2="634.1"/>
+	</g>
+	<g id="ARC_35_">
+		<path class="st0" d="M461.8,649.1c-0.1,0.8,0.4,1.6,1.2,1.7c0.1,0,0.2,0,0.3,0"/>
+	</g>
+	<g id="LWPOLYLINE_75_">
+		<line class="st0" x1="461.6" y1="649.9" x2="461.6" y2="649.1"/>
+	</g>
+	<g id="ARC_36_">
+		<path class="st0" d="M463.3,548.9c-0.8,0-1.4,0.5-1.5,1.2"/>
+	</g>
+	<g id="LWPOLYLINE_82_">
+		<line class="st0" x1="461.6" y1="565.1" x2="461.6" y2="550.1"/>
+	</g>
+	<g id="ARC_37_">
+		<path class="st0" d="M461.8,565.1c-0.1,0.8,0.4,1.6,1.2,1.7c0.1,0,0.2,0,0.3,0"/>
+	</g>
+	<g id="LWPOLYLINE_84_">
+		<line class="st0" x1="461.6" y1="565.9" x2="461.6" y2="565.1"/>
+	</g>
+	<g id="LWPOLYLINE_95_">
+		<line class="st0" x1="673.1" y1="485.7" x2="674" y2="485.7"/>
+	</g>
+	<g id="ARC_38_">
+		<path class="st0" d="M674.8,487.4c0-0.8-0.7-1.5-1.5-1.5c-0.1,0-0.1,0-0.2,0"/>
+	</g>
+	<g id="LWPOLYLINE_97_">
+		<line class="st0" x1="658.1" y1="485.7" x2="673.1" y2="485.7"/>
+	</g>
+	<g id="ARC_39_">
+		<path class="st0" d="M658.1,485.9c-0.8,0.1-1.3,0.8-1.3,1.5"/>
+	</g>
+	<g id="LWPOLYLINE_104_">
+		<line class="st0" x1="541.1" y1="485.7" x2="541.9" y2="485.7"/>
+	</g>
+	<g id="ARC_40_">
+		<path class="st0" d="M542.8,487.4c0-0.8-0.7-1.5-1.5-1.5c-0.1,0-0.1,0-0.2,0"/>
+	</g>
+	<g id="LWPOLYLINE_107_">
+		<line class="st0" x1="526" y1="485.7" x2="541.1" y2="485.7"/>
+	</g>
+	<g id="ARC_41_">
+		<path class="st0" d="M526.1,485.9c-0.8,0.1-1.3,0.8-1.3,1.5"/>
+	</g>
+	<g id="LWPOLYLINE_144_">
+		<polyline class="st0" points="768.3,699.3 766.6,700.1 765,699.3 760.8,696.8 751.6,690.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_146_">
+		<polyline class="st0" points="713.9,727.8 720.6,736.9 723.1,740.3 724,742.8 723.1,744.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_156_">
+		<polyline class="st0" points="723.1,455.6 724,457.2 723.1,458.9 720.6,463.1 713.9,472.3 		"/>
+	</g>
+	<g id="LWPOLYLINE_158_">
+		<polyline class="st0" points="751.6,509.9 760.8,503.3 765,500.7 766.6,499.9 768.3,499.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_180_">
+		<polyline class="st0" points="447.4,690.1 439,696.8 434.8,699.3 433.2,700.1 430.7,699.3 		"/>
+	</g>
+	<g id="LWPOLYLINE_182_">
+		<polyline class="st0" points="475.9,744.5 475.9,742 477.5,739.5 480,735.3 485.9,727.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_204_">
+		<polyline class="st0" points="430.7,499.9 432.3,499.9 434.8,500.7 439,503.3 447.4,509.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_206_">
+		<polyline class="st0" points="485.9,472.3 479.2,463.1 476.7,458.9 475.9,457.2 475.9,455.6 		"/>
+	</g>
+	<g id="LWPOLYLINE_221_">
+		<line class="st0" x1="723.1" y1="744.5" x2="768.3" y2="699.3"/>
+	</g>
+	<g id="LWPOLYLINE_222_">
+		<line class="st0" x1="737.4" y1="675" x2="719.8" y2="657.5"/>
+	</g>
+	<g id="LWPOLYLINE_223_">
+		<line class="st0" x1="751.6" y1="690.1" x2="740.7" y2="678.4"/>
+	</g>
+	<g id="LWPOLYLINE_225_">
+		<line class="st0" x1="702.2" y1="716.8" x2="713.9" y2="727.8"/>
+	</g>
+	<g id="LWPOLYLINE_226_">
+		<line class="st0" x1="694.9" y1="695.9" x2="698.9" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_228_">
+		<line class="st0" x1="736.5" y1="633.2" x2="719.8" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_229_">
+		<line class="st0" x1="674.8" y1="712.7" x2="674.8" y2="695.9"/>
+	</g>
+	<g id="LWPOLYLINE_230_">
+		<line class="st0" x1="657.3" y1="695.9" x2="657.3" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_232_">
+		<line class="st0" x1="719.8" y1="650.8" x2="736.5" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_233_">
+		<line class="st0" x1="430.7" y1="699.3" x2="475.9" y2="744.5"/>
+	</g>
+	<g id="LWPOLYLINE_234_">
+		<line class="st0" x1="459.1" y1="678.4" x2="447.4" y2="690.1"/>
+	</g>
+	<g id="LWPOLYLINE_235_">
+		<line class="st0" x1="485.9" y1="727.8" x2="497.6" y2="716.8"/>
+	</g>
+	<g id="LWPOLYLINE_236_">
+		<line class="st0" x1="475.9" y1="455.6" x2="430.7" y2="499.9"/>
+	</g>
+	<g id="LWPOLYLINE_237_">
+		<line class="st0" x1="768.3" y1="499.9" x2="723.1" y2="455.6"/>
+	</g>
+	<g id="LWPOLYLINE_238_">
+		<line class="st0" x1="694.9" y1="504.1" x2="698.9" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_239_">
+		<line class="st0" x1="713.9" y1="472.3" x2="702.2" y2="483.2"/>
+	</g>
+	<g id="LWPOLYLINE_241_">
+		<line class="st0" x1="740.7" y1="521.6" x2="751.6" y2="509.9"/>
+	</g>
+	<g id="LWPOLYLINE_242_">
+		<line class="st0" x1="737.4" y1="525" x2="719.8" y2="541.7"/>
+	</g>
+	<g id="LWPOLYLINE_243_">
+		<line class="st0" x1="462.5" y1="525" x2="480" y2="541.7"/>
+	</g>
+	<g id="LWPOLYLINE_244_">
+		<line class="st0" x1="447.4" y1="509.9" x2="459.1" y2="521.6"/>
+	</g>
+	<g id="LWPOLYLINE_246_">
+		<line class="st0" x1="497.6" y1="483.2" x2="485.9" y2="472.3"/>
+	</g>
+	<g id="LWPOLYLINE_247_">
+		<line class="st0" x1="524.4" y1="504.1" x2="500.9" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_249_">
+		<line class="st0" x1="525.2" y1="487.4" x2="525.2" y2="504.1"/>
+	</g>
+	<g id="LWPOLYLINE_251_">
+		<line class="st0" x1="463.3" y1="566.8" x2="480" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_252_">
+		<line class="st0" x1="719.8" y1="549.2" x2="736.5" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_253_">
+		<line class="st0" x1="674.8" y1="487.4" x2="674.8" y2="504.1"/>
+	</g>
+	<g id="LWPOLYLINE_254_">
+		<line class="st0" x1="657.3" y1="504.1" x2="657.3" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_255_">
+		<line class="st0" x1="542.8" y1="504.1" x2="542.8" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_257_">
+		<line class="st0" x1="480" y1="549.2" x2="463.3" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_258_">
+		<line class="st0" x1="736.5" y1="566.8" x2="719.8" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_259_">
+		<line class="st0" x1="740.7" y1="678.4" x2="737.4" y2="675"/>
+	</g>
+	<g id="LWPOLYLINE_260_">
+		<line class="st0" x1="698.9" y1="713.5" x2="702.2" y2="716.8"/>
+	</g>
+	<g id="LWPOLYLINE_261_">
+		<line class="st0" x1="702.2" y1="483.2" x2="698.9" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_262_">
+		<line class="st0" x1="737.4" y1="525" x2="740.7" y2="521.6"/>
+	</g>
+	<g id="LWPOLYLINE_263_">
+		<line class="st0" x1="459.1" y1="521.6" x2="462.5" y2="525"/>
+	</g>
+	<g id="LWPOLYLINE_264_">
+		<line class="st0" x1="500.9" y1="486.5" x2="497.6" y2="483.2"/>
+	</g>
+	<g id="LWPOLYLINE_271_">
+		<line class="st0" x1="497.6" y1="716.8" x2="500.9" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_272_">
+		<line class="st0" x1="462.5" y1="675" x2="459.1" y2="678.4"/>
+	</g>
+	<g id="LWPOLYLINE_279_">
+		<line class="st0" x1="463.3" y1="633.2" x2="480" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_280_">
+		<line class="st0" x1="480" y1="650.8" x2="463.3" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_281_">
+		<line class="st0" x1="462.5" y1="675" x2="480" y2="657.5"/>
+	</g>
+	<g id="LWPOLYLINE_282_">
+		<line class="st0" x1="524.4" y1="695.9" x2="500.9" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_283_">
+		<line class="st0" x1="525.2" y1="712.7" x2="525.2" y2="695.9"/>
+	</g>
+	<g id="LWPOLYLINE_284_">
+		<line class="st0" x1="542.8" y1="695.9" x2="542.8" y2="712.7"/>
+	</g>
+	<g id="LINE_24_">
+		<line class="st0" x1="759" y1="541.7" x2="758.8" y2="541.8"/>
+	</g>
+	<g id="LINE_25_">
+		<line class="st0" x1="750" y1="541.8" x2="749.8" y2="541.7"/>
+	</g>
+	<g id="SPLINE_108_">
+		<path class="st0" d="M745.4,539.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_109_">
+		<path class="st0" d="M745.4,534c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_110_">
+		<path class="st0" d="M763.4,528.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_111_">
+		<path class="st0" d="M763.4,534c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_112_">
+		<path class="st0" d="M754.4,523.6c1.6,0.9,3.1,1.8,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_113_">
+		<path class="st0" d="M758.9,526.2c1.4,0.8,2.9,1.7,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_114_">
+		<path class="st0" d="M763.4,539.2c-1.6,0.9-3.1,1.8-4.4,2.6"/>
+	</g>
+	<g id="SPLINE_115_">
+		<path class="st0" d="M758.8,541.8c-1.4,0.8-2.8,1.6-4.4,2.6"/>
+	</g>
+	<g id="SPLINE_116_">
+		<path class="st0" d="M745.4,528.8c1.6-0.9,3.1-1.8,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_117_">
+		<path class="st0" d="M749.9,526.2c1.4-0.8,2.9-1.7,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_118_">
+		<path class="st0" d="M754.4,544.4c-1.6-0.9-3-1.8-4.4-2.6"/>
+	</g>
+	<g id="SPLINE_119_">
+		<path class="st0" d="M749.8,541.7c-1.4-0.8-2.8-1.6-4.4-2.6"/>
+	</g>
+	<g id="ARC_42_">
+		<path class="st0" d="M749.8,541.7c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="ARC_43_">
+		<path class="st0" d="M758.8,541.8c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="CIRCLE_11_">
+		<path class="st0" d="M763.4,534c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C759.4,543,763.4,539,763.4,534L763.4,534z"/>
+	</g>
+	<g id="LINE_26_">
+		<line class="st0" x1="759" y1="673.8" x2="758.8" y2="673.9"/>
+	</g>
+	<g id="LINE_27_">
+		<line class="st0" x1="750" y1="673.9" x2="749.8" y2="673.8"/>
+	</g>
+	<g id="SPLINE_120_">
+		<path class="st0" d="M745.4,671.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_121_">
+		<path class="st0" d="M745.4,666c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_122_">
+		<path class="st0" d="M763.4,660.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_123_">
+		<path class="st0" d="M763.4,666c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_124_">
+		<path class="st0" d="M754.4,655.6c1.6,0.9,3.1,1.8,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_125_">
+		<path class="st0" d="M758.9,658.2c1.4,0.8,2.9,1.7,4.5,2.6"/>
+	</g>
+	<g id="SPLINE_126_">
+		<path class="st0" d="M763.4,671.2c-1.6,0.9-3.1,1.8-4.4,2.5"/>
+	</g>
+	<g id="SPLINE_127_">
+		<path class="st0" d="M758.8,673.9c-1.4,0.8-2.8,1.6-4.4,2.5"/>
+	</g>
+	<g id="SPLINE_128_">
+		<path class="st0" d="M745.4,660.8c1.6-0.9,3.1-1.8,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_129_">
+		<path class="st0" d="M749.9,658.2c1.4-0.8,2.9-1.7,4.5-2.6"/>
+	</g>
+	<g id="SPLINE_130_">
+		<path class="st0" d="M754.4,676.4c-1.6-0.9-3-1.8-4.4-2.5"/>
+	</g>
+	<g id="SPLINE_131_">
+		<path class="st0" d="M749.8,673.8c-1.4-0.8-2.8-1.6-4.4-2.5"/>
+	</g>
+	<g id="ARC_44_">
+		<path class="st0" d="M749.8,673.8c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="ARC_45_">
+		<path class="st0" d="M758.8,673.9c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="CIRCLE_12_">
+		<path class="st0" d="M763.4,666c0-5-4-9-9-9c-5,0-9,4-9,9s4,9,9,9C759.4,675,763.4,671,763.4,666L763.4,666z"/>
+	</g>
+	<g id="LINE_28_">
+		<line class="st0" x1="440.9" y1="607.7" x2="441.1" y2="607.9"/>
+	</g>
+	<g id="LINE_29_">
+		<line class="st0" x1="449.9" y1="607.9" x2="450.1" y2="607.7"/>
+	</g>
+	<g id="SPLINE_132_">
+		<path class="st0" d="M454.5,605.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_133_">
+		<path class="st0" d="M454.5,600c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_134_">
+		<path class="st0" d="M436.5,594.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_135_">
+		<path class="st0" d="M436.5,600c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_136_">
+		<path class="st0" d="M445.5,589.6c-1.6,0.9-3.1,1.8-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_137_">
+		<path class="st0" d="M441,592.2c-1.4,0.8-2.9,1.7-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_138_">
+		<path class="st0" d="M436.5,605.2c1.6,0.9,3,1.8,4.4,2.5"/>
+	</g>
+	<g id="SPLINE_139_">
+		<path class="st0" d="M441.1,607.9c1.4,0.8,2.8,1.6,4.4,2.5"/>
+	</g>
+	<g id="SPLINE_140_">
+		<path class="st0" d="M454.5,594.8c-1.6-0.9-3.1-1.8-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_141_">
+		<path class="st0" d="M450,592.2c-1.4-0.8-2.9-1.7-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_142_">
+		<path class="st0" d="M445.5,610.4c1.6-0.9,3-1.8,4.4-2.5"/>
+	</g>
+	<g id="SPLINE_143_">
+		<path class="st0" d="M450.1,607.7c1.4-0.8,2.8-1.6,4.4-2.5"/>
+	</g>
+	<g id="ARC_46_">
+		<path class="st0" d="M449.9,607.9c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="ARC_47_">
+		<path class="st0" d="M440.9,607.7c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="CIRCLE_13_">
+		<path class="st0" d="M454.5,600c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C450.5,609,454.5,605,454.5,600L454.5,600z"/>
+	</g>
+	<g id="LINE_30_">
+		<line class="st0" x1="440.9" y1="541.7" x2="441.1" y2="541.8"/>
+	</g>
+	<g id="LINE_31_">
+		<line class="st0" x1="449.9" y1="541.8" x2="450.1" y2="541.7"/>
+	</g>
+	<g id="SPLINE_144_">
+		<path class="st0" d="M454.5,539.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_145_">
+		<path class="st0" d="M454.5,534c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_146_">
+		<path class="st0" d="M436.5,528.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_147_">
+		<path class="st0" d="M436.5,534c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_148_">
+		<path class="st0" d="M445.5,523.6c-1.6,0.9-3.1,1.8-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_149_">
+		<path class="st0" d="M441,526.2c-1.4,0.8-2.9,1.7-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_150_">
+		<path class="st0" d="M436.5,539.2c1.6,0.9,3,1.8,4.4,2.6"/>
+	</g>
+	<g id="SPLINE_151_">
+		<path class="st0" d="M441.1,541.8c1.4,0.8,2.8,1.6,4.4,2.6"/>
+	</g>
+	<g id="SPLINE_152_">
+		<path class="st0" d="M454.5,528.8c-1.6-0.9-3.1-1.8-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_153_">
+		<path class="st0" d="M450,526.2c-1.4-0.8-2.9-1.7-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_154_">
+		<path class="st0" d="M445.5,544.4c1.6-0.9,3-1.8,4.4-2.6"/>
+	</g>
+	<g id="SPLINE_155_">
+		<path class="st0" d="M450.1,541.7c1.4-0.8,2.8-1.6,4.4-2.6"/>
+	</g>
+	<g id="ARC_48_">
+		<path class="st0" d="M449.9,541.8c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="ARC_49_">
+		<path class="st0" d="M440.9,541.7c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="CIRCLE_14_">
+		<path class="st0" d="M454.5,534c0-5-4-9-9-9c-5,0-9,4-9,9c0,5,4,9,9,9C450.5,543,454.5,539,454.5,534L454.5,534z"/>
+	</g>
+	<g id="LINE_32_">
+		<line class="st0" x1="440.9" y1="673.8" x2="441.1" y2="673.9"/>
+	</g>
+	<g id="LINE_33_">
+		<line class="st0" x1="449.9" y1="673.9" x2="450.1" y2="673.8"/>
+	</g>
+	<g id="SPLINE_156_">
+		<path class="st0" d="M454.5,671.2c0-1.9,0-3.6,0-5.2"/>
+	</g>
+	<g id="SPLINE_157_">
+		<path class="st0" d="M454.5,666c0-1.6,0-3.3,0-5.2"/>
+	</g>
+	<g id="SPLINE_158_">
+		<path class="st0" d="M436.5,660.8c0,1.9,0,3.6,0,5.2"/>
+	</g>
+	<g id="SPLINE_159_">
+		<path class="st0" d="M436.5,666c0,1.6,0,3.3,0,5.2"/>
+	</g>
+	<g id="SPLINE_160_">
+		<path class="st0" d="M445.5,655.6c-1.6,0.9-3.1,1.8-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_161_">
+		<path class="st0" d="M441,658.2c-1.4,0.8-2.9,1.7-4.5,2.6"/>
+	</g>
+	<g id="SPLINE_162_">
+		<path class="st0" d="M436.5,671.2c1.6,0.9,3,1.8,4.4,2.5"/>
+	</g>
+	<g id="SPLINE_163_">
+		<path class="st0" d="M441.1,673.9c1.4,0.8,2.8,1.6,4.4,2.5"/>
+	</g>
+	<g id="SPLINE_164_">
+		<path class="st0" d="M454.5,660.8c-1.6-0.9-3.1-1.8-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_165_">
+		<path class="st0" d="M450,658.2c-1.4-0.8-2.9-1.7-4.5-2.6"/>
+	</g>
+	<g id="SPLINE_166_">
+		<path class="st0" d="M445.5,676.4c1.6-0.9,3-1.8,4.4-2.5"/>
+	</g>
+	<g id="SPLINE_167_">
+		<path class="st0" d="M450.1,673.8c1.4-0.8,2.8-1.6,4.4-2.5"/>
+	</g>
+	<g id="ARC_50_">
+		<path class="st0" d="M449.9,673.9c0,0,0.1-0.1,0.2-0.1"/>
+	</g>
+	<g id="ARC_51_">
+		<path class="st0" d="M440.9,673.8c0,0,0.1,0.1,0.2,0.1"/>
+	</g>
+	<g id="CIRCLE_15_">
+		<path class="st0" d="M454.5,666c0-5-4-9-9-9c-5,0-9,4-9,9s4,9,9,9C450.5,675,454.5,671,454.5,666L454.5,666z"/>
+	</g>
+	<g id="LINE_35_">
+		<line class="st0" x1="771.8" y1="960" x2="771.8" y2="972.8"/>
+	</g>
+	<g id="LINE_36_">
+		<line class="st0" x1="428.2" y1="960" x2="428.2" y2="972.8"/>
+	</g>
+	<g id="SPLINE_168_">
+		<path class="st0" d="M771.8,972.9"/>
+	</g>
+	<g id="SPLINE_169_">
+		<path class="st0" d="M428.2,972.8"/>
+	</g>
+	<g id="ARC_52_">
+		<path class="st0" d="M428.2,972.9c0.8,0.4,1.7,0.6,2.6,0.6"/>
+	</g>
+	<g id="ARC_53_">
+		<path class="st0" d="M769.2,973.5c0.9,0,1.8-0.2,2.6-0.6"/>
+	</g>
+	<g id="LINE_37_">
+		<line class="st0" x1="727.3" y1="1106.8" x2="733.7" y2="984.8"/>
+	</g>
+	<g id="ARC_54_">
+		<path class="st0" d="M713.6,1127.2c8-3.8,13.2-11.6,13.7-20.4"/>
+	</g>
+	<g id="LINE_38_">
+		<line class="st0" x1="522.1" y1="1129.5" x2="678" y2="1129.5"/>
+	</g>
+	<g id="ARC_55_">
+		<path class="st0" d="M472.7,1106.8c0.5,8.8,5.7,16.7,13.7,20.4"/>
+	</g>
+	<g id="LINE_39_">
+		<line class="st0" x1="466.3" y1="984.8" x2="472.7" y2="1106.8"/>
+	</g>
+	<g id="ARC_56_">
+		<path class="st0" d="M745.7,973.5c-6.4,0-11.7,5-12,11.4"/>
+	</g>
+	<g id="ARC_57_">
+		<path class="st0" d="M466.3,984.8c-0.3-6.4-5.6-11.4-12-11.4"/>
+	</g>
+	<g id="ARC_58_">
+		<path class="st0" d="M519.1,1132.5c0.8,0,1.5-0.6,1.5-1.4"/>
+	</g>
+	<g id="ARC_59_">
+		<path class="st0" d="M487.4,1131.1c0,0.8,0.7,1.4,1.5,1.4"/>
+	</g>
+	<g id="ARC_60_">
+		<path class="st0" d="M522.1,1129.5c-0.8,0-1.5,0.6-1.5,1.4"/>
+	</g>
+	<g id="ARC_61_">
+		<path class="st0" d="M487.3,1128.5c0-0.6-0.4-1.1-0.9-1.3"/>
+	</g>
+	<g id="ARC_62_">
+		<path class="st0" d="M711.1,1132.5c0.8,0,1.5-0.6,1.5-1.4"/>
+	</g>
+	<g id="ARC_63_">
+		<path class="st0" d="M679.5,1131.1c0,0.8,0.7,1.4,1.5,1.4"/>
+	</g>
+	<g id="ARC_64_">
+		<path class="st0" d="M679.4,1130.9c0-0.8-0.7-1.4-1.5-1.4"/>
+	</g>
+	<g id="ARC_65_">
+		<path class="st0" d="M713.6,1127.2c-0.5,0.2-0.8,0.7-0.9,1.3"/>
+	</g>
+	<g id="SPLINE_176_">
+		<path class="st0" d="M488.9,1132.5c0.6,0,1.3,0,1.9,0c0.6,0,1.3,0,1.9,0c0.6,0,1.3,0,2,0c0.6,0,1.3,0,2,0"/>
+	</g>
+	<g id="LINE_42_">
+		<line class="st0" x1="496.7" y1="1132.5" x2="519.1" y2="1132.5"/>
+	</g>
+	<g id="SPLINE_177_">
+		<path class="st0" d="M486.5,1114.4c0.1,1.7,0.2,3.5,0.3,5.2c0.2,3.8,0.4,7.7,0.6,11.5"/>
+	</g>
+	<g id="LINE_43_">
+		<line class="st0" x1="681" y1="1132.5" x2="703.3" y2="1132.5"/>
+	</g>
+	<g id="SPLINE_178_">
+		<path class="st0" d="M703.3,1132.5c1.3,0,2.6,0,3.9,0c1.3,0,2.6,0,3.8,0"/>
+	</g>
+	<g id="SPLINE_179_">
+		<path class="st0" d="M712.6,1131.1c0.2-3.8,0.4-7.6,0.6-11.5c0.1-1.7,0.2-3.5,0.3-5.2"/>
+	</g>
+	<g id="SPLINE_180_">
+		<path class="st0" d="M494.9,1132.5c-1,0-2,0-3,0s-2,0-2.9,0"/>
+	</g>
+	<g id="LINE_48_">
+		<line class="st0" x1="494.8" y1="1132.5" x2="490.4" y2="1132.5"/>
+	</g>
+	<g id="LINE_49_">
+		<line class="st0" x1="494.8" y1="1132.5" x2="517.4" y2="1132.5"/>
+	</g>
+	<g id="LINE_50_">
+		<line class="st0" x1="517.5" y1="1136.8" x2="517.5" y2="1132.5"/>
+	</g>
+	<g id="LINE_51_">
+		<line class="st0" x1="490.3" y1="1136.8" x2="490.3" y2="1132.5"/>
+	</g>
+	<g id="LINE_52_">
+		<line class="st0" x1="510" y1="1132.5" x2="510" y2="1136.8"/>
+	</g>
+	<g id="LINE_53_">
+		<line class="st0" x1="498" y1="1132.5" x2="498" y2="1136.8"/>
+	</g>
+	<g id="LINE_60_">
+		<line class="st0" x1="687" y1="1132.5" x2="682.6" y2="1132.5"/>
+	</g>
+	<g id="LINE_61_">
+		<line class="st0" x1="687" y1="1132.5" x2="709.6" y2="1132.5"/>
+	</g>
+	<g id="LINE_62_">
+		<line class="st0" x1="709.7" y1="1136.8" x2="709.7" y2="1132.5"/>
+	</g>
+	<g id="LINE_63_">
+		<line class="st0" x1="682.6" y1="1136.8" x2="682.6" y2="1132.5"/>
+	</g>
+	<g id="LINE_64_">
+		<line class="st0" x1="702.2" y1="1132.5" x2="702.2" y2="1136.8"/>
+	</g>
+	<g id="LINE_65_">
+		<line class="st0" x1="690.2" y1="1132.5" x2="690.2" y2="1136.8"/>
+	</g>
+	<g id="LINE_75_">
+		<line class="st0" x1="771.8" y1="960" x2="428.2" y2="960"/>
+	</g>
+	<g id="LINE_76_">
+		<line class="st0" x1="748.6" y1="984.3" x2="760.3" y2="984.3"/>
+	</g>
+	<g id="LINE_77_">
+		<line class="st0" x1="760.3" y1="973.4" x2="760.3" y2="984.3"/>
+	</g>
+	<g id="LINE_78_">
+		<line class="st0" x1="748.6" y1="973.4" x2="748.6" y2="984.3"/>
+	</g>
+	<g id="LINE_79_">
+		<line class="st0" x1="451.4" y1="984.3" x2="439.7" y2="984.3"/>
+	</g>
+	<g id="LINE_80_">
+		<line class="st0" x1="439.7" y1="973.4" x2="439.7" y2="984.3"/>
+	</g>
+	<g id="LINE_81_">
+		<line class="st0" x1="451.4" y1="973.4" x2="451.4" y2="984.3"/>
+	</g>
+	<g id="LINE_82_">
+		<line class="st0" x1="570.1" y1="983.8" x2="581.9" y2="983.8"/>
+	</g>
+	<g id="LINE_83_">
+		<line class="st0" x1="581.9" y1="973.4" x2="581.9" y2="983.8"/>
+	</g>
+	<g id="LINE_84_">
+		<line class="st0" x1="570.1" y1="973.4" x2="570.1" y2="983.8"/>
+	</g>
+	<g id="LINE_85_">
+		<line class="st0" x1="618.2" y1="983.8" x2="629.9" y2="983.8"/>
+	</g>
+	<g id="LINE_86_">
+		<line class="st0" x1="629.9" y1="973.4" x2="629.9" y2="983.8"/>
+	</g>
+	<g id="LINE_87_">
+		<line class="st0" x1="618.2" y1="973.4" x2="618.2" y2="983.8"/>
+	</g>
+	<g id="LINE_88_">
+		<line class="st0" x1="504.1" y1="983.8" x2="515.9" y2="983.8"/>
+	</g>
+	<g id="LINE_89_">
+		<line class="st0" x1="515.9" y1="973.4" x2="515.9" y2="983.8"/>
+	</g>
+	<g id="LINE_90_">
+		<line class="st0" x1="504.1" y1="973.4" x2="504.1" y2="983.8"/>
+	</g>
+	<g id="LINE_91_">
+		<line class="st0" x1="684.2" y1="983.8" x2="695.9" y2="983.8"/>
+	</g>
+	<g id="LINE_92_">
+		<line class="st0" x1="695.9" y1="973.4" x2="695.9" y2="983.8"/>
+	</g>
+	<g id="LINE_93_">
+		<line class="st0" x1="684.2" y1="973.4" x2="684.2" y2="983.8"/>
+	</g>
+	<g id="LINE_94_">
+		<line class="st0" x1="759.7" y1="938.1" x2="759.7" y2="945.5"/>
+	</g>
+	<g id="LINE_95_">
+		<line class="st0" x1="749.3" y1="945.5" x2="749.3" y2="938.1"/>
+	</g>
+	<g id="LINE_96_">
+		<line class="st0" x1="764.9" y1="945.5" x2="764.9" y2="938.1"/>
+	</g>
+	<g id="LINE_97_">
+		<line class="st0" x1="744.1" y1="938.1" x2="744.1" y2="945.5"/>
+	</g>
+	<g id="LINE_98_">
+		<line class="st0" x1="744.1" y1="938.1" x2="764.9" y2="938.1"/>
+	</g>
+	<g id="LINE_99_">
+		<line class="st0" x1="744.1" y1="945.5" x2="764.9" y2="945.5"/>
+	</g>
+	<g id="LINE_100_">
+		<line class="st0" x1="695.3" y1="938.1" x2="695.3" y2="945.5"/>
+	</g>
+	<g id="LINE_101_">
+		<line class="st0" x1="684.9" y1="945.5" x2="684.9" y2="938.1"/>
+	</g>
+	<g id="LINE_102_">
+		<line class="st0" x1="700.5" y1="945.5" x2="700.5" y2="938.1"/>
+	</g>
+	<g id="LINE_103_">
+		<line class="st0" x1="679.7" y1="938.1" x2="679.7" y2="945.5"/>
+	</g>
+	<g id="LINE_104_">
+		<line class="st0" x1="679.7" y1="938.1" x2="700.5" y2="938.1"/>
+	</g>
+	<g id="LINE_105_">
+		<line class="st0" x1="679.7" y1="945.5" x2="700.5" y2="945.5"/>
+	</g>
+	<g id="LINE_106_">
+		<line class="st0" x1="771.8" y1="960" x2="771.8" y2="945.5"/>
+	</g>
+	<g id="SPLINE_181_">
+		<path class="st0" d="M708.1,945.5c0.3,0,0.5,0,0.8,0"/>
+	</g>
+	<g id="LINE_107_">
+		<line class="st0" x1="452.9" y1="944.9" x2="708.1" y2="945.5"/>
+	</g>
+	<g id="SPLINE_182_">
+		<path class="st0" d="M708.8,945.5c8.4,0.1,16.7,0.1,17.8,0.2c1.1,0,15.5,0.1,21.3,0.1c5.8,0,10.5,0,13.6-0.1
+			c3.2,0,10.2-0.1,10.2-0.2"/>
+	</g>
+	<g id="LINE_108_">
+		<line class="st0" x1="771.8" y1="945.5" x2="771.8" y2="945.5"/>
+	</g>
+	<g id="LINE_110_">
+		<line class="st0" x1="708.1" y1="945.2" x2="700.5" y2="945.2"/>
+	</g>
+	<g id="LINE_111_">
+		<line class="st0" x1="679.7" y1="945.2" x2="586.4" y2="945.1"/>
+	</g>
+	<g id="LINE_112_">
+		<line class="st0" x1="565.7" y1="945" x2="520.4" y2="944.8"/>
+	</g>
+	<g id="ARC_68_">
+		<path class="st0" d="M771.8,945.5c-0.3-0.2-0.6-0.3-1-0.3"/>
+	</g>
+	<g id="LINE_113_">
+		<line class="st0" x1="708.1" y1="945.2" x2="744.1" y2="945.2"/>
+	</g>
+	<g id="LINE_114_">
+		<line class="st0" x1="764.9" y1="945.2" x2="770.8" y2="945.2"/>
+	</g>
+	<g id="LINE_121_">
+		<line class="st0" x1="675.1" y1="937.7" x2="657.1" y2="937.7"/>
+	</g>
+	<g id="LINE_122_">
+		<line class="st0" x1="658.6" y1="939.2" x2="657.1" y2="937.7"/>
+	</g>
+	<g id="LINE_124_">
+		<line class="st0" x1="675.1" y1="937.7" x2="673.6" y2="939.2"/>
+	</g>
+	<g id="LINE_126_">
+		<line class="st0" x1="675.1" y1="941.5" x2="675.1" y2="937.7"/>
+	</g>
+	<g id="LINE_130_">
+		<line class="st0" x1="657.1" y1="937.7" x2="657.1" y2="941.5"/>
+	</g>
+	<g id="LINE_138_">
+		<line class="st0" x1="525" y1="937.4" x2="526.5" y2="938.9"/>
+	</g>
+	<g id="LINE_139_">
+		<line class="st0" x1="525" y1="937.4" x2="525" y2="941.1"/>
+	</g>
+	<g id="LINE_141_">
+		<line class="st0" x1="543" y1="937.4" x2="541.5" y2="938.9"/>
+	</g>
+	<g id="LINE_142_">
+		<line class="st0" x1="543" y1="937.4" x2="525" y2="937.4"/>
+	</g>
+	<g id="LINE_144_">
+		<line class="st0" x1="543" y1="941.1" x2="543" y2="937.4"/>
+	</g>
+	<g id="SPLINE_221_">
+		<path class="st0" d="M723.8,945.2c0.1,0,0.2,0,0.2,0c0.1-0.1,0.1-0.2,0-0.2c-0.2-0.1-0.6-0.3-1-0.5c-1.7-0.8-5.4-2-9.2-3.1"/>
+	</g>
+	<g id="ELLIPSE_14_">
+		<path class="st0" d="M727.9,938.2c-1.1-0.3-2.2-0.5-3.4-0.5"/>
+	</g>
+	<g id="ELLIPSE_15_">
+		<path class="st0" d="M702.7,938.2c-1.1-0.3-2.2-0.5-3.4-0.5"/>
+	</g>
+	<g id="LINE_152_">
+		<line class="st0" x1="724.5" y1="937.7" x2="699.3" y2="937.7"/>
+	</g>
+	<g id="LINE_154_">
+		<line class="st0" x1="727.9" y1="938.2" x2="744.1" y2="940.7"/>
+	</g>
+	<g id="LINE_155_">
+		<line class="st0" x1="713.9" y1="941.4" x2="702.7" y2="938.2"/>
+	</g>
+	<g id="LINE_156_">
+		<line class="st0" x1="699.3" y1="937.7" x2="681.9" y2="937.7"/>
+	</g>
+	<g id="LINE_157_">
+		<line class="st0" x1="681.9" y1="937.7" x2="675.1" y2="937.7"/>
+	</g>
+	<g id="LINE_158_">
+		<line class="st0" x1="475.5" y1="937.4" x2="525" y2="937.4"/>
+	</g>
+	<g id="LINE_159_">
+		<line class="st0" x1="543" y1="937.4" x2="657.1" y2="937.7"/>
+	</g>
+	<g id="LINE_160_">
+		<line class="st0" x1="581.2" y1="937.9" x2="581.2" y2="945.3"/>
+	</g>
+	<g id="LINE_161_">
+		<line class="st0" x1="570.9" y1="945.3" x2="570.9" y2="937.9"/>
+	</g>
+	<g id="LINE_162_">
+		<line class="st0" x1="586.4" y1="945.3" x2="586.4" y2="937.9"/>
+	</g>
+	<g id="LINE_163_">
+		<line class="st0" x1="565.7" y1="937.9" x2="565.7" y2="945.3"/>
+	</g>
+	<g id="LINE_164_">
+		<line class="st0" x1="565.7" y1="937.9" x2="586.4" y2="937.9"/>
+	</g>
+	<g id="LINE_165_">
+		<line class="st0" x1="565.7" y1="945.3" x2="586.4" y2="945.3"/>
+	</g>
+	<g id="LINE_166_">
+		<line class="st0" x1="566.8" y1="937.5" x2="584.2" y2="937.5"/>
+	</g>
+	<g id="LINE_167_">
+		<line class="st0" x1="629.3" y1="937.9" x2="629.3" y2="945.3"/>
+	</g>
+	<g id="LINE_168_">
+		<line class="st0" x1="618.9" y1="945.3" x2="618.9" y2="937.9"/>
+	</g>
+	<g id="LINE_169_">
+		<line class="st0" x1="634.5" y1="945.3" x2="634.5" y2="937.9"/>
+	</g>
+	<g id="LINE_170_">
+		<line class="st0" x1="613.7" y1="937.9" x2="613.7" y2="945.3"/>
+	</g>
+	<g id="LINE_171_">
+		<line class="st0" x1="613.7" y1="937.9" x2="634.5" y2="937.9"/>
+	</g>
+	<g id="LINE_172_">
+		<line class="st0" x1="613.7" y1="945.3" x2="634.5" y2="945.3"/>
+	</g>
+	<g id="LINE_173_">
+		<line class="st0" x1="614.8" y1="937.5" x2="632.2" y2="937.5"/>
+	</g>
+	<g id="LINE_174_">
+		<line class="st0" x1="520.4" y1="945" x2="520.4" y2="937.7"/>
+	</g>
+	<g id="LINE_175_">
+		<line class="st0" x1="499.6" y1="937.7" x2="520.4" y2="937.7"/>
+	</g>
+	<g id="LINE_176_">
+		<line class="st0" x1="499.6" y1="945" x2="520.4" y2="945"/>
+	</g>
+	<g id="LINE_177_">
+		<line class="st0" x1="440.4" y1="938.1" x2="440.4" y2="945.5"/>
+	</g>
+	<g id="LINE_178_">
+		<line class="st0" x1="450.8" y1="945.5" x2="450.8" y2="938.1"/>
+	</g>
+	<g id="LINE_179_">
+		<line class="st0" x1="435.2" y1="945.5" x2="435.2" y2="938.1"/>
+	</g>
+	<g id="LINE_180_">
+		<line class="st0" x1="456" y1="938.1" x2="456" y2="945.5"/>
+	</g>
+	<g id="LINE_181_">
+		<line class="st0" x1="456" y1="938.1" x2="435.2" y2="938.1"/>
+	</g>
+	<g id="LINE_182_">
+		<line class="st0" x1="456" y1="945.5" x2="435.2" y2="945.5"/>
+	</g>
+	<g id="LINE_183_">
+		<line class="st0" x1="504.8" y1="938.1" x2="504.8" y2="945.5"/>
+	</g>
+	<g id="LINE_184_">
+		<line class="st0" x1="515.2" y1="945.5" x2="515.2" y2="938.1"/>
+	</g>
+	<g id="LINE_185_">
+		<line class="st0" x1="499.6" y1="945.5" x2="499.6" y2="938.1"/>
+	</g>
+	<g id="LINE_186_">
+		<line class="st0" x1="520.4" y1="938.1" x2="520.4" y2="945.5"/>
+	</g>
+	<g id="LINE_187_">
+		<line class="st0" x1="520.4" y1="938.1" x2="499.6" y2="938.1"/>
+	</g>
+	<g id="LINE_188_">
+		<line class="st0" x1="520.4" y1="945.5" x2="499.6" y2="945.5"/>
+	</g>
+	<g id="SPLINE_232_">
+		<path class="st0" d="M492,945.5c-0.2,0-0.5,0-0.8,0"/>
+	</g>
+	<g id="SPLINE_233_">
+		<path class="st0" d="M491.3,945.5c-8.4,0.1-16.6,0.1-17.8,0.2c-1.1,0-15.6,0.1-21.3,0.1c-5.8,0-10.5,0-13.7-0.1
+			c-3.2,0-10.2-0.1-10.2-0.2"/>
+	</g>
+	<g id="LINE_189_">
+		<line class="st0" x1="428.3" y1="945.5" x2="428.3" y2="945.5"/>
+	</g>
+	<g id="LINE_191_">
+		<line class="st0" x1="492" y1="945.2" x2="499.6" y2="945.2"/>
+	</g>
+	<g id="ARC_69_">
+		<path class="st0" d="M429.3,945.2c-0.4,0-0.7,0.1-1,0.3"/>
+	</g>
+	<g id="LINE_192_">
+		<line class="st0" x1="492" y1="945.2" x2="456" y2="945.2"/>
+	</g>
+	<g id="LINE_193_">
+		<line class="st0" x1="435.2" y1="945.2" x2="429.3" y2="945.2"/>
+	</g>
+	<g id="SPLINE_236_">
+		<path class="st0" d="M476.3,945.2c-0.1,0-0.2,0-0.2,0c-0.2-0.1-0.1-0.2,0-0.2c0.2-0.1,0.6-0.3,0.9-0.5c1.7-0.8,5.4-2,9.2-3.1"/>
+	</g>
+	<g id="ELLIPSE_16_">
+		<path class="st0" d="M472.2,938.2c1.1-0.3,2.2-0.5,3.4-0.5"/>
+	</g>
+	<g id="ELLIPSE_17_">
+		<path class="st0" d="M497.4,938.2c1.1-0.3,2.2-0.5,3.4-0.5"/>
+	</g>
+	<g id="LINE_194_">
+		<line class="st0" x1="475.6" y1="937.7" x2="500.8" y2="937.7"/>
+	</g>
+	<g id="LINE_196_">
+		<line class="st0" x1="472.2" y1="938.2" x2="456" y2="940.7"/>
+	</g>
+	<g id="LINE_197_">
+		<line class="st0" x1="486.3" y1="941.4" x2="497.4" y2="938.2"/>
+	</g>
+	<g id="LINE_198_">
+		<line class="st0" x1="500.8" y1="937.7" x2="518.2" y2="937.7"/>
+	</g>
+	<g id="LINE_201_">
+		<line class="st0" x1="1155.2" y1="498.3" x2="1024.7" y2="491.5"/>
+	</g>
+	<g id="LINE_202_">
+		<line class="st0" x1="1005.9" y1="714.5" x2="1021.6" y2="709.4"/>
+	</g>
+	<g id="LINE_203_">
+		<line class="st0" x1="1021.6" y1="490.9" x2="1005.9" y2="485.8"/>
+	</g>
+	<g id="LINE_204_">
+		<line class="st0" x1="1153.7" y1="660.1" x2="1153.7" y2="540.2"/>
+	</g>
+	<g id="LINE_205_">
+		<line class="st0" x1="984.1" y1="452.4" x2="997" y2="452.4"/>
+	</g>
+	<g id="LINE_206_">
+		<line class="st0" x1="984.1" y1="747.9" x2="997" y2="747.9"/>
+	</g>
+	<g id="SPLINE_241_">
+		<path class="st0" d="M997,747.9"/>
+	</g>
+	<g id="SPLINE_242_">
+		<path class="st0" d="M997,452.4"/>
+	</g>
+	<g id="ARC_70_">
+		<path class="st0" d="M997,747.9c0.4-0.8,0.6-1.7,0.6-2.6"/>
+	</g>
+	<g id="ARC_71_">
+		<path class="st0" d="M997.6,455c0-0.9-0.2-1.8-0.6-2.6"/>
+	</g>
+	<g id="ARC_72_">
+		<path class="st0" d="M1021.6,490.9c1,0.3,2,0.5,3.1,0.6"/>
+	</g>
+	<g id="ARC_73_">
+		<path class="st0" d="M997.6,474.4c0,5.2,3.4,9.8,8.3,11.4"/>
+	</g>
+	<g id="ARC_74_">
+		<path class="st0" d="M1005.9,714.5c-4.9,1.6-8.3,6.2-8.3,11.4"/>
+	</g>
+	<g id="ARC_75_">
+		<path class="st0" d="M1156.7,499.8c0-0.8-0.6-1.5-1.4-1.5"/>
+	</g>
+	<g id="SPLINE_243_">
+		<path class="st0" d="M1156.7,500.8c0-0.3,0-0.5,0-0.7c0-0.2,0-0.3,0-0.3"/>
+	</g>
+	<g id="ARC_76_">
+		<path class="st0" d="M1155.2,538.7c0.8,0,1.4-0.7,1.4-1.5"/>
+	</g>
+	<g id="LINE_207_">
+		<line class="st0" x1="1156.7" y1="537.2" x2="1156.7" y2="500.8"/>
+	</g>
+	<g id="ARC_77_">
+		<path class="st0" d="M1155.1,538.7c-0.8,0-1.4,0.7-1.4,1.5"/>
+	</g>
+	<g id="LINE_209_">
+		<line class="st0" x1="1153.9" y1="538.8" x2="1155.2" y2="538.7"/>
+	</g>
+	<g id="LINE_212_">
+		<line class="st0" x1="1155.2" y1="702" x2="1024.7" y2="708.9"/>
+	</g>
+	<g id="ARC_78_">
+		<path class="st0" d="M1024.7,708.9c-1,0-2.1,0.2-3.1,0.6"/>
+	</g>
+	<g id="ARC_79_">
+		<path class="st0" d="M1155.2,702c0.8,0,1.4-0.7,1.4-1.5"/>
+	</g>
+	<g id="SPLINE_246_">
+		<path class="st0" d="M1156.7,699.5c0,0.3,0,0.5,0,0.7c0,0.2,0,0.3,0,0.3"/>
+	</g>
+	<g id="ARC_80_">
+		<path class="st0" d="M1156.7,663.1c0-0.8-0.6-1.5-1.4-1.5"/>
+	</g>
+	<g id="LINE_213_">
+		<line class="st0" x1="1156.7" y1="663.1" x2="1156.7" y2="699.5"/>
+	</g>
+	<g id="ARC_81_">
+		<path class="st0" d="M1153.7,660.1c0,0.8,0.6,1.5,1.4,1.5"/>
+	</g>
+	<g id="LINE_215_">
+		<line class="st0" x1="1153.9" y1="661.5" x2="1155.2" y2="661.6"/>
+	</g>
+	<g id="LINE_217_">
+		<line class="st0" x1="1156.7" y1="662.8" x2="1161" y2="662.8"/>
+	</g>
+	<g id="LINE_218_">
+		<line class="st0" x1="1156.7" y1="747" x2="1161" y2="747"/>
+	</g>
+	<g id="LINE_219_">
+		<line class="st0" x1="1156.7" y1="662.8" x2="1156.7" y2="747"/>
+	</g>
+	<g id="LINE_220_">
+		<line class="st0" x1="1156.7" y1="537.3" x2="1161" y2="537.3"/>
+	</g>
+	<g id="LINE_221_">
+		<line class="st0" x1="1156.7" y1="453" x2="1161" y2="453"/>
+	</g>
+	<g id="LINE_222_">
+		<line class="st0" x1="1156.7" y1="537.3" x2="1156.7" y2="453"/>
+	</g>
+	<g id="LINE_227_">
+		<line class="st0" x1="984.1" y1="747.9" x2="984.1" y2="452.4"/>
+	</g>
+	<g id="LINE_228_">
+		<line class="st0" x1="1008.1" y1="594.3" x2="1008.1" y2="606"/>
+	</g>
+	<g id="LINE_229_">
+		<line class="st0" x1="997.6" y1="606" x2="1008.1" y2="606"/>
+	</g>
+	<g id="LINE_230_">
+		<line class="st0" x1="997.6" y1="594.3" x2="1008.1" y2="594.3"/>
+	</g>
+	<g id="LINE_231_">
+		<line class="st0" x1="1008.1" y1="522.3" x2="1008.1" y2="534"/>
+	</g>
+	<g id="LINE_232_">
+		<line class="st0" x1="997.6" y1="534" x2="1008.1" y2="534"/>
+	</g>
+	<g id="LINE_233_">
+		<line class="st0" x1="997.6" y1="522.3" x2="1008.1" y2="522.3"/>
+	</g>
+	<g id="LINE_234_">
+		<line class="st0" x1="1008.1" y1="729.3" x2="1008.1" y2="741.1"/>
+	</g>
+	<g id="LINE_235_">
+		<line class="st0" x1="997.6" y1="741.1" x2="1008.1" y2="741.1"/>
+	</g>
+	<g id="LINE_236_">
+		<line class="st0" x1="997.6" y1="729.3" x2="1008.1" y2="729.3"/>
+	</g>
+	<g id="LINE_237_">
+		<line class="st0" x1="1008.1" y1="666.3" x2="1008.1" y2="678.1"/>
+	</g>
+	<g id="LINE_238_">
+		<line class="st0" x1="997.6" y1="678.1" x2="1008.1" y2="678.1"/>
+	</g>
+	<g id="LINE_239_">
+		<line class="st0" x1="997.6" y1="666.3" x2="1008.1" y2="666.3"/>
+	</g>
+	<g id="LINE_240_">
+		<line class="st0" x1="1008.1" y1="471" x2="1008.1" y2="459.2"/>
+	</g>
+	<g id="LINE_241_">
+		<line class="st0" x1="997.6" y1="459.2" x2="1008.1" y2="459.2"/>
+	</g>
+	<g id="LINE_242_">
+		<line class="st0" x1="997.6" y1="471" x2="1008.1" y2="471"/>
+	</g>
+	<g id="LINE_243_">
+		<line class="st0" x1="969" y1="745.6" x2="961.6" y2="745.6"/>
+	</g>
+	<g id="LINE_244_">
+		<line class="st0" x1="961.6" y1="724.8" x2="969" y2="724.8"/>
+	</g>
+	<g id="LINE_245_">
+		<line class="st0" x1="961.6" y1="724.8" x2="961.6" y2="745.6"/>
+	</g>
+	<g id="LINE_246_">
+		<line class="st0" x1="969" y1="724.8" x2="969" y2="745.6"/>
+	</g>
+	<g id="LINE_247_">
+		<line class="st0" x1="961.6" y1="539.3" x2="969" y2="539.3"/>
+	</g>
+	<g id="LINE_248_">
+		<line class="st0" x1="969" y1="528.9" x2="961.6" y2="528.9"/>
+	</g>
+	<g id="LINE_249_">
+		<line class="st0" x1="969" y1="544.5" x2="961.6" y2="544.5"/>
+	</g>
+	<g id="LINE_250_">
+		<line class="st0" x1="961.6" y1="523.8" x2="961.6" y2="544.5"/>
+	</g>
+	<g id="LINE_251_">
+		<line class="st0" x1="969" y1="523.8" x2="969" y2="544.5"/>
+	</g>
+	<g id="LINE_252_">
+		<line class="st0" x1="961.6" y1="671.4" x2="969" y2="671.4"/>
+	</g>
+	<g id="LINE_253_">
+		<line class="st0" x1="969" y1="661" x2="961.6" y2="661"/>
+	</g>
+	<g id="LINE_254_">
+		<line class="st0" x1="969" y1="676.6" x2="961.6" y2="676.6"/>
+	</g>
+	<g id="LINE_255_">
+		<line class="st0" x1="961.6" y1="655.8" x2="969" y2="655.8"/>
+	</g>
+	<g id="LINE_256_">
+		<line class="st0" x1="961.6" y1="655.8" x2="961.6" y2="676.6"/>
+	</g>
+	<g id="LINE_257_">
+		<line class="st0" x1="969" y1="655.8" x2="969" y2="676.6"/>
+	</g>
+	<g id="LINE_258_">
+		<line class="st0" x1="984.1" y1="747.9" x2="969" y2="747.9"/>
+	</g>
+	<g id="LINE_259_">
+		<line class="st0" x1="984.1" y1="452.4" x2="969" y2="452.4"/>
+	</g>
+	<g id="SPLINE_249_">
+		<path class="st0" d="M969,703.1c0,0.2,0,0.5,0,0.8"/>
+	</g>
+	<g id="LINE_260_">
+		<line class="st0" x1="969" y1="497.2" x2="969" y2="703.1"/>
+	</g>
+	<g id="SPLINE_250_">
+		<path class="st0" d="M969,703.9c0.1,8.4,0.1,16.6,0.2,15.2c0-1.5,0.1,3.8,0.1,9.6c0,5.8,0,10.5-0.1,13.6c0,3.2-0.1,5.6-0.2,5.6"/>
+	</g>
+	<g id="LINE_261_">
+		<line class="st0" x1="969" y1="747.9" x2="969" y2="747.9"/>
+	</g>
+	<g id="LINE_263_">
+		<line class="st0" x1="968.8" y1="703.1" x2="968.8" y2="676.6"/>
+	</g>
+	<g id="LINE_264_">
+		<line class="st0" x1="968.8" y1="655.8" x2="968.8" y2="610.5"/>
+	</g>
+	<g id="LINE_265_">
+		<line class="st0" x1="968.8" y1="589.7" x2="968.8" y2="544.5"/>
+	</g>
+	<g id="ARC_84_">
+		<path class="st0" d="M968.8,747.7c0,0.1,0.1,0.2,0.3,0.2"/>
+	</g>
+	<g id="LINE_266_">
+		<line class="st0" x1="968.8" y1="703.1" x2="968.8" y2="724.8"/>
+	</g>
+	<g id="LINE_267_">
+		<line class="st0" x1="968.8" y1="745.6" x2="968.8" y2="747.7"/>
+	</g>
+	<g id="LINE_274_">
+		<line class="st0" x1="961.3" y1="651.2" x2="961.3" y2="633.2"/>
+	</g>
+	<g id="LINE_275_">
+		<line class="st0" x1="962.8" y1="634.7" x2="961.3" y2="633.2"/>
+	</g>
+	<g id="LINE_277_">
+		<line class="st0" x1="961.3" y1="651.2" x2="962.8" y2="649.7"/>
+	</g>
+	<g id="LINE_279_">
+		<line class="st0" x1="965" y1="651.2" x2="961.3" y2="651.2"/>
+	</g>
+	<g id="LINE_283_">
+		<line class="st0" x1="961.3" y1="633.2" x2="965" y2="633.2"/>
+	</g>
+	<g id="LINE_291_">
+		<line class="st0" x1="961.3" y1="549.1" x2="962.8" y2="550.6"/>
+	</g>
+	<g id="LINE_292_">
+		<line class="st0" x1="961.3" y1="549.1" x2="965" y2="549.1"/>
+	</g>
+	<g id="LINE_294_">
+		<line class="st0" x1="961.3" y1="567.1" x2="962.8" y2="565.6"/>
+	</g>
+	<g id="LINE_295_">
+		<line class="st0" x1="961.3" y1="567.1" x2="961.3" y2="549.1"/>
+	</g>
+	<g id="LINE_297_">
+		<line class="st0" x1="965" y1="567.1" x2="961.3" y2="567.1"/>
+	</g>
+	<g id="SPLINE_291_">
+		<path class="st0" d="M968.8,718.8c0,0.1,0,0.2,0,0.2c-0.1,0.1-0.1,0.1-0.2,0c-0.1-0.2-0.3-0.6-0.5-0.9c-0.8-1.7-2-5.4-3.1-9.3"/>
+	</g>
+	<g id="ELLIPSE_20_">
+		<path class="st0" d="M961.7,717.7c-0.3-1.1-0.5-2.2-0.5-3.4"/>
+	</g>
+	<g id="ELLIPSE_21_">
+		<path class="st0" d="M961.7,678.8c-0.3-1.1-0.5-2.2-0.5-3.4"/>
+	</g>
+	<g id="LINE_304_">
+		<line class="st0" x1="961.3" y1="714.3" x2="961.3" y2="675.4"/>
+	</g>
+	<g id="LINE_306_">
+		<line class="st0" x1="961.7" y1="717.7" x2="964.2" y2="724.8"/>
+	</g>
+	<g id="LINE_307_">
+		<line class="st0" x1="964.9" y1="708.9" x2="961.7" y2="678.8"/>
+	</g>
+	<g id="LINE_308_">
+		<line class="st0" x1="961.3" y1="675.4" x2="961.3" y2="658"/>
+	</g>
+	<g id="LINE_309_">
+		<line class="st0" x1="961.3" y1="658" x2="961.3" y2="651.2"/>
+	</g>
+	<g id="LINE_310_">
+		<line class="st0" x1="961.3" y1="542.3" x2="961.3" y2="549.1"/>
+	</g>
+	<g id="LINE_311_">
+		<line class="st0" x1="961.3" y1="567.1" x2="961.3" y2="633.2"/>
+	</g>
+	<g id="LINE_312_">
+		<line class="st0" x1="961.3" y1="524.9" x2="961.3" y2="542.3"/>
+	</g>
+	<g id="LINE_313_">
+		<line class="st0" x1="961.6" y1="605.4" x2="969" y2="605.4"/>
+	</g>
+	<g id="LINE_314_">
+		<line class="st0" x1="969" y1="595" x2="961.6" y2="595"/>
+	</g>
+	<g id="LINE_315_">
+		<line class="st0" x1="969" y1="610.5" x2="961.6" y2="610.5"/>
+	</g>
+	<g id="LINE_316_">
+		<line class="st0" x1="961.6" y1="589.7" x2="969" y2="589.7"/>
+	</g>
+	<g id="LINE_317_">
+		<line class="st0" x1="961.6" y1="589.7" x2="961.6" y2="610.5"/>
+	</g>
+	<g id="LINE_318_">
+		<line class="st0" x1="969" y1="589.7" x2="969" y2="610.5"/>
+	</g>
+	<g id="LINE_319_">
+		<line class="st0" x1="961.3" y1="609.4" x2="961.3" y2="592"/>
+	</g>
+	<g id="LINE_321_">
+		<line class="st0" x1="969" y1="454.7" x2="961.6" y2="454.7"/>
+	</g>
+	<g id="LINE_322_">
+		<line class="st0" x1="961.6" y1="475.5" x2="969" y2="475.5"/>
+	</g>
+	<g id="LINE_323_">
+		<line class="st0" x1="961.6" y1="475.5" x2="961.6" y2="454.7"/>
+	</g>
+	<g id="LINE_324_">
+		<line class="st0" x1="969" y1="475.5" x2="969" y2="454.7"/>
+	</g>
+	<g id="LINE_325_">
+		<line class="st0" x1="969" y1="523.8" x2="961.6" y2="523.8"/>
+	</g>
+	<g id="LINE_326_">
+		<line class="st0" x1="984.1" y1="452.4" x2="969" y2="452.4"/>
+	</g>
+	<g id="SPLINE_297_">
+		<path class="st0" d="M969,497.2c0-0.2,0-0.5,0-0.8"/>
+	</g>
+	<g id="SPLINE_298_">
+		<path class="st0" d="M969,496.4c0.1-8.4,0.1-16.6,0.2-15.2c0,1.5,0.1-3.9,0.1-9.6c0-5.8,0-10.5-0.1-13.6c0-3.2-0.1-5.6-0.2-5.6"/>
+	</g>
+	<g id="LINE_327_">
+		<line class="st0" x1="969" y1="452.4" x2="969" y2="452.4"/>
+	</g>
+	<g id="LINE_329_">
+		<line class="st0" x1="968.8" y1="497.2" x2="968.8" y2="523.8"/>
+	</g>
+	<g id="ARC_85_">
+		<path class="st0" d="M969,452.4c-0.1,0-0.2,0.1-0.3,0.2"/>
+	</g>
+	<g id="LINE_330_">
+		<line class="st0" x1="968.8" y1="497.2" x2="968.8" y2="475.5"/>
+	</g>
+	<g id="LINE_331_">
+		<line class="st0" x1="968.8" y1="454.7" x2="968.8" y2="452.6"/>
+	</g>
+	<g id="SPLINE_301_">
+		<path class="st0" d="M968.8,481.5c0-0.1,0-0.2,0-0.2c-0.1-0.1-0.1-0.1-0.2,0c-0.1,0.2-0.3,0.6-0.5,0.9c-0.8,1.7-2,5.4-3.1,9.2"/>
+	</g>
+	<g id="ELLIPSE_22_">
+		<path class="st0" d="M961.7,482.6c-0.3,1.1-0.5,2.2-0.5,3.4"/>
+	</g>
+	<g id="ELLIPSE_23_">
+		<path class="st0" d="M961.7,521.6c-0.3,1.1-0.5,2.2-0.5,3.4"/>
+	</g>
+	<g id="LINE_332_">
+		<line class="st0" x1="961.3" y1="486" x2="961.3" y2="524.9"/>
+	</g>
+	<g id="LINE_334_">
+		<line class="st0" x1="961.7" y1="482.6" x2="964.2" y2="475.5"/>
+	</g>
+	<g id="LINE_335_">
+		<line class="st0" x1="964.9" y1="491.4" x2="961.7" y2="521.6"/>
+	</g>
+	<g id="LINE_338_">
+		<line class="st0" x1="44.8" y1="498.3" x2="175.3" y2="491.5"/>
+	</g>
+	<g id="LINE_339_">
+		<line class="st0" x1="194.1" y1="714.5" x2="178.4" y2="709.4"/>
+	</g>
+	<g id="LINE_340_">
+		<line class="st0" x1="178.4" y1="490.9" x2="194.1" y2="485.8"/>
+	</g>
+	<g id="LINE_341_">
+		<line class="st0" x1="46.3" y1="660.1" x2="46.3" y2="540.2"/>
+	</g>
+	<g id="LINE_342_">
+		<line class="st0" x1="215.9" y1="452.4" x2="203" y2="452.4"/>
+	</g>
+	<g id="LINE_343_">
+		<line class="st0" x1="215.9" y1="747.9" x2="203" y2="747.9"/>
+	</g>
+	<g id="SPLINE_304_">
+		<path class="st0" d="M203,747.9"/>
+	</g>
+	<g id="SPLINE_305_">
+		<path class="st0" d="M203,452.4"/>
+	</g>
+	<g id="ARC_86_">
+		<path class="st0" d="M202.4,745.3c0,0.9,0.2,1.8,0.6,2.6"/>
+	</g>
+	<g id="ARC_87_">
+		<path class="st0" d="M203,452.4c-0.4,0.8-0.6,1.7-0.6,2.6"/>
+	</g>
+	<g id="ARC_88_">
+		<path class="st0" d="M175.3,491.5c1-0.1,2.1-0.2,3.1-0.6"/>
+	</g>
+	<g id="ARC_89_">
+		<path class="st0" d="M194.1,485.8c4.9-1.6,8.3-6.2,8.3-11.4"/>
+	</g>
+	<g id="ARC_90_">
+		<path class="st0" d="M202.4,726c0-5.2-3.4-9.8-8.3-11.4"/>
+	</g>
+	<g id="ARC_91_">
+		<path class="st0" d="M44.8,498.3c-0.8,0-1.4,0.7-1.4,1.5"/>
+	</g>
+	<g id="SPLINE_306_">
+		<path class="st0" d="M43.3,500.8c0-0.3,0-0.5,0-0.7c0-0.2,0-0.3,0-0.3"/>
+	</g>
+	<g id="ARC_92_">
+		<path class="st0" d="M43.3,537.2c0,0.8,0.6,1.5,1.4,1.5"/>
+	</g>
+	<g id="LINE_344_">
+		<line class="st0" x1="43.3" y1="537.2" x2="43.3" y2="500.8"/>
+	</g>
+	<g id="ARC_93_">
+		<path class="st0" d="M46.3,540.2c0-0.8-0.6-1.5-1.4-1.5"/>
+	</g>
+	<g id="LINE_346_">
+		<line class="st0" x1="46.1" y1="538.8" x2="44.8" y2="538.7"/>
+	</g>
+	<g id="LINE_349_">
+		<line class="st0" x1="44.8" y1="702" x2="175.3" y2="708.9"/>
+	</g>
+	<g id="ARC_94_">
+		<path class="st0" d="M178.4,709.4c-1-0.3-2-0.5-3.1-0.6"/>
+	</g>
+	<g id="ARC_95_">
+		<path class="st0" d="M43.3,700.5c0,0.8,0.6,1.5,1.4,1.5"/>
+	</g>
+	<g id="SPLINE_309_">
+		<path class="st0" d="M43.3,699.5c0,0.3,0,0.5,0,0.7c0,0.2,0,0.3,0,0.3"/>
+	</g>
+	<g id="ARC_96_">
+		<path class="st0" d="M44.8,661.6c-0.8,0-1.4,0.7-1.4,1.5"/>
+	</g>
+	<g id="LINE_350_">
+		<line class="st0" x1="43.3" y1="663.1" x2="43.3" y2="699.5"/>
+	</g>
+	<g id="ARC_97_">
+		<path class="st0" d="M44.9,661.6c0.8,0,1.4-0.7,1.4-1.5"/>
+	</g>
+	<g id="LINE_352_">
+		<line class="st0" x1="46.1" y1="661.5" x2="44.8" y2="661.6"/>
+	</g>
+	<g id="LINE_354_">
+		<line class="st0" x1="43.3" y1="662.8" x2="39" y2="662.8"/>
+	</g>
+	<g id="LINE_355_">
+		<line class="st0" x1="43.3" y1="747" x2="39" y2="747"/>
+	</g>
+	<g id="LINE_356_">
+		<line class="st0" x1="43.3" y1="662.8" x2="43.3" y2="747"/>
+	</g>
+	<g id="LINE_357_">
+		<line class="st0" x1="43.3" y1="537.3" x2="39" y2="537.3"/>
+	</g>
+	<g id="LINE_358_">
+		<line class="st0" x1="43.3" y1="453" x2="39" y2="453"/>
+	</g>
+	<g id="LINE_359_">
+		<line class="st0" x1="43.3" y1="537.3" x2="43.3" y2="453"/>
+	</g>
+	<g id="LINE_364_">
+		<line class="st0" x1="215.9" y1="747.9" x2="215.9" y2="452.4"/>
+	</g>
+	<g id="LINE_365_">
+		<line class="st0" x1="191.9" y1="594.3" x2="191.9" y2="606"/>
+	</g>
+	<g id="LINE_366_">
+		<line class="st0" x1="202.4" y1="606" x2="191.9" y2="606"/>
+	</g>
+	<g id="LINE_367_">
+		<line class="st0" x1="202.4" y1="594.3" x2="191.9" y2="594.3"/>
+	</g>
+	<g id="LINE_368_">
+		<line class="st0" x1="191.9" y1="522.3" x2="191.9" y2="534"/>
+	</g>
+	<g id="LINE_369_">
+		<line class="st0" x1="202.4" y1="534" x2="191.9" y2="534"/>
+	</g>
+	<g id="LINE_370_">
+		<line class="st0" x1="202.4" y1="522.3" x2="191.9" y2="522.3"/>
+	</g>
+	<g id="LINE_371_">
+		<line class="st0" x1="191.9" y1="729.3" x2="191.9" y2="741.1"/>
+	</g>
+	<g id="LINE_372_">
+		<line class="st0" x1="202.4" y1="741.1" x2="191.9" y2="741.1"/>
+	</g>
+	<g id="LINE_373_">
+		<line class="st0" x1="202.4" y1="729.3" x2="191.9" y2="729.3"/>
+	</g>
+	<g id="LINE_374_">
+		<line class="st0" x1="191.9" y1="666.3" x2="191.9" y2="678.1"/>
+	</g>
+	<g id="LINE_375_">
+		<line class="st0" x1="202.4" y1="678.1" x2="191.9" y2="678.1"/>
+	</g>
+	<g id="LINE_376_">
+		<line class="st0" x1="202.4" y1="666.3" x2="191.9" y2="666.3"/>
+	</g>
+	<g id="LINE_377_">
+		<line class="st0" x1="191.9" y1="471" x2="191.9" y2="459.2"/>
+	</g>
+	<g id="LINE_378_">
+		<line class="st0" x1="202.4" y1="459.2" x2="191.9" y2="459.2"/>
+	</g>
+	<g id="LINE_379_">
+		<line class="st0" x1="202.4" y1="471" x2="191.9" y2="471"/>
+	</g>
+	<g id="LINE_380_">
+		<line class="st0" x1="231" y1="745.6" x2="238.4" y2="745.6"/>
+	</g>
+	<g id="LINE_381_">
+		<line class="st0" x1="238.4" y1="724.8" x2="231" y2="724.8"/>
+	</g>
+	<g id="LINE_382_">
+		<line class="st0" x1="238.4" y1="724.8" x2="238.4" y2="745.6"/>
+	</g>
+	<g id="LINE_383_">
+		<line class="st0" x1="231" y1="724.8" x2="231" y2="745.6"/>
+	</g>
+	<g id="LINE_384_">
+		<line class="st0" x1="238.4" y1="539.3" x2="231" y2="539.3"/>
+	</g>
+	<g id="LINE_385_">
+		<line class="st0" x1="231" y1="528.9" x2="238.4" y2="528.9"/>
+	</g>
+	<g id="LINE_386_">
+		<line class="st0" x1="231" y1="544.5" x2="238.4" y2="544.5"/>
+	</g>
+	<g id="LINE_387_">
+		<line class="st0" x1="238.4" y1="523.8" x2="238.4" y2="544.5"/>
+	</g>
+	<g id="LINE_388_">
+		<line class="st0" x1="231" y1="523.8" x2="231" y2="544.5"/>
+	</g>
+	<g id="LINE_389_">
+		<line class="st0" x1="238.4" y1="671.4" x2="231" y2="671.4"/>
+	</g>
+	<g id="LINE_390_">
+		<line class="st0" x1="231" y1="661" x2="238.4" y2="661"/>
+	</g>
+	<g id="LINE_391_">
+		<line class="st0" x1="231" y1="676.6" x2="238.4" y2="676.6"/>
+	</g>
+	<g id="LINE_392_">
+		<line class="st0" x1="238.4" y1="655.8" x2="231" y2="655.8"/>
+	</g>
+	<g id="LINE_393_">
+		<line class="st0" x1="238.4" y1="655.8" x2="238.4" y2="676.6"/>
+	</g>
+	<g id="LINE_394_">
+		<line class="st0" x1="231" y1="655.8" x2="231" y2="676.6"/>
+	</g>
+	<g id="LINE_395_">
+		<line class="st0" x1="215.9" y1="747.9" x2="231" y2="747.9"/>
+	</g>
+	<g id="LINE_396_">
+		<line class="st0" x1="215.9" y1="452.4" x2="231" y2="452.4"/>
+	</g>
+	<g id="SPLINE_312_">
+		<path class="st0" d="M231,703.1c0,0.2,0,0.5,0,0.8"/>
+	</g>
+	<g id="LINE_397_">
+		<line class="st0" x1="231" y1="497.2" x2="231" y2="703.1"/>
+	</g>
+	<g id="SPLINE_313_">
+		<path class="st0" d="M231,703.9c-0.1,8.4-0.1,16.6-0.2,15.2c0-1.5-0.1,3.8-0.1,9.6c0,5.8,0,10.5,0.1,13.6c0,3.2,0.1,5.6,0.2,5.6"
+			/>
+	</g>
+	<g id="LINE_398_">
+		<line class="st0" x1="231" y1="747.9" x2="231" y2="747.9"/>
+	</g>
+	<g id="LINE_400_">
+		<line class="st0" x1="231.3" y1="703.1" x2="231.3" y2="676.6"/>
+	</g>
+	<g id="LINE_401_">
+		<line class="st0" x1="231.3" y1="655.8" x2="231.3" y2="610.5"/>
+	</g>
+	<g id="LINE_402_">
+		<line class="st0" x1="231.3" y1="589.7" x2="231.3" y2="544.5"/>
+	</g>
+	<g id="ARC_100_">
+		<path class="st0" d="M231,747.9c0.1,0,0.2,0,0.3-0.2"/>
+	</g>
+	<g id="LINE_403_">
+		<line class="st0" x1="231.3" y1="703.1" x2="231.3" y2="724.8"/>
+	</g>
+	<g id="LINE_404_">
+		<line class="st0" x1="231.3" y1="745.6" x2="231.3" y2="747.7"/>
+	</g>
+	<g id="LINE_411_">
+		<line class="st0" x1="238.8" y1="651.2" x2="238.8" y2="633.2"/>
+	</g>
+	<g id="LINE_412_">
+		<line class="st0" x1="237.3" y1="634.7" x2="238.8" y2="633.2"/>
+	</g>
+	<g id="LINE_414_">
+		<line class="st0" x1="238.8" y1="651.2" x2="237.3" y2="649.7"/>
+	</g>
+	<g id="LINE_416_">
+		<line class="st0" x1="235" y1="651.2" x2="238.8" y2="651.2"/>
+	</g>
+	<g id="LINE_420_">
+		<line class="st0" x1="238.8" y1="633.2" x2="235" y2="633.2"/>
+	</g>
+	<g id="LINE_428_">
+		<line class="st0" x1="238.8" y1="549.1" x2="237.3" y2="550.6"/>
+	</g>
+	<g id="LINE_429_">
+		<line class="st0" x1="238.8" y1="549.1" x2="235" y2="549.1"/>
+	</g>
+	<g id="LINE_431_">
+		<line class="st0" x1="238.8" y1="567.1" x2="237.3" y2="565.6"/>
+	</g>
+	<g id="LINE_432_">
+		<line class="st0" x1="238.8" y1="567.1" x2="238.8" y2="549.1"/>
+	</g>
+	<g id="LINE_434_">
+		<line class="st0" x1="235" y1="567.1" x2="238.8" y2="567.1"/>
+	</g>
+	<g id="SPLINE_354_">
+		<path class="st0" d="M231.3,718.8c0,0.1,0,0.2,0,0.2c0.1,0.1,0.2,0.1,0.2,0c0.1-0.2,0.3-0.6,0.5-0.9c0.7-1.7,2-5.4,3.1-9.3"/>
+	</g>
+	<g id="ELLIPSE_26_">
+		<path class="st0" d="M238.3,717.7c0.3-1.1,0.5-2.2,0.5-3.4"/>
+	</g>
+	<g id="ELLIPSE_27_">
+		<path class="st0" d="M238.3,678.8c0.3-1.1,0.5-2.2,0.5-3.4"/>
+	</g>
+	<g id="LINE_441_">
+		<line class="st0" x1="238.8" y1="714.3" x2="238.8" y2="675.4"/>
+	</g>
+	<g id="LINE_443_">
+		<line class="st0" x1="238.3" y1="717.7" x2="235.8" y2="724.8"/>
+	</g>
+	<g id="LINE_444_">
+		<line class="st0" x1="235.1" y1="708.9" x2="238.3" y2="678.8"/>
+	</g>
+	<g id="LINE_445_">
+		<line class="st0" x1="238.8" y1="675.4" x2="238.8" y2="658"/>
+	</g>
+	<g id="LINE_446_">
+		<line class="st0" x1="238.8" y1="658" x2="238.8" y2="651.2"/>
+	</g>
+	<g id="LINE_447_">
+		<line class="st0" x1="238.8" y1="542.3" x2="238.8" y2="549.1"/>
+	</g>
+	<g id="LINE_448_">
+		<line class="st0" x1="238.8" y1="567.1" x2="238.8" y2="633.2"/>
+	</g>
+	<g id="LINE_449_">
+		<line class="st0" x1="238.8" y1="524.9" x2="238.8" y2="542.3"/>
+	</g>
+	<g id="LINE_450_">
+		<line class="st0" x1="238.4" y1="605.4" x2="231" y2="605.4"/>
+	</g>
+	<g id="LINE_451_">
+		<line class="st0" x1="231" y1="595" x2="238.4" y2="595"/>
+	</g>
+	<g id="LINE_452_">
+		<line class="st0" x1="231" y1="610.5" x2="238.4" y2="610.5"/>
+	</g>
+	<g id="LINE_453_">
+		<line class="st0" x1="238.4" y1="589.7" x2="231" y2="589.7"/>
+	</g>
+	<g id="LINE_454_">
+		<line class="st0" x1="238.4" y1="589.7" x2="238.4" y2="610.5"/>
+	</g>
+	<g id="LINE_455_">
+		<line class="st0" x1="231" y1="589.7" x2="231" y2="610.5"/>
+	</g>
+	<g id="LINE_456_">
+		<line class="st0" x1="238.8" y1="609.4" x2="238.8" y2="592"/>
+	</g>
+	<g id="LINE_458_">
+		<line class="st0" x1="231" y1="454.7" x2="238.4" y2="454.7"/>
+	</g>
+	<g id="LINE_459_">
+		<line class="st0" x1="238.4" y1="475.5" x2="231" y2="475.5"/>
+	</g>
+	<g id="LINE_460_">
+		<line class="st0" x1="238.4" y1="475.5" x2="238.4" y2="454.7"/>
+	</g>
+	<g id="LINE_461_">
+		<line class="st0" x1="231" y1="475.5" x2="231" y2="454.7"/>
+	</g>
+	<g id="LINE_462_">
+		<line class="st0" x1="231" y1="523.8" x2="238.4" y2="523.8"/>
+	</g>
+	<g id="LINE_463_">
+		<line class="st0" x1="215.9" y1="452.4" x2="231" y2="452.4"/>
+	</g>
+	<g id="SPLINE_360_">
+		<path class="st0" d="M231,497.2c0-0.2,0-0.5,0-0.8"/>
+	</g>
+	<g id="SPLINE_361_">
+		<path class="st0" d="M231,496.4c-0.1-8.4-0.1-16.6-0.2-15.2c0,1.5-0.1-3.9-0.1-9.6c0-5.8,0-10.5,0.1-13.6c0-3.2,0.1-5.6,0.2-5.6"
+			/>
+	</g>
+	<g id="LINE_464_">
+		<line class="st0" x1="231" y1="452.4" x2="231" y2="452.4"/>
+	</g>
+	<g id="LINE_466_">
+		<line class="st0" x1="231.3" y1="497.2" x2="231.3" y2="523.8"/>
+	</g>
+	<g id="ARC_101_">
+		<path class="st0" d="M231.3,452.6c0-0.1-0.1-0.2-0.3-0.2"/>
+	</g>
+	<g id="LINE_467_">
+		<line class="st0" x1="231.3" y1="497.2" x2="231.3" y2="475.5"/>
+	</g>
+	<g id="LINE_468_">
+		<line class="st0" x1="231.3" y1="454.7" x2="231.3" y2="452.6"/>
+	</g>
+	<g id="SPLINE_364_">
+		<path class="st0" d="M231.3,481.5c0-0.1,0-0.2,0-0.2c0.1-0.1,0.2-0.1,0.2,0c0.1,0.2,0.3,0.6,0.5,0.9c0.7,1.7,2,5.4,3.1,9.2"/>
+	</g>
+	<g id="ELLIPSE_28_">
+		<path class="st0" d="M238.3,482.6c0.3,1.1,0.5,2.2,0.5,3.4"/>
+	</g>
+	<g id="ELLIPSE_29_">
+		<path class="st0" d="M238.3,521.6c0.3,1.1,0.5,2.2,0.5,3.4"/>
+	</g>
+	<g id="LINE_469_">
+		<line class="st0" x1="238.8" y1="486" x2="238.8" y2="524.9"/>
+	</g>
+	<g id="LINE_471_">
+		<line class="st0" x1="238.3" y1="482.6" x2="235.8" y2="475.5"/>
+	</g>
+	<g id="LINE_472_">
+		<line class="st0" x1="235.1" y1="491.4" x2="238.3" y2="521.6"/>
+	</g>
+	<g id="LINE_475_">
+		<line class="st0" x1="771.8" y1="240" x2="771.8" y2="227.2"/>
+	</g>
+	<g id="LINE_476_">
+		<line class="st0" x1="428.2" y1="240" x2="428.2" y2="227.2"/>
+	</g>
+	<g id="SPLINE_367_">
+		<path class="st0" d="M771.8,227.2"/>
+	</g>
+	<g id="SPLINE_368_">
+		<path class="st0" d="M428.2,227.2"/>
+	</g>
+	<g id="ARC_102_">
+		<path class="st0" d="M430.8,226.5c-0.9,0-1.8,0.2-2.6,0.6"/>
+	</g>
+	<g id="ARC_103_">
+		<path class="st0" d="M771.8,227.2c-0.8-0.4-1.7-0.6-2.6-0.6"/>
+	</g>
+	<g id="LINE_477_">
+		<line class="st0" x1="727.3" y1="93.2" x2="733.7" y2="215.2"/>
+	</g>
+	<g id="ARC_104_">
+		<path class="st0" d="M727.3,93.2c-0.5-8.8-5.7-16.7-13.7-20.4"/>
+	</g>
+	<g id="LINE_478_">
+		<line class="st0" x1="522.1" y1="70.5" x2="678" y2="70.5"/>
+	</g>
+	<g id="ARC_105_">
+		<path class="st0" d="M486.4,72.8c-8,3.8-13.2,11.6-13.7,20.4"/>
+	</g>
+	<g id="LINE_479_">
+		<line class="st0" x1="466.3" y1="215.2" x2="472.7" y2="93.2"/>
+	</g>
+	<g id="ARC_106_">
+		<path class="st0" d="M733.7,215.2c0.3,6.4,5.6,11.4,12,11.4"/>
+	</g>
+	<g id="ARC_107_">
+		<path class="st0" d="M454.3,226.5c6.4,0,11.7-5,12-11.4"/>
+	</g>
+	<g id="ARC_108_">
+		<path class="st0" d="M520.6,68.9c0-0.8-0.7-1.4-1.5-1.4"/>
+	</g>
+	<g id="ARC_109_">
+		<path class="st0" d="M488.9,67.5c-0.8,0-1.5,0.6-1.5,1.4"/>
+	</g>
+	<g id="ARC_110_">
+		<path class="st0" d="M520.6,69.1c0,0.8,0.7,1.4,1.5,1.4"/>
+	</g>
+	<g id="ARC_111_">
+		<path class="st0" d="M486.4,72.8c0.5-0.2,0.8-0.7,0.9-1.3"/>
+	</g>
+	<g id="ARC_112_">
+		<path class="st0" d="M712.6,68.9c0-0.8-0.7-1.4-1.5-1.4"/>
+	</g>
+	<g id="ARC_113_">
+		<path class="st0" d="M681,67.5c-0.8,0-1.5,0.6-1.5,1.4"/>
+	</g>
+	<g id="ARC_114_">
+		<path class="st0" d="M678,70.5c0.8,0,1.5-0.6,1.5-1.4"/>
+	</g>
+	<g id="ARC_115_">
+		<path class="st0" d="M712.8,71.5c0,0.6,0.4,1,0.9,1.3"/>
+	</g>
+	<g id="SPLINE_375_">
+		<path class="st0" d="M488.9,67.5c0.6,0,1.3,0,1.9,0c0.6,0,1.3,0,1.9,0c0.6,0,1.3,0,2,0c0.6,0,1.3,0,2,0"/>
+	</g>
+	<g id="LINE_482_">
+		<line class="st0" x1="496.7" y1="67.5" x2="519.1" y2="67.5"/>
+	</g>
+	<g id="SPLINE_376_">
+		<path class="st0" d="M486.5,85.6c0.1-1.7,0.2-3.5,0.3-5.2c0.2-3.8,0.4-7.7,0.6-11.5"/>
+	</g>
+	<g id="LINE_483_">
+		<line class="st0" x1="681" y1="67.5" x2="703.3" y2="67.5"/>
+	</g>
+	<g id="SPLINE_377_">
+		<path class="st0" d="M703.3,67.5c1.3,0,2.6,0,3.9,0c1.3,0,2.6,0,3.8,0"/>
+	</g>
+	<g id="SPLINE_378_">
+		<path class="st0" d="M712.6,68.9c0.2,3.8,0.4,7.7,0.6,11.5c0.1,1.7,0.2,3.5,0.3,5.2"/>
+	</g>
+	<g id="SPLINE_379_">
+		<path class="st0" d="M494.9,67.5c-1,0-2,0-3,0s-2,0-2.9,0"/>
+	</g>
+	<g id="LINE_488_">
+		<line class="st0" x1="494.8" y1="67.5" x2="490.4" y2="67.5"/>
+	</g>
+	<g id="LINE_489_">
+		<line class="st0" x1="494.8" y1="67.5" x2="517.4" y2="67.5"/>
+	</g>
+	<g id="LINE_490_">
+		<line class="st0" x1="517.5" y1="63.2" x2="517.5" y2="67.5"/>
+	</g>
+	<g id="LINE_491_">
+		<line class="st0" x1="490.3" y1="63.2" x2="490.3" y2="67.5"/>
+	</g>
+	<g id="LINE_492_">
+		<line class="st0" x1="510" y1="67.5" x2="510" y2="63.2"/>
+	</g>
+	<g id="LINE_493_">
+		<line class="st0" x1="498" y1="67.5" x2="498" y2="63.2"/>
+	</g>
+	<g id="LINE_500_">
+		<line class="st0" x1="687" y1="67.5" x2="682.6" y2="67.5"/>
+	</g>
+	<g id="LINE_501_">
+		<line class="st0" x1="687" y1="67.5" x2="709.6" y2="67.5"/>
+	</g>
+	<g id="LINE_502_">
+		<line class="st0" x1="709.7" y1="63.2" x2="709.7" y2="67.5"/>
+	</g>
+	<g id="LINE_503_">
+		<line class="st0" x1="682.6" y1="63.2" x2="682.6" y2="67.5"/>
+	</g>
+	<g id="LINE_504_">
+		<line class="st0" x1="702.2" y1="67.5" x2="702.2" y2="63.2"/>
+	</g>
+	<g id="LINE_505_">
+		<line class="st0" x1="690.2" y1="67.5" x2="690.2" y2="63.2"/>
+	</g>
+	<g id="LINE_515_">
+		<line class="st0" x1="771.8" y1="240" x2="428.2" y2="240"/>
+	</g>
+	<g id="LINE_516_">
+		<line class="st0" x1="748.6" y1="215.7" x2="760.3" y2="215.7"/>
+	</g>
+	<g id="LINE_517_">
+		<line class="st0" x1="760.3" y1="226.6" x2="760.3" y2="215.7"/>
+	</g>
+	<g id="LINE_518_">
+		<line class="st0" x1="748.6" y1="226.6" x2="748.6" y2="215.7"/>
+	</g>
+	<g id="LINE_519_">
+		<line class="st0" x1="451.4" y1="215.7" x2="439.7" y2="215.7"/>
+	</g>
+	<g id="LINE_520_">
+		<line class="st0" x1="439.7" y1="226.6" x2="439.7" y2="215.7"/>
+	</g>
+	<g id="LINE_521_">
+		<line class="st0" x1="451.4" y1="226.6" x2="451.4" y2="215.7"/>
+	</g>
+	<g id="LINE_522_">
+		<line class="st0" x1="570.1" y1="216.2" x2="581.9" y2="216.2"/>
+	</g>
+	<g id="LINE_523_">
+		<line class="st0" x1="581.9" y1="226.6" x2="581.9" y2="216.2"/>
+	</g>
+	<g id="LINE_524_">
+		<line class="st0" x1="570.1" y1="226.6" x2="570.1" y2="216.2"/>
+	</g>
+	<g id="LINE_525_">
+		<line class="st0" x1="618.2" y1="216.2" x2="629.9" y2="216.2"/>
+	</g>
+	<g id="LINE_526_">
+		<line class="st0" x1="629.9" y1="226.6" x2="629.9" y2="216.2"/>
+	</g>
+	<g id="LINE_527_">
+		<line class="st0" x1="618.2" y1="226.6" x2="618.2" y2="216.2"/>
+	</g>
+	<g id="LINE_528_">
+		<line class="st0" x1="504.1" y1="216.2" x2="515.9" y2="216.2"/>
+	</g>
+	<g id="LINE_529_">
+		<line class="st0" x1="515.9" y1="226.6" x2="515.9" y2="216.2"/>
+	</g>
+	<g id="LINE_530_">
+		<line class="st0" x1="504.1" y1="226.6" x2="504.1" y2="216.2"/>
+	</g>
+	<g id="LINE_531_">
+		<line class="st0" x1="684.2" y1="216.2" x2="695.9" y2="216.2"/>
+	</g>
+	<g id="LINE_532_">
+		<line class="st0" x1="695.9" y1="226.6" x2="695.9" y2="216.2"/>
+	</g>
+	<g id="LINE_533_">
+		<line class="st0" x1="684.2" y1="226.6" x2="684.2" y2="216.2"/>
+	</g>
+	<g id="LINE_534_">
+		<line class="st0" x1="759.7" y1="261.9" x2="759.7" y2="254.5"/>
+	</g>
+	<g id="LINE_535_">
+		<line class="st0" x1="749.3" y1="254.5" x2="749.3" y2="261.9"/>
+	</g>
+	<g id="LINE_536_">
+		<line class="st0" x1="764.9" y1="254.5" x2="764.9" y2="261.9"/>
+	</g>
+	<g id="LINE_537_">
+		<line class="st0" x1="744.1" y1="261.9" x2="744.1" y2="254.5"/>
+	</g>
+	<g id="LINE_538_">
+		<line class="st0" x1="744.1" y1="261.9" x2="764.9" y2="261.9"/>
+	</g>
+	<g id="LINE_539_">
+		<line class="st0" x1="744.1" y1="254.5" x2="764.9" y2="254.5"/>
+	</g>
+	<g id="LINE_540_">
+		<line class="st0" x1="695.3" y1="261.9" x2="695.3" y2="254.5"/>
+	</g>
+	<g id="LINE_541_">
+		<line class="st0" x1="684.9" y1="254.5" x2="684.9" y2="261.9"/>
+	</g>
+	<g id="LINE_542_">
+		<line class="st0" x1="700.5" y1="254.5" x2="700.5" y2="261.9"/>
+	</g>
+	<g id="LINE_543_">
+		<line class="st0" x1="679.7" y1="261.9" x2="679.7" y2="254.5"/>
+	</g>
+	<g id="LINE_544_">
+		<line class="st0" x1="679.7" y1="261.9" x2="700.5" y2="261.9"/>
+	</g>
+	<g id="LINE_545_">
+		<line class="st0" x1="679.7" y1="254.5" x2="700.5" y2="254.5"/>
+	</g>
+	<g id="LINE_546_">
+		<line class="st0" x1="771.8" y1="240" x2="771.8" y2="254.5"/>
+	</g>
+	<g id="SPLINE_380_">
+		<path class="st0" d="M708.1,254.5c0.3,0,0.5,0,0.8,0"/>
+	</g>
+	<g id="LINE_547_">
+		<line class="st0" x1="452.9" y1="255.1" x2="708.1" y2="254.5"/>
+	</g>
+	<g id="SPLINE_381_">
+		<path class="st0" d="M708.8,254.5c8.4-0.1,16.7-0.1,17.8-0.2c1.1,0,15.5-0.1,21.3-0.1c5.8,0,10.5,0,13.6,0.1
+			c3.2,0,10.2,0.1,10.2,0.2"/>
+	</g>
+	<g id="LINE_548_">
+		<line class="st0" x1="771.8" y1="254.5" x2="771.8" y2="254.5"/>
+	</g>
+	<g id="LINE_550_">
+		<line class="st0" x1="708.1" y1="254.8" x2="700.5" y2="254.8"/>
+	</g>
+	<g id="LINE_551_">
+		<line class="st0" x1="679.7" y1="254.8" x2="586.4" y2="254.9"/>
+	</g>
+	<g id="LINE_552_">
+		<line class="st0" x1="565.7" y1="255" x2="520.4" y2="255.2"/>
+	</g>
+	<g id="ARC_118_">
+		<path class="st0" d="M770.8,254.8c0.4,0,0.7-0.1,1-0.3"/>
+	</g>
+	<g id="LINE_553_">
+		<line class="st0" x1="708.1" y1="254.8" x2="744.1" y2="254.8"/>
+	</g>
+	<g id="LINE_554_">
+		<line class="st0" x1="764.9" y1="254.8" x2="770.8" y2="254.8"/>
+	</g>
+	<g id="LINE_561_">
+		<line class="st0" x1="675.1" y1="262.3" x2="657.1" y2="262.3"/>
+	</g>
+	<g id="LINE_562_">
+		<line class="st0" x1="658.6" y1="260.8" x2="657.1" y2="262.3"/>
+	</g>
+	<g id="LINE_564_">
+		<line class="st0" x1="675.1" y1="262.3" x2="673.6" y2="260.8"/>
+	</g>
+	<g id="LINE_566_">
+		<line class="st0" x1="675.1" y1="258.5" x2="675.1" y2="262.3"/>
+	</g>
+	<g id="LINE_570_">
+		<line class="st0" x1="657.1" y1="262.3" x2="657.1" y2="258.5"/>
+	</g>
+	<g id="LINE_578_">
+		<line class="st0" x1="525" y1="262.6" x2="526.5" y2="261.1"/>
+	</g>
+	<g id="LINE_579_">
+		<line class="st0" x1="525" y1="262.6" x2="525" y2="258.9"/>
+	</g>
+	<g id="LINE_581_">
+		<line class="st0" x1="543" y1="262.6" x2="541.5" y2="261.1"/>
+	</g>
+	<g id="LINE_582_">
+		<line class="st0" x1="543" y1="262.6" x2="525" y2="262.6"/>
+	</g>
+	<g id="LINE_584_">
+		<line class="st0" x1="543" y1="258.9" x2="543" y2="262.6"/>
+	</g>
+	<g id="SPLINE_420_">
+		<path class="st0" d="M723.8,254.8c0.1,0,0.2,0,0.2,0c0.1,0.1,0.1,0.2,0,0.2c-0.2,0.1-0.6,0.3-1,0.5c-1.7,0.8-5.4,2-9.2,3.1"/>
+	</g>
+	<g id="ELLIPSE_30_">
+		<path class="st0" d="M727.9,261.8c-1.1,0.3-2.2,0.5-3.4,0.5"/>
+	</g>
+	<g id="ELLIPSE_31_">
+		<path class="st0" d="M702.7,261.8c-1.1,0.3-2.2,0.5-3.4,0.5"/>
+	</g>
+	<g id="LINE_592_">
+		<line class="st0" x1="724.5" y1="262.3" x2="699.3" y2="262.3"/>
+	</g>
+	<g id="LINE_594_">
+		<line class="st0" x1="727.9" y1="261.8" x2="744.1" y2="259.3"/>
+	</g>
+	<g id="LINE_595_">
+		<line class="st0" x1="713.9" y1="258.6" x2="702.7" y2="261.8"/>
+	</g>
+	<g id="LINE_596_">
+		<line class="st0" x1="699.3" y1="262.3" x2="681.9" y2="262.3"/>
+	</g>
+	<g id="LINE_597_">
+		<line class="st0" x1="681.9" y1="262.3" x2="675.1" y2="262.3"/>
+	</g>
+	<g id="LINE_598_">
+		<line class="st0" x1="475.5" y1="262.6" x2="525" y2="262.6"/>
+	</g>
+	<g id="LINE_599_">
+		<line class="st0" x1="543" y1="262.6" x2="657.1" y2="262.3"/>
+	</g>
+	<g id="LINE_600_">
+		<line class="st0" x1="581.2" y1="262.1" x2="581.2" y2="254.7"/>
+	</g>
+	<g id="LINE_601_">
+		<line class="st0" x1="570.9" y1="254.7" x2="570.9" y2="262.1"/>
+	</g>
+	<g id="LINE_602_">
+		<line class="st0" x1="586.4" y1="254.7" x2="586.4" y2="262.1"/>
+	</g>
+	<g id="LINE_603_">
+		<line class="st0" x1="565.7" y1="262.1" x2="565.7" y2="254.7"/>
+	</g>
+	<g id="LINE_604_">
+		<line class="st0" x1="565.7" y1="262.1" x2="586.4" y2="262.1"/>
+	</g>
+	<g id="LINE_605_">
+		<line class="st0" x1="565.7" y1="254.7" x2="586.4" y2="254.7"/>
+	</g>
+	<g id="LINE_606_">
+		<line class="st0" x1="566.8" y1="262.5" x2="584.2" y2="262.5"/>
+	</g>
+	<g id="LINE_607_">
+		<line class="st0" x1="629.3" y1="262.1" x2="629.3" y2="254.7"/>
+	</g>
+	<g id="LINE_608_">
+		<line class="st0" x1="618.9" y1="254.7" x2="618.9" y2="262.1"/>
+	</g>
+	<g id="LINE_609_">
+		<line class="st0" x1="634.5" y1="254.7" x2="634.5" y2="262.1"/>
+	</g>
+	<g id="LINE_610_">
+		<line class="st0" x1="613.7" y1="262.1" x2="613.7" y2="254.7"/>
+	</g>
+	<g id="LINE_611_">
+		<line class="st0" x1="613.7" y1="262.1" x2="634.5" y2="262.1"/>
+	</g>
+	<g id="LINE_612_">
+		<line class="st0" x1="613.7" y1="254.7" x2="634.5" y2="254.7"/>
+	</g>
+	<g id="LINE_613_">
+		<line class="st0" x1="614.8" y1="262.5" x2="632.2" y2="262.5"/>
+	</g>
+	<g id="LINE_614_">
+		<line class="st0" x1="520.4" y1="255" x2="520.4" y2="262.4"/>
+	</g>
+	<g id="LINE_615_">
+		<line class="st0" x1="499.6" y1="262.4" x2="520.4" y2="262.4"/>
+	</g>
+	<g id="LINE_616_">
+		<line class="st0" x1="499.6" y1="255" x2="520.4" y2="255"/>
+	</g>
+	<g id="LINE_617_">
+		<line class="st0" x1="440.4" y1="261.9" x2="440.4" y2="254.5"/>
+	</g>
+	<g id="LINE_618_">
+		<line class="st0" x1="450.8" y1="254.5" x2="450.8" y2="261.9"/>
+	</g>
+	<g id="LINE_619_">
+		<line class="st0" x1="435.2" y1="254.5" x2="435.2" y2="261.9"/>
+	</g>
+	<g id="LINE_620_">
+		<line class="st0" x1="456" y1="261.9" x2="456" y2="254.5"/>
+	</g>
+	<g id="LINE_621_">
+		<line class="st0" x1="456" y1="261.9" x2="435.2" y2="261.9"/>
+	</g>
+	<g id="LINE_622_">
+		<line class="st0" x1="456" y1="254.5" x2="435.2" y2="254.5"/>
+	</g>
+	<g id="LINE_623_">
+		<line class="st0" x1="504.8" y1="261.9" x2="504.8" y2="254.5"/>
+	</g>
+	<g id="LINE_624_">
+		<line class="st0" x1="515.2" y1="254.5" x2="515.2" y2="261.9"/>
+	</g>
+	<g id="LINE_625_">
+		<line class="st0" x1="499.6" y1="254.5" x2="499.6" y2="261.9"/>
+	</g>
+	<g id="LINE_626_">
+		<line class="st0" x1="520.4" y1="261.9" x2="520.4" y2="254.5"/>
+	</g>
+	<g id="LINE_627_">
+		<line class="st0" x1="520.4" y1="261.9" x2="499.6" y2="261.9"/>
+	</g>
+	<g id="LINE_628_">
+		<line class="st0" x1="520.4" y1="254.5" x2="499.6" y2="254.5"/>
+	</g>
+	<g id="SPLINE_431_">
+		<path class="st0" d="M492,254.5c-0.2,0-0.5,0-0.8,0"/>
+	</g>
+	<g id="SPLINE_432_">
+		<path class="st0" d="M491.3,254.5c-8.4-0.1-16.6-0.1-17.8-0.2c-1.1,0-15.6-0.1-21.3-0.1c-5.8,0-10.5,0-13.7,0.1
+			c-3.2,0-10.2,0.1-10.2,0.2"/>
+	</g>
+	<g id="LINE_629_">
+		<line class="st0" x1="428.3" y1="254.5" x2="428.3" y2="254.5"/>
+	</g>
+	<g id="LINE_631_">
+		<line class="st0" x1="492" y1="254.8" x2="499.6" y2="254.8"/>
+	</g>
+	<g id="ARC_119_">
+		<path class="st0" d="M428.3,254.5c0.3,0.2,0.6,0.3,1,0.3"/>
+	</g>
+	<g id="LINE_632_">
+		<line class="st0" x1="492" y1="254.8" x2="456" y2="254.8"/>
+	</g>
+	<g id="LINE_633_">
+		<line class="st0" x1="435.2" y1="254.8" x2="429.3" y2="254.8"/>
+	</g>
+	<g id="SPLINE_435_">
+		<path class="st0" d="M476.3,254.8c-0.1,0-0.2,0-0.2,0c-0.2,0.1-0.1,0.2,0,0.2c0.2,0.1,0.6,0.3,0.9,0.5c1.7,0.8,5.4,2,9.2,3.1"/>
+	</g>
+	<g id="ELLIPSE_32_">
+		<path class="st0" d="M472.2,261.8c1.1,0.3,2.2,0.5,3.4,0.5"/>
+	</g>
+	<g id="ELLIPSE_33_">
+		<path class="st0" d="M497.4,261.8c1.1,0.3,2.2,0.5,3.4,0.5"/>
+	</g>
+	<g id="LINE_634_">
+		<line class="st0" x1="475.6" y1="262.3" x2="500.8" y2="262.3"/>
+	</g>
+	<g id="LINE_636_">
+		<line class="st0" x1="472.2" y1="261.8" x2="456" y2="259.3"/>
+	</g>
+	<g id="LINE_637_">
+		<line class="st0" x1="486.3" y1="258.6" x2="497.4" y2="261.8"/>
+	</g>
+	<g id="LINE_638_">
+		<line class="st0" x1="500.8" y1="262.3" x2="518.2" y2="262.3"/>
+	</g>
+</g>
+<g id="Visible_Narrow__x28_ANSI_x29_">
+	<g id="LWPOLYLINE_9_">
+		<line class="st0" x1="491.7" y1="747" x2="708.1" y2="747"/>
+	</g>
+	<g id="ARC_22_">
+		<path class="st0" d="M708.1,746.7c34.4-0.4,62.2-28.1,62.8-62.5"/>
+	</g>
+	<g id="LWPOLYLINE_10_">
+		<line class="st0" x1="770.8" y1="684.2" x2="770.8" y2="515.8"/>
+	</g>
+	<g id="ARC_23_">
+		<path class="st0" d="M770.8,515.8c-0.4-34.5-28.3-62.3-62.8-62.7"/>
+	</g>
+	<g id="LWPOLYLINE_11_">
+		<line class="st0" x1="708.1" y1="453" x2="491.7" y2="453"/>
+	</g>
+	<g id="ARC_24_">
+		<path class="st0" d="M429,684.2c0.2,34.5,28.2,62.5,62.7,62.5"/>
+	</g>
+	<g id="LWPOLYLINE_12_">
+		<line class="st0" x1="429" y1="515.8" x2="429" y2="684.2"/>
+	</g>
+	<g id="ARC_25_">
+		<path class="st0" d="M491.7,453.1c-34.6,0-62.7,28.1-62.7,62.7"/>
+	</g>
+	<g id="LWPOLYLINE_13_">
+		<line class="st0" x1="738.2" y1="565.9" x2="739.1" y2="565.9"/>
+	</g>
+	<g id="LWPOLYLINE_14_">
+		<line class="st0" x1="737.4" y1="568.4" x2="738.2" y2="565.9"/>
+	</g>
+	<g id="LWPOLYLINE_15_">
+		<polyline class="st0" points="739.1,565.9 738.2,567.6 737.4,568.4 		"/>
+	</g>
+	<g id="LWPOLYLINE_16_">
+		<line class="st0" x1="738.2" y1="550.1" x2="739.1" y2="550.1"/>
+	</g>
+	<g id="LWPOLYLINE_17_">
+		<line class="st0" x1="739.1" y1="550.1" x2="739.1" y2="565.9"/>
+	</g>
+	<g id="LWPOLYLINE_18_">
+		<polyline class="st0" points="737.4,546.7 738.2,548.4 739.1,550.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_19_">
+		<line class="st0" x1="738.2" y1="550.1" x2="737.4" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_20_">
+		<polyline class="st0" points="737.4,630.7 738.2,632.4 739.1,634.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_21_">
+		<line class="st0" x1="739.1" y1="634.1" x2="739.1" y2="649.9"/>
+	</g>
+	<g id="LWPOLYLINE_22_">
+		<polyline class="st0" points="739.1,649.9 738.2,651.6 737.4,652.5 		"/>
+	</g>
+	<g id="ELLIPSE">
+		<path class="st0" d="M736.6,566.8c0.7-0.2,1.1-0.9,1-1.6"/>
+	</g>
+	<g id="LWPOLYLINE_24_">
+		<line class="st0" x1="737.4" y1="568.4" x2="736.5" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_26_">
+		<line class="st0" x1="736.5" y1="566.8" x2="736.5" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_27_">
+		<line class="st0" x1="736.5" y1="549.2" x2="737.4" y2="546.7"/>
+	</g>
+	<g id="ELLIPSE_1_">
+		<path class="st0" d="M737.6,550.1c-0.1-0.5-0.4-1-0.9-1.2"/>
+	</g>
+	<g id="LWPOLYLINE_28_">
+		<line class="st0" x1="738.2" y1="649.9" x2="739.1" y2="649.9"/>
+	</g>
+	<g id="LWPOLYLINE_29_">
+		<line class="st0" x1="737.4" y1="652.5" x2="738.2" y2="649.9"/>
+	</g>
+	<g id="LWPOLYLINE_30_">
+		<line class="st0" x1="738.2" y1="634.1" x2="739.1" y2="634.1"/>
+	</g>
+	<g id="LWPOLYLINE_31_">
+		<line class="st0" x1="738.2" y1="634.1" x2="737.4" y2="630.7"/>
+	</g>
+	<g id="ELLIPSE_2_">
+		<path class="st0" d="M736.6,650.9c0.7-0.2,1.1-0.9,1-1.6"/>
+	</g>
+	<g id="LWPOLYLINE_33_">
+		<line class="st0" x1="737.4" y1="652.5" x2="736.5" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_34_">
+		<line class="st0" x1="736.5" y1="650.8" x2="736.5" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_36_">
+		<line class="st0" x1="736.5" y1="633.2" x2="737.4" y2="630.7"/>
+	</g>
+	<g id="ELLIPSE_3_">
+		<path class="st0" d="M737.6,634.1c-0.1-0.5-0.4-1-1-1.2"/>
+	</g>
+	<g id="LWPOLYLINE_37_">
+		<line class="st0" x1="658.1" y1="714.3" x2="658.1" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_38_">
+		<line class="st0" x1="654.8" y1="713.5" x2="658.1" y2="714.3"/>
+	</g>
+	<g id="LWPOLYLINE_39_">
+		<polyline class="st0" points="658.1,715.2 656.4,714.3 654.8,713.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_40_">
+		<line class="st0" x1="674" y1="714.3" x2="674" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_41_">
+		<line class="st0" x1="674" y1="715.2" x2="658.1" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_42_">
+		<polyline class="st0" points="676.5,713.5 675.6,714.3 674,715.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_43_">
+		<line class="st0" x1="674" y1="714.3" x2="676.5" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_44_">
+		<polyline class="st0" points="544.4,713.5 543.6,714.3 541.9,715.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_45_">
+		<line class="st0" x1="541.9" y1="715.2" x2="526" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_46_">
+		<polyline class="st0" points="526,715.2 524.4,714.3 522.7,713.5 		"/>
+	</g>
+	<g id="ELLIPSE_4_">
+		<path class="st0" d="M656.8,712.8c0.1,0.6,0.7,1.1,1.3,1.1"/>
+	</g>
+	<g id="LWPOLYLINE_47_">
+		<line class="st0" x1="654.8" y1="713.5" x2="657.3" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_48_">
+		<line class="st0" x1="657.3" y1="712.7" x2="674.8" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_50_">
+		<line class="st0" x1="674.8" y1="712.7" x2="676.5" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_52_">
+		<line class="st0" x1="526" y1="714.3" x2="526" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_53_">
+		<line class="st0" x1="522.7" y1="713.5" x2="526" y2="714.3"/>
+	</g>
+	<g id="LWPOLYLINE_54_">
+		<line class="st0" x1="541.9" y1="714.3" x2="541.9" y2="715.2"/>
+	</g>
+	<g id="LWPOLYLINE_55_">
+		<line class="st0" x1="541.9" y1="714.3" x2="544.4" y2="713.5"/>
+	</g>
+	<g id="ELLIPSE_5_">
+		<path class="st0" d="M524.8,712.8c0.2,0.6,0.7,1.1,1.3,1.1"/>
+	</g>
+	<g id="LWPOLYLINE_56_">
+		<line class="st0" x1="522.7" y1="713.5" x2="525.2" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_58_">
+		<line class="st0" x1="525.2" y1="712.7" x2="542.8" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_59_">
+		<line class="st0" x1="542.8" y1="712.7" x2="544.4" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_61_">
+		<line class="st0" x1="461.6" y1="634.1" x2="460.8" y2="634.1"/>
+	</g>
+	<g id="LWPOLYLINE_62_">
+		<line class="st0" x1="462.5" y1="630.7" x2="461.6" y2="634.1"/>
+	</g>
+	<g id="LWPOLYLINE_63_">
+		<polyline class="st0" points="460.8,634.1 460.8,632.4 462.5,630.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_64_">
+		<line class="st0" x1="461.6" y1="649.9" x2="460.8" y2="649.9"/>
+	</g>
+	<g id="LWPOLYLINE_65_">
+		<line class="st0" x1="460.8" y1="649.9" x2="460.8" y2="634.1"/>
+	</g>
+	<g id="LWPOLYLINE_66_">
+		<polyline class="st0" points="462.5,652.5 460.8,651.6 460.8,649.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_67_">
+		<line class="st0" x1="461.6" y1="649.9" x2="462.5" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_68_">
+		<polyline class="st0" points="462.5,568.4 460.8,567.6 460.8,565.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_69_">
+		<line class="st0" x1="460.8" y1="565.9" x2="460.8" y2="550.1"/>
+	</g>
+	<g id="LWPOLYLINE_70_">
+		<polyline class="st0" points="460.8,550.1 460.8,548.4 462.5,546.7 		"/>
+	</g>
+	<g id="ELLIPSE_6_">
+		<path class="st0" d="M463.3,632.9c-0.8,0-1.4,0.5-1.6,1.2"/>
+	</g>
+	<g id="LWPOLYLINE_71_">
+		<line class="st0" x1="462.5" y1="630.7" x2="463.3" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_73_">
+		<line class="st0" x1="463.3" y1="633.2" x2="463.3" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_74_">
+		<line class="st0" x1="463.3" y1="650.8" x2="462.5" y2="652.5"/>
+	</g>
+	<g id="ELLIPSE_7_">
+		<path class="st0" d="M461.8,649.1c-0.2,0.8,0.4,1.6,1.2,1.8c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="LWPOLYLINE_76_">
+		<line class="st0" x1="461.6" y1="550.1" x2="460.8" y2="550.1"/>
+	</g>
+	<g id="LWPOLYLINE_77_">
+		<line class="st0" x1="462.5" y1="546.7" x2="461.6" y2="550.1"/>
+	</g>
+	<g id="LWPOLYLINE_78_">
+		<line class="st0" x1="461.6" y1="565.9" x2="460.8" y2="565.9"/>
+	</g>
+	<g id="LWPOLYLINE_79_">
+		<line class="st0" x1="461.6" y1="565.9" x2="462.5" y2="568.4"/>
+	</g>
+	<g id="ELLIPSE_8_">
+		<path class="st0" d="M463.3,548.8c-0.8,0-1.4,0.5-1.6,1.3"/>
+	</g>
+	<g id="LWPOLYLINE_80_">
+		<line class="st0" x1="462.5" y1="546.7" x2="463.3" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_81_">
+		<line class="st0" x1="463.3" y1="549.2" x2="463.3" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_83_">
+		<line class="st0" x1="463.3" y1="566.8" x2="462.5" y2="568.4"/>
+	</g>
+	<g id="ELLIPSE_9_">
+		<path class="st0" d="M461.8,565.1c-0.2,0.8,0.4,1.6,1.2,1.7c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="LWPOLYLINE_85_">
+		<line class="st0" x1="674" y1="485.7" x2="674" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_86_">
+		<line class="st0" x1="676.5" y1="486.5" x2="674" y2="485.7"/>
+	</g>
+	<g id="LWPOLYLINE_87_">
+		<polyline class="st0" points="674,484.9 675.6,485.7 676.5,486.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_88_">
+		<line class="st0" x1="658.1" y1="485.7" x2="658.1" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_89_">
+		<line class="st0" x1="658.1" y1="484.9" x2="674" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_90_">
+		<polyline class="st0" points="654.8,486.5 656.4,485.7 658.1,484.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_91_">
+		<line class="st0" x1="658.1" y1="485.7" x2="654.8" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_92_">
+		<polyline class="st0" points="522.7,486.5 524.4,485.7 526,484.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_93_">
+		<line class="st0" x1="526" y1="484.9" x2="541.9" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_94_">
+		<polyline class="st0" points="541.9,484.9 543.6,485.7 544.4,486.5 		"/>
+	</g>
+	<g id="ELLIPSE_10_">
+		<path class="st0" d="M674.9,487.4c0-0.8-0.7-1.5-1.5-1.5c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="LWPOLYLINE_96_">
+		<line class="st0" x1="676.5" y1="486.5" x2="674.8" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_98_">
+		<line class="st0" x1="674.8" y1="487.4" x2="657.3" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_99_">
+		<line class="st0" x1="657.3" y1="487.4" x2="654.8" y2="486.5"/>
+	</g>
+	<g id="ELLIPSE_11_">
+		<path class="st0" d="M658.1,485.9c-0.8,0.1-1.3,0.7-1.3,1.5"/>
+	</g>
+	<g id="LWPOLYLINE_100_">
+		<line class="st0" x1="541.9" y1="485.7" x2="541.9" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_101_">
+		<line class="st0" x1="544.4" y1="486.5" x2="541.9" y2="485.7"/>
+	</g>
+	<g id="LWPOLYLINE_102_">
+		<line class="st0" x1="526" y1="485.7" x2="526" y2="484.9"/>
+	</g>
+	<g id="LWPOLYLINE_103_">
+		<line class="st0" x1="526" y1="485.7" x2="522.7" y2="486.5"/>
+	</g>
+	<g id="ELLIPSE_12_">
+		<path class="st0" d="M542.8,487.4c0-0.8-0.6-1.5-1.5-1.5c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="LWPOLYLINE_105_">
+		<line class="st0" x1="544.4" y1="486.5" x2="542.8" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_106_">
+		<line class="st0" x1="542.8" y1="487.4" x2="525.2" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_108_">
+		<line class="st0" x1="525.2" y1="487.4" x2="522.7" y2="486.5"/>
+	</g>
+	<g id="ELLIPSE_13_">
+		<path class="st0" d="M526.1,485.9c-0.8,0.1-1.3,0.7-1.3,1.5"/>
+	</g>
+	<g id="LWPOLYLINE_109_">
+		<line class="st0" x1="737.4" y1="568.4" x2="735.7" y2="568.4"/>
+	</g>
+	<g id="LWPOLYLINE_110_">
+		<line class="st0" x1="735.7" y1="546.7" x2="737.4" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_111_">
+		<line class="st0" x1="736.5" y1="549.2" x2="735.7" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_112_">
+		<polyline class="st0" points="719.8,549.2 728.1,548.4 735.7,546.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_113_">
+		<polyline class="st0" points="735.7,568.4 728.1,567.6 719.8,566.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_114_">
+		<line class="st0" x1="736.5" y1="566.8" x2="735.7" y2="568.4"/>
+	</g>
+	<g id="LWPOLYLINE_115_">
+		<line class="st0" x1="735.7" y1="630.7" x2="735.7" y2="568.4"/>
+	</g>
+	<g id="LWPOLYLINE_116_">
+		<line class="st0" x1="735.7" y1="672.5" x2="735.7" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_117_">
+		<line class="st0" x1="741.6" y1="523.3" x2="741.6" y2="676.7"/>
+	</g>
+	<g id="LWPOLYLINE_118_">
+		<line class="st0" x1="735.7" y1="546.7" x2="735.7" y2="527.5"/>
+	</g>
+	<g id="LWPOLYLINE_119_">
+		<line class="st0" x1="544.4" y1="711.8" x2="654.8" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_120_">
+		<line class="st0" x1="503.4" y1="711.8" x2="522.7" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_121_">
+		<line class="st0" x1="700.5" y1="717.7" x2="499.3" y2="717.7"/>
+	</g>
+	<g id="LWPOLYLINE_122_">
+		<line class="st0" x1="676.5" y1="711.8" x2="710" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_123_">
+		<line class="st0" x1="464.1" y1="568.4" x2="464.1" y2="630.7"/>
+	</g>
+	<g id="LWPOLYLINE_124_">
+		<line class="st0" x1="464.1" y1="527.5" x2="464.1" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_125_">
+		<line class="st0" x1="458.2" y1="676.7" x2="458.2" y2="523.3"/>
+	</g>
+	<g id="LWPOLYLINE_126_">
+		<line class="st0" x1="464.1" y1="652.5" x2="464.1" y2="672.5"/>
+	</g>
+	<g id="LWPOLYLINE_127_">
+		<line class="st0" x1="710" y1="488.2" x2="676.5" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_128_">
+		<line class="st0" x1="499.3" y1="482.3" x2="700.5" y2="482.3"/>
+	</g>
+	<g id="LWPOLYLINE_129_">
+		<line class="st0" x1="522.7" y1="488.2" x2="503.4" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_130_">
+		<line class="st0" x1="654.8" y1="488.2" x2="544.4" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_131_">
+		<line class="st0" x1="735.7" y1="630.7" x2="737.4" y2="630.7"/>
+	</g>
+	<g id="LWPOLYLINE_132_">
+		<line class="st0" x1="737.4" y1="652.5" x2="735.7" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_133_">
+		<polyline class="st0" points="735.7,652.5 728.1,651.6 719.8,650.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_134_">
+		<polyline class="st0" points="719.8,633.2 728.1,632.4 735.7,630.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_135_">
+		<line class="st0" x1="735.7" y1="630.7" x2="736.5" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_136_">
+		<line class="st0" x1="736.5" y1="650.8" x2="735.7" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_137_">
+		<line class="st0" x1="735.7" y1="672.5" x2="741.6" y2="676.7"/>
+	</g>
+	<g id="LWPOLYLINE_138_">
+		<line class="st0" x1="700.5" y1="717.7" x2="710" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_139_">
+		<polyline class="st0" points="723.1,744.5 711.4,731.1 700.5,717.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_140_">
+		<polyline class="st0" points="741.6,676.7 754.9,687.6 768.3,699.3 		"/>
+	</g>
+	<g id="LWPOLYLINE_141_">
+		<line class="st0" x1="735.7" y1="672.5" x2="735.7" y2="673.4"/>
+	</g>
+	<g id="LWPOLYLINE_142_">
+		<polyline class="st0" points="719.8,657.5 728.1,665.8 735.7,672.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_143_">
+		<polyline class="st0" points="741.6,676.7 740.7,677.5 739.9,677.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_145_">
+		<polyline class="st0" points="700.5,717.7 701.4,716.8 701.4,716 		"/>
+	</g>
+	<g id="LWPOLYLINE_147_">
+		<line class="st0" x1="710" y1="711.8" x2="710.8" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_148_">
+		<polyline class="st0" points="710,711.8 703.3,704.3 694.9,695.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_149_">
+		<line class="st0" x1="741.6" y1="523.3" x2="735.7" y2="527.5"/>
+	</g>
+	<g id="LWPOLYLINE_150_">
+		<line class="st0" x1="710" y1="488.2" x2="700.5" y2="482.3"/>
+	</g>
+	<g id="LWPOLYLINE_151_">
+		<polyline class="st0" points="700.5,482.3 711.4,468.1 723.1,455.6 		"/>
+	</g>
+	<g id="LWPOLYLINE_152_">
+		<polyline class="st0" points="768.3,499.9 754.9,512.4 741.6,523.3 		"/>
+	</g>
+	<g id="LWPOLYLINE_153_">
+		<line class="st0" x1="710" y1="488.2" x2="710.8" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_154_">
+		<polyline class="st0" points="694.9,504.1 703.3,495.7 710,488.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_155_">
+		<polyline class="st0" points="700.5,482.3 701.4,483.2 701.4,484 		"/>
+	</g>
+	<g id="LWPOLYLINE_157_">
+		<polyline class="st0" points="741.6,523.3 740.7,522.5 739.9,521.6 		"/>
+	</g>
+	<g id="LWPOLYLINE_159_">
+		<line class="st0" x1="735.7" y1="527.5" x2="735.7" y2="526.6"/>
+	</g>
+	<g id="LWPOLYLINE_160_">
+		<polyline class="st0" points="735.7,527.5 728.1,534.2 719.8,541.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_161_">
+		<line class="st0" x1="654.8" y1="713.5" x2="654.8" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_162_">
+		<line class="st0" x1="676.5" y1="711.8" x2="676.5" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_163_">
+		<polyline class="st0" points="654.8,711.8 656.4,704.3 657.3,695.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_164_">
+		<line class="st0" x1="657.3" y1="712.7" x2="654.8" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_165_">
+		<line class="st0" x1="676.5" y1="711.8" x2="674.8" y2="712.7"/>
+	</g>
+	<g id="LWPOLYLINE_166_">
+		<polyline class="st0" points="674.8,695.9 675.6,704.3 676.5,711.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_167_">
+		<line class="st0" x1="544.4" y1="711.8" x2="544.4" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_168_">
+		<line class="st0" x1="522.7" y1="713.5" x2="522.7" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_169_">
+		<polyline class="st0" points="522.7,711.8 524.4,704.3 525.2,695.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_170_">
+		<line class="st0" x1="525.2" y1="712.7" x2="522.7" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_171_">
+		<line class="st0" x1="542.8" y1="712.7" x2="544.4" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_172_">
+		<polyline class="st0" points="542.8,695.9 543.6,704.3 544.4,711.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_173_">
+		<line class="st0" x1="503.4" y1="711.8" x2="499.3" y2="717.7"/>
+	</g>
+	<g id="LWPOLYLINE_174_">
+		<line class="st0" x1="458.2" y1="676.7" x2="464.1" y2="672.5"/>
+	</g>
+	<g id="LWPOLYLINE_175_">
+		<polyline class="st0" points="499.3,717.7 488.4,731.1 475.9,744.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_176_">
+		<polyline class="st0" points="430.7,699.3 444,687.6 458.2,676.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_177_">
+		<line class="st0" x1="464.1" y1="673.4" x2="464.1" y2="672.5"/>
+	</g>
+	<g id="LWPOLYLINE_178_">
+		<polyline class="st0" points="464.1,672.5 471.7,665.8 480,657.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_179_">
+		<polyline class="st0" points="459.9,677.5 459.1,677.5 458.2,676.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_181_">
+		<polyline class="st0" points="497.6,716 498.4,716.8 499.3,717.7 		"/>
+	</g>
+	<g id="LWPOLYLINE_183_">
+		<line class="st0" x1="502.6" y1="711.8" x2="503.4" y2="711.8"/>
+	</g>
+	<g id="LWPOLYLINE_184_">
+		<polyline class="st0" points="524.4,695.9 516.9,704.3 503.4,711.8 		"/>
+	</g>
+	<g id="LWPOLYLINE_185_">
+		<line class="st0" x1="462.5" y1="630.7" x2="464.1" y2="630.7"/>
+	</g>
+	<g id="LWPOLYLINE_186_">
+		<line class="st0" x1="464.1" y1="652.5" x2="462.5" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_187_">
+		<polyline class="st0" points="480,650.8 471.7,651.6 464.1,652.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_188_">
+		<line class="st0" x1="463.3" y1="650.8" x2="464.1" y2="652.5"/>
+	</g>
+	<g id="LWPOLYLINE_189_">
+		<polyline class="st0" points="464.1,630.7 471.7,632.4 480,633.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_190_">
+		<line class="st0" x1="463.3" y1="633.2" x2="464.1" y2="630.7"/>
+	</g>
+	<g id="LWPOLYLINE_191_">
+		<line class="st0" x1="464.1" y1="568.4" x2="462.5" y2="568.4"/>
+	</g>
+	<g id="LWPOLYLINE_192_">
+		<line class="st0" x1="462.5" y1="546.7" x2="464.1" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_193_">
+		<polyline class="st0" points="464.1,546.7 471.7,548.4 480,549.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_194_">
+		<polyline class="st0" points="480,566.8 471.7,567.6 464.1,568.4 		"/>
+	</g>
+	<g id="LWPOLYLINE_195_">
+		<line class="st0" x1="464.1" y1="568.4" x2="463.3" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_196_">
+		<line class="st0" x1="463.3" y1="549.2" x2="464.1" y2="546.7"/>
+	</g>
+	<g id="LWPOLYLINE_197_">
+		<line class="st0" x1="464.1" y1="527.5" x2="458.2" y2="523.3"/>
+	</g>
+	<g id="LWPOLYLINE_198_">
+		<line class="st0" x1="499.3" y1="482.3" x2="503.4" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_199_">
+		<polyline class="st0" points="458.2,523.3 444,512.4 430.7,499.9 		"/>
+	</g>
+	<g id="LWPOLYLINE_200_">
+		<polyline class="st0" points="475.9,455.6 488.4,468.1 499.3,482.3 		"/>
+	</g>
+	<g id="LWPOLYLINE_201_">
+		<line class="st0" x1="464.1" y1="527.5" x2="464.1" y2="526.6"/>
+	</g>
+	<g id="LWPOLYLINE_202_">
+		<polyline class="st0" points="480,541.7 471.7,534.2 464.1,527.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_203_">
+		<polyline class="st0" points="458.2,523.3 459.1,522.5 459.9,521.6 		"/>
+	</g>
+	<g id="LWPOLYLINE_205_">
+		<polyline class="st0" points="499.3,482.3 498.4,483.2 497.6,484 		"/>
+	</g>
+	<g id="LWPOLYLINE_207_">
+		<line class="st0" x1="503.4" y1="488.2" x2="502.6" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_208_">
+		<polyline class="st0" points="503.4,488.2 516.9,495.7 524.4,504.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_209_">
+		<line class="st0" x1="676.5" y1="486.5" x2="676.5" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_210_">
+		<line class="st0" x1="654.8" y1="488.2" x2="654.8" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_211_">
+		<polyline class="st0" points="676.5,488.2 675.6,495.7 674.8,504.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_212_">
+		<polyline class="st0" points="657.3,504.1 656.4,495.7 654.8,488.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_213_">
+		<line class="st0" x1="657.3" y1="487.4" x2="654.8" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_214_">
+		<line class="st0" x1="674.8" y1="487.4" x2="676.5" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_215_">
+		<line class="st0" x1="522.7" y1="488.2" x2="522.7" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_216_">
+		<line class="st0" x1="544.4" y1="486.5" x2="544.4" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_217_">
+		<line class="st0" x1="522.7" y1="488.2" x2="525.2" y2="487.4"/>
+	</g>
+	<g id="LWPOLYLINE_218_">
+		<polyline class="st0" points="525.2,504.1 524.4,495.7 522.7,488.2 		"/>
+	</g>
+	<g id="LWPOLYLINE_219_">
+		<polyline class="st0" points="544.4,488.2 543.6,495.7 542.8,504.1 		"/>
+	</g>
+	<g id="LWPOLYLINE_220_">
+		<line class="st0" x1="542.8" y1="487.4" x2="544.4" y2="488.2"/>
+	</g>
+	<g id="LWPOLYLINE_224_">
+		<line class="st0" x1="719.8" y1="657.5" x2="719.8" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_227_">
+		<line class="st0" x1="719.8" y1="566.8" x2="719.8" y2="633.2"/>
+	</g>
+	<g id="LWPOLYLINE_231_">
+		<line class="st0" x1="674.8" y1="695.9" x2="694.9" y2="695.9"/>
+	</g>
+	<g id="LWPOLYLINE_240_">
+		<line class="st0" x1="674.8" y1="504.1" x2="694.9" y2="504.1"/>
+	</g>
+	<g id="LWPOLYLINE_245_">
+		<line class="st0" x1="480" y1="541.7" x2="480" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_248_">
+		<line class="st0" x1="719.8" y1="541.7" x2="719.8" y2="549.2"/>
+	</g>
+	<g id="LWPOLYLINE_250_">
+		<line class="st0" x1="657.3" y1="504.1" x2="542.8" y2="504.1"/>
+	</g>
+	<g id="LWPOLYLINE_256_">
+		<line class="st0" x1="525.2" y1="504.1" x2="524.4" y2="504.1"/>
+	</g>
+	<g id="LWPOLYLINE_265_">
+		<line class="st0" x1="737.4" y1="525" x2="698.9" y2="486.5"/>
+	</g>
+	<g id="LWPOLYLINE_266_">
+		<line class="st0" x1="702.2" y1="483.2" x2="740.7" y2="521.6"/>
+	</g>
+	<g id="LWPOLYLINE_267_">
+		<line class="st0" x1="500.9" y1="486.5" x2="462.5" y2="525"/>
+	</g>
+	<g id="LWPOLYLINE_268_">
+		<line class="st0" x1="459.1" y1="521.6" x2="497.6" y2="483.2"/>
+	</g>
+	<g id="LWPOLYLINE_269_">
+		<line class="st0" x1="462.5" y1="675" x2="500.9" y2="713.5"/>
+	</g>
+	<g id="LWPOLYLINE_270_">
+		<line class="st0" x1="698.9" y1="713.5" x2="737.4" y2="675"/>
+	</g>
+	<g id="LWPOLYLINE_273_">
+		<line class="st0" x1="497.6" y1="716.8" x2="459.1" y2="678.4"/>
+	</g>
+	<g id="LWPOLYLINE_274_">
+		<line class="st0" x1="740.7" y1="678.4" x2="702.2" y2="716.8"/>
+	</g>
+	<g id="LWPOLYLINE_275_">
+		<line class="st0" x1="480" y1="657.5" x2="480" y2="650.8"/>
+	</g>
+	<g id="LWPOLYLINE_276_">
+		<line class="st0" x1="480" y1="633.2" x2="480" y2="566.8"/>
+	</g>
+	<g id="LWPOLYLINE_277_">
+		<line class="st0" x1="525.2" y1="695.9" x2="524.4" y2="695.9"/>
+	</g>
+	<g id="LWPOLYLINE_278_">
+		<line class="st0" x1="657.3" y1="695.9" x2="542.8" y2="695.9"/>
+	</g>
+	<g id="SPLINE_170_">
+		<path class="st0" d="M486.4,1107.2c-0.3-6.7-0.6-13.3-0.9-20c-0.1-2.1-0.2-4.2-0.2-6.3c-0.1-1.6-0.1-3.2-0.2-4.8
+			c0-1.6-0.1-3.2-0.1-4.8c0-0.4,0-0.8,0-1.2c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6c0,0,0-0.1,0-0.1c0.1,0.2,0.1,0.4,0.2,0.5
+			c0,0.3,0.1,0.5,0.1,0.8"/>
+	</g>
+	<g id="SPLINE_171_">
+		<path class="st0" d="M486.5,1114.4c-0.1-1.4-0.1-2.7-0.1-4.1c0-1,0-2-0.1-3"/>
+	</g>
+	<g id="SPLINE_172_">
+		<path class="st0" d="M522.7,1117.9c0-0.9,0-1.8-0.2-2.7c-0.1-0.9-0.3-1.8-0.6-2.8c-0.2-0.9-0.5-1.9-0.8-2.8
+			c-0.3-1-0.6-1.9-0.9-2.9"/>
+	</g>
+	<g id="LINE_40_">
+		<line class="st0" x1="522.7" y1="1117.9" x2="522.1" y2="1129.5"/>
+	</g>
+	<g id="SPLINE_173_">
+		<path class="st0" d="M679.7,1106.8c-0.3,1-0.6,1.9-0.9,2.9c-0.3,0.9-0.5,1.9-0.8,2.8c-0.2,0.9-0.4,1.9-0.6,2.8
+			c-0.1,0.9-0.2,1.8-0.2,2.7"/>
+	</g>
+	<g id="LINE_41_">
+		<line class="st0" x1="678" y1="1129.5" x2="677.3" y2="1117.9"/>
+	</g>
+	<g id="SPLINE_174_">
+		<path class="st0" d="M713.7,1107.2c0,1-0.1,2-0.1,3c0,1.4,0,2.8-0.1,4.1"/>
+	</g>
+	<g id="SPLINE_175_">
+		<path class="st0" d="M714.7,1070.2c0-0.3,0.1-0.6,0.1-0.8c0-0.1,0-0.3,0.1-0.4c0-0.1,0-0.1,0-0.1c0,0.1,0,0.1,0,0.2
+			c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.4,0,0.8,0,1.2c0,1.6-0.1,3.2-0.1,4.8c0,1.6-0.1,3.2-0.2,4.8c-0.1,2.1-0.2,4.2-0.2,6.3
+			c-0.3,6.7-0.6,13.3-0.9,20"/>
+	</g>
+	<g id="LINE_109_">
+		<line class="st0" x1="708.1" y1="945.5" x2="708.1" y2="945.2"/>
+	</g>
+	<g id="LINE_115_">
+		<line class="st0" x1="658.1" y1="944.9" x2="658.1" y2="943.4"/>
+	</g>
+	<g id="SPLINE_183_">
+		<path class="st0" d="M658.1,943.4c-0.2,0.1-0.4,0.1-0.5,0.2c-0.2,0.1-0.4,0.1-0.6,0.2c-0.2,0.1-0.4,0.1-0.7,0.2
+			c-0.1,0-0.3,0.1-0.5,0.1c-0.2,0-0.4,0-0.7,0"/>
+	</g>
+	<g id="SPLINE_184_">
+		<path class="st0" d="M655.2,944.1c0,0.1,0.1,0.1,0.2,0.2c0.1,0,0.2,0.1,0.3,0.2c0.2,0.1,0.4,0.2,0.7,0.2c0.3,0.1,0.5,0.1,0.8,0.1
+			c0.3,0,0.6,0,0.9,0"/>
+	</g>
+	<g id="LINE_116_">
+		<line class="st0" x1="674" y1="944.9" x2="674" y2="943.4"/>
+	</g>
+	<g id="LINE_117_">
+		<line class="st0" x1="674" y1="943.4" x2="658.1" y2="943.4"/>
+	</g>
+	<g id="LINE_118_">
+		<line class="st0" x1="658.1" y1="944.9" x2="674" y2="944.9"/>
+	</g>
+	<g id="SPLINE_185_">
+		<path class="st0" d="M674,944.9c0.3,0,0.6,0,0.9,0c0.5,0,0.9-0.1,1.3-0.2c0.1,0,0.2-0.1,0.4-0.1c0.1,0,0.2-0.1,0.3-0.2
+			c0.1,0,0.1-0.1,0.2-0.2"/>
+	</g>
+	<g id="SPLINE_186_">
+		<path class="st0" d="M677,944.1c-0.3,0-0.5,0-0.6,0c-0.2,0-0.3-0.1-0.4-0.1c-0.2,0-0.3-0.1-0.4-0.1c-0.4-0.1-0.7-0.2-1-0.3
+			c-0.2-0.1-0.4-0.1-0.6-0.2"/>
+	</g>
+	<g id="SPLINE_187_">
+		<path class="st0" d="M542,944.5c0.3,0,0.6,0,0.9,0c0.5,0,0.9-0.1,1.3-0.2c0.1,0,0.2-0.1,0.4-0.1c0.1,0,0.2-0.1,0.3-0.1
+			c0.1-0.1,0.2-0.1,0.2-0.2"/>
+	</g>
+	<g id="LINE_119_">
+		<line class="st0" x1="526.1" y1="944.5" x2="542" y2="944.5"/>
+	</g>
+	<g id="SPLINE_188_">
+		<path class="st0" d="M523.1,943.8c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.1,0.5,0.2,0.7,0.2
+			c0.3,0,0.5,0.1,0.8,0.1s0.6,0,0.9,0"/>
+	</g>
+	<g id="SPLINE_189_">
+		<path class="st0" d="M658.1,943.4c0.1-0.3,0.2-0.6,0.3-0.9c0-0.1,0-0.2,0.1-0.3"/>
+	</g>
+	<g id="LINE_120_">
+		<line class="st0" x1="657" y1="942" x2="658.5" y2="942.2"/>
+	</g>
+	<g id="SPLINE_190_">
+		<path class="st0" d="M657,942c0,0.1,0,0.1,0,0.2c0,0.3-0.1,0.5-0.2,0.8s-0.2,0.4-0.4,0.6c-0.1,0.2-0.3,0.3-0.4,0.4
+			c-0.3,0.1-0.5,0.2-0.8,0.2"/>
+	</g>
+	<g id="LINE_123_">
+		<line class="st0" x1="658.6" y1="939.2" x2="673.6" y2="939.2"/>
+	</g>
+	<g id="LINE_125_">
+		<line class="st0" x1="675.1" y1="941.5" x2="673.6" y2="941.5"/>
+	</g>
+	<g id="LINE_127_">
+		<line class="st0" x1="673.6" y1="939.2" x2="673.6" y2="941.5"/>
+	</g>
+	<g id="LINE_128_">
+		<line class="st0" x1="658.6" y1="941.5" x2="657.1" y2="941.5"/>
+	</g>
+	<g id="LINE_129_">
+		<line class="st0" x1="658.6" y1="941.5" x2="658.6" y2="939.2"/>
+	</g>
+	<g id="SPLINE_191_">
+		<path class="st0" d="M677,944.1c-0.3,0-0.6-0.1-0.8-0.2c-0.2-0.1-0.3-0.2-0.5-0.4c-0.1-0.2-0.3-0.4-0.3-0.6
+			c-0.1-0.2-0.2-0.5-0.2-0.8c0-0.1,0-0.1,0-0.2"/>
+	</g>
+	<g id="LINE_131_">
+		<line class="st0" x1="673.6" y1="942.2" x2="675.1" y2="942"/>
+	</g>
+	<g id="SPLINE_192_">
+		<path class="st0" d="M673.6,942.2c0,0.1,0,0.2,0.1,0.3c0.1,0.3,0.2,0.6,0.3,0.9"/>
+	</g>
+	<g id="SPLINE_193_">
+		<path class="st0" d="M675.1,942c0-0.1,0-0.2,0-0.3c0-0.1,0-0.2,0-0.3"/>
+	</g>
+	<g id="SPLINE_194_">
+		<path class="st0" d="M673.6,941.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.2,0,0.4"/>
+	</g>
+	<g id="SPLINE_195_">
+		<path class="st0" d="M658.5,942.2c0-0.1,0-0.2,0-0.4c0-0.1,0-0.3,0-0.4"/>
+	</g>
+	<g id="SPLINE_196_">
+		<path class="st0" d="M657.1,941.5c0,0.1,0,0.2,0,0.3c0,0.1,0,0.2,0,0.3"/>
+	</g>
+	<g id="LINE_132_">
+		<line class="st0" x1="526.1" y1="944.5" x2="526.1" y2="943.1"/>
+	</g>
+	<g id="SPLINE_197_">
+		<path class="st0" d="M526.1,943.1c-0.2,0-0.4,0.1-0.6,0.2c-0.2,0-0.4,0.1-0.6,0.2c-0.2,0.1-0.4,0.1-0.7,0.2
+			c-0.1,0-0.3,0.1-0.5,0.1c-0.2,0-0.4,0-0.7,0"/>
+	</g>
+	<g id="LINE_133_">
+		<line class="st0" x1="542" y1="944.5" x2="542" y2="943.1"/>
+	</g>
+	<g id="LINE_134_">
+		<line class="st0" x1="542" y1="943.1" x2="526.1" y2="943.1"/>
+	</g>
+	<g id="SPLINE_198_">
+		<path class="st0" d="M545,943.8c-0.3,0-0.5,0-0.6,0c-0.2,0-0.3,0-0.4-0.1c-0.1,0-0.3-0.1-0.4-0.1c-0.4-0.1-0.7-0.2-1-0.3
+			c-0.2-0.1-0.4-0.1-0.5-0.2"/>
+	</g>
+	<g id="SPLINE_199_">
+		<path class="st0" d="M526.1,943.1c0.1-0.3,0.2-0.6,0.3-0.9c0-0.1,0-0.2,0.1-0.3"/>
+	</g>
+	<g id="LINE_135_">
+		<line class="st0" x1="525" y1="941.6" x2="526.5" y2="941.9"/>
+	</g>
+	<g id="SPLINE_200_">
+		<path class="st0" d="M525,941.6c0,0.1,0,0.2,0,0.2c0,0.3-0.1,0.5-0.2,0.8c-0.1,0.2-0.2,0.4-0.3,0.5c-0.1,0.2-0.3,0.3-0.5,0.4
+			c-0.2,0.1-0.5,0.2-0.8,0.2"/>
+	</g>
+	<g id="LINE_136_">
+		<line class="st0" x1="526.5" y1="941.1" x2="525" y2="941.1"/>
+	</g>
+	<g id="LINE_137_">
+		<line class="st0" x1="526.5" y1="941.1" x2="526.5" y2="938.9"/>
+	</g>
+	<g id="LINE_140_">
+		<line class="st0" x1="526.5" y1="938.9" x2="541.5" y2="938.9"/>
+	</g>
+	<g id="LINE_143_">
+		<line class="st0" x1="543" y1="941.1" x2="541.5" y2="941.1"/>
+	</g>
+	<g id="LINE_145_">
+		<line class="st0" x1="541.5" y1="938.9" x2="541.5" y2="941.1"/>
+	</g>
+	<g id="SPLINE_201_">
+		<path class="st0" d="M545,943.8c-0.3,0-0.6-0.1-0.8-0.2c-0.2-0.1-0.3-0.3-0.5-0.4c-0.1-0.1-0.2-0.3-0.3-0.5
+			c-0.1-0.2-0.2-0.5-0.2-0.8c0-0.1,0-0.1,0-0.2"/>
+	</g>
+	<g id="LINE_146_">
+		<line class="st0" x1="541.6" y1="941.9" x2="543.1" y2="941.6"/>
+	</g>
+	<g id="SPLINE_202_">
+		<path class="st0" d="M541.6,941.9c0,0.1,0,0.2,0.1,0.3c0.1,0.3,0.2,0.6,0.3,0.9"/>
+	</g>
+	<g id="SPLINE_203_">
+		<path class="st0" d="M543.1,941.6c0-0.1,0-0.2,0-0.2c0-0.1,0-0.2,0-0.3"/>
+	</g>
+	<g id="SPLINE_204_">
+		<path class="st0" d="M541.5,941.1c0,0.1,0,0.2,0,0.4c0,0.1,0,0.2,0,0.4"/>
+	</g>
+	<g id="SPLINE_205_">
+		<path class="st0" d="M526.5,941.9c0-0.1,0-0.3,0-0.4c0-0.1,0-0.2,0-0.4"/>
+	</g>
+	<g id="SPLINE_206_">
+		<path class="st0" d="M525,941.1c0,0.1,0,0.2,0,0.3c0,0.1,0,0.2,0,0.2"/>
+	</g>
+	<g id="SPLINE_207_">
+		<path class="st0" d="M655.2,943.2c0,0.3,0,0.5,0,0.8c0,0.1,0,0.1,0,0.2"/>
+	</g>
+	<g id="SPLINE_208_">
+		<path class="st0" d="M677,944.1c0-0.1,0-0.1,0-0.2c0-0.2,0-0.5,0-0.8"/>
+	</g>
+	<g id="SPLINE_209_">
+		<path class="st0" d="M657.1,937.7c0,0-0.1,0.1-0.2,0.4c-0.1,0.2-0.4,0.6-0.6,1.1c-0.2,0.5-0.4,1-0.6,1.7c-0.2,0.7-0.3,1.4-0.4,2.3
+			"/>
+	</g>
+	<g id="SPLINE_210_">
+		<path class="st0" d="M655.2,943.2c0.9,0,1.7-0.4,1.8-1.2"/>
+	</g>
+	<g id="SPLINE_211_">
+		<path class="st0" d="M675.1,942c0.2,0.8,0.9,1.2,1.8,1.2"/>
+	</g>
+	<g id="SPLINE_212_">
+		<path class="st0" d="M676.9,943.2c-0.1-0.9-0.2-1.6-0.4-2.3c-0.2-0.7-0.4-1.2-0.6-1.7c-0.2-0.5-0.4-0.8-0.6-1.1
+			c-0.2-0.3-0.3-0.4-0.3-0.4"/>
+	</g>
+	<g id="LINE_147_">
+		<line class="st0" x1="655.2" y1="943.2" x2="634.5" y2="943.1"/>
+	</g>
+	<g id="LINE_148_">
+		<line class="st0" x1="613.7" y1="943.1" x2="586.4" y2="943"/>
+	</g>
+	<g id="LINE_149_">
+		<line class="st0" x1="565.7" y1="942.9" x2="544.9" y2="942.8"/>
+	</g>
+	<g id="LINE_150_">
+		<line class="st0" x1="523.2" y1="942.8" x2="520.4" y2="942.7"/>
+	</g>
+	<g id="LINE_151_">
+		<line class="st0" x1="679.7" y1="943.2" x2="676.9" y2="943.2"/>
+	</g>
+	<g id="SPLINE_213_">
+		<path class="st0" d="M545,943.8c0-0.1,0-0.2,0-0.2c0-0.1,0-0.2,0-0.4c0-0.1,0-0.3,0-0.4"/>
+	</g>
+	<g id="SPLINE_214_">
+		<path class="st0" d="M523.2,942.8c0,0.4,0,0.7-0.1,1"/>
+	</g>
+	<g id="SPLINE_215_">
+		<path class="st0" d="M525,937.4c0,0-0.1,0.1-0.2,0.4c-0.2,0.3-0.4,0.6-0.6,1.1c-0.2,0.5-0.4,1.1-0.6,1.7c-0.2,0.7-0.4,1.4-0.4,2.3
+			"/>
+	</g>
+	<g id="SPLINE_216_">
+		<path class="st0" d="M523.2,942.8c0.9,0,1.7-0.4,1.8-1.2"/>
+	</g>
+	<g id="SPLINE_217_">
+		<path class="st0" d="M544.9,942.8c-0.9,0-1.7-0.4-1.8-1.2"/>
+	</g>
+	<g id="SPLINE_218_">
+		<path class="st0" d="M544.9,942.8c-0.1-0.9-0.3-1.7-0.5-2.4c-0.2-0.8-0.5-1.5-0.8-2c-0.1-0.3-0.3-0.5-0.4-0.7
+			c-0.1-0.2-0.2-0.4-0.2-0.4"/>
+	</g>
+	<g id="SPLINE_219_">
+		<path class="st0" d="M700.5,945.2c0,0,0.1,0,0.1,0"/>
+	</g>
+	<g id="SPLINE_220_">
+		<path class="st0" d="M702.1,943.2c0.1,1.2-0.5,2-1.5,2"/>
+	</g>
+	<g id="SPLINE_222_">
+		<path class="st0" d="M713.9,941.4c-1.7,0.2-3.4,0.5-5.2,0.8c-1.1,0.2-2.1,0.3-3.2,0.5c-0.4,0.1-0.8,0.1-1.2,0.2
+			c-0.4,0.1-0.8,0.1-1.2,0.2c-0.3,0-0.6,0.1-0.9,0.1"/>
+	</g>
+	<g id="SPLINE_223_">
+		<path class="st0" d="M702.1,943.2c-0.5,0.1-1.1,0.1-1.6,0"/>
+	</g>
+	<g id="SPLINE_224_">
+		<path class="st0" d="M687,938.1c-1.7-0.3-3.4-0.4-5.1-0.4"/>
+	</g>
+	<g id="SPLINE_225_">
+		<path class="st0" d="M681.9,937.7c1.4,0,2.8,0.1,4.2,0.4"/>
+	</g>
+	<g id="LINE_153_">
+		<line class="st0" x1="702.7" y1="938.2" x2="727.9" y2="938.2"/>
+	</g>
+	<g id="SPLINE_226_">
+		<path class="st0" d="M565.5,945c0.1,0,0.1,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_227_">
+		<path class="st0" d="M580,937.9c1.4-0.3,2.8-0.4,4.2-0.4"/>
+	</g>
+	<g id="SPLINE_228_">
+		<path class="st0" d="M584.2,937.5c-1.7,0-3.4,0.1-5.1,0.4"/>
+	</g>
+	<g id="SPLINE_229_">
+		<path class="st0" d="M613.5,945c0,0,0.1,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_230_">
+		<path class="st0" d="M628,937.9c1.4-0.3,2.8-0.4,4.2-0.4"/>
+	</g>
+	<g id="SPLINE_231_">
+		<path class="st0" d="M632.2,937.5c-1.7,0-3.4,0.1-5.1,0.4"/>
+	</g>
+	<g id="LINE_190_">
+		<line class="st0" x1="492" y1="945.5" x2="492" y2="945.2"/>
+	</g>
+	<g id="SPLINE_234_">
+		<path class="st0" d="M499.6,945.2c-0.1,0-0.1,0-0.2,0"/>
+	</g>
+	<g id="SPLINE_235_">
+		<path class="st0" d="M498,943.2c-0.1,1.2,0.5,2,1.4,2"/>
+	</g>
+	<g id="SPLINE_237_">
+		<path class="st0" d="M486.3,941.4c1.7,0.2,3.4,0.5,5.2,0.8c1.1,0.2,2.1,0.3,3.2,0.5c0.4,0.1,0.8,0.1,1.3,0.2
+			c0.4,0.1,0.8,0.1,1.2,0.2c0.3,0,0.6,0.1,0.9,0.1"/>
+	</g>
+	<g id="SPLINE_238_">
+		<path class="st0" d="M498,943.2c0.5,0.1,1.1,0.1,1.6,0"/>
+	</g>
+	<g id="SPLINE_239_">
+		<path class="st0" d="M513.1,938.1c1.7-0.3,3.4-0.4,5.1-0.4"/>
+	</g>
+	<g id="SPLINE_240_">
+		<path class="st0" d="M518.2,937.7c-1.4,0-2.8,0.1-4.2,0.4"/>
+	</g>
+	<g id="LINE_195_">
+		<line class="st0" x1="497.4" y1="938.2" x2="472.2" y2="938.2"/>
+	</g>
+	<g id="SPLINE_244_">
+		<path class="st0" d="M1153.9,538.8c-0.2,0-0.4,0-0.6-0.2c-0.1-0.1-0.3-0.2-0.4-0.3c-0.1-0.1-0.1-0.2-0.2-0.3s-0.1-0.2-0.1-0.4
+			c0-0.1,0-0.2,0-0.3"/>
+	</g>
+	<g id="ELLIPSE_18_">
+		<path class="st0" d="M1152.6,521c0-9.2-5.6-17.4-14.1-20.8"/>
+	</g>
+	<g id="LINE_208_">
+		<line class="st0" x1="1152.6" y1="537.3" x2="1152.6" y2="521"/>
+	</g>
+	<g id="SPLINE_245_">
+		<path class="st0" d="M1138.6,500.2c-1.2-0.3-2.3-0.5-3.5-0.7c-1.2-0.2-2.4-0.3-3.7-0.4"/>
+	</g>
+	<g id="SPLINE_247_">
+		<path class="st0" d="M1153.9,661.5c-0.2,0-0.4,0-0.6,0.2c-0.1,0.1-0.3,0.2-0.4,0.3c-0.1,0.1-0.1,0.2-0.2,0.3s-0.1,0.2-0.1,0.4
+			c0,0.1,0,0.2,0,0.3"/>
+	</g>
+	<g id="ELLIPSE_19_">
+		<path class="st0" d="M1152.6,679.3c0,9.2-5.6,17.4-14.1,20.8"/>
+	</g>
+	<g id="LINE_214_">
+		<line class="st0" x1="1152.6" y1="663" x2="1152.6" y2="679.3"/>
+	</g>
+	<g id="SPLINE_248_">
+		<path class="st0" d="M1138.6,700.2c-1.2,0.3-2.3,0.5-3.5,0.7c-1.2,0.2-2.4,0.3-3.7,0.4"/>
+	</g>
+	<g id="LINE_262_">
+		<line class="st0" x1="969" y1="703.1" x2="968.8" y2="703.1"/>
+	</g>
+	<g id="LINE_268_">
+		<line class="st0" x1="968.4" y1="634.2" x2="967" y2="634.2"/>
+	</g>
+	<g id="SPLINE_251_">
+		<path class="st0" d="M967,634.2c0.1-0.2,0.1-0.4,0.2-0.6c0.1-0.2,0.1-0.4,0.2-0.6c0.1-0.2,0.2-0.4,0.2-0.7c0-0.1,0.1-0.3,0.1-0.4
+			c0-0.2,0.1-0.4,0-0.7"/>
+	</g>
+	<g id="SPLINE_252_">
+		<path class="st0" d="M967.7,631.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.2,0.2,0.4,0.2,0.7
+			c0,0.3,0.1,0.5,0.1,0.8c0,0.3,0,0.6,0,0.9"/>
+	</g>
+	<g id="LINE_269_">
+		<line class="st0" x1="968.4" y1="650.1" x2="967" y2="650.1"/>
+	</g>
+	<g id="LINE_270_">
+		<line class="st0" x1="967" y1="650.1" x2="967" y2="634.2"/>
+	</g>
+	<g id="LINE_271_">
+		<line class="st0" x1="968.4" y1="634.2" x2="968.4" y2="650.1"/>
+	</g>
+	<g id="SPLINE_253_">
+		<path class="st0" d="M968.4,650.1c0,0.3,0,0.6,0,0.9c0,0.5-0.1,0.9-0.2,1.3c0,0.1-0.1,0.2-0.1,0.4c0,0.1-0.1,0.2-0.2,0.3
+			c0,0.1-0.1,0.1-0.2,0.2"/>
+	</g>
+	<g id="SPLINE_254_">
+		<path class="st0" d="M967.7,653.1c0-0.3,0-0.5,0-0.6s-0.1-0.3-0.1-0.4c0-0.1-0.1-0.3-0.1-0.4c-0.1-0.4-0.2-0.7-0.3-1
+			c-0.1-0.2-0.1-0.4-0.2-0.5"/>
+	</g>
+	<g id="SPLINE_255_">
+		<path class="st0" d="M968.4,566.1c0,0.3,0,0.6,0,0.9c0,0.5-0.1,0.9-0.2,1.3c0,0.1-0.1,0.2-0.1,0.4c0,0.1-0.1,0.2-0.2,0.3
+			c0,0.1-0.1,0.2-0.2,0.2"/>
+	</g>
+	<g id="LINE_272_">
+		<line class="st0" x1="968.4" y1="550.2" x2="968.4" y2="566.1"/>
+	</g>
+	<g id="SPLINE_256_">
+		<path class="st0" d="M967.7,547.2c0.1,0.1,0.1,0.1,0.2,0.2c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.2,0.2,0.5,0.2,0.7
+			c0,0.3,0.1,0.5,0.1,0.8s0,0.6,0,0.9"/>
+	</g>
+	<g id="SPLINE_257_">
+		<path class="st0" d="M967,634.2c-0.3,0.1-0.6,0.2-0.9,0.3c-0.1,0-0.2,0-0.3,0.1"/>
+	</g>
+	<g id="LINE_273_">
+		<line class="st0" x1="965.5" y1="633.1" x2="965.7" y2="634.6"/>
+	</g>
+	<g id="SPLINE_258_">
+		<path class="st0" d="M965.5,633.1c0.1,0,0.1,0,0.2,0c0.3,0,0.5-0.1,0.8-0.2c0.2-0.1,0.4-0.2,0.5-0.4c0.2-0.1,0.3-0.3,0.4-0.5
+			c0.2-0.2,0.2-0.5,0.2-0.8"/>
+	</g>
+	<g id="LINE_276_">
+		<line class="st0" x1="962.8" y1="634.7" x2="962.8" y2="649.7"/>
+	</g>
+	<g id="LINE_278_">
+		<line class="st0" x1="965" y1="651.2" x2="965" y2="649.7"/>
+	</g>
+	<g id="LINE_280_">
+		<line class="st0" x1="962.8" y1="649.7" x2="965" y2="649.7"/>
+	</g>
+	<g id="LINE_281_">
+		<line class="st0" x1="965" y1="634.7" x2="965" y2="633.2"/>
+	</g>
+	<g id="LINE_282_">
+		<line class="st0" x1="965" y1="634.7" x2="962.8" y2="634.7"/>
+	</g>
+	<g id="SPLINE_259_">
+		<path class="st0" d="M967.7,653.1c0-0.3-0.1-0.6-0.2-0.8c-0.1-0.2-0.2-0.3-0.4-0.5c-0.2-0.1-0.4-0.3-0.5-0.4
+			c-0.2-0.1-0.5-0.2-0.8-0.2c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="LINE_284_">
+		<line class="st0" x1="965.7" y1="649.7" x2="965.5" y2="651.2"/>
+	</g>
+	<g id="SPLINE_260_">
+		<path class="st0" d="M965.7,649.7c0.1,0,0.2,0,0.3,0.1c0.3,0.1,0.6,0.2,0.9,0.3"/>
+	</g>
+	<g id="SPLINE_261_">
+		<path class="st0" d="M965.5,651.2c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="SPLINE_262_">
+		<path class="st0" d="M965,649.7c0.1,0,0.2,0,0.4,0c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="SPLINE_263_">
+		<path class="st0" d="M965.7,634.6c-0.1,0-0.2,0-0.4,0c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	<g id="SPLINE_264_">
+		<path class="st0" d="M965,633.2c0.1,0,0.2,0,0.2,0c0.1,0,0.2,0,0.3,0"/>
+	</g>
+	<g id="LINE_285_">
+		<line class="st0" x1="968.4" y1="550.2" x2="967" y2="550.2"/>
+	</g>
+	<g id="SPLINE_265_">
+		<path class="st0" d="M967,550.2c0.1-0.2,0.1-0.4,0.2-0.5c0.1-0.2,0.1-0.4,0.2-0.6c0.1-0.2,0.2-0.4,0.2-0.7c0-0.1,0.1-0.3,0.1-0.5
+			c0-0.2,0.1-0.4,0-0.7"/>
+	</g>
+	<g id="LINE_286_">
+		<line class="st0" x1="968.4" y1="566.1" x2="967" y2="566.1"/>
+	</g>
+	<g id="LINE_287_">
+		<line class="st0" x1="967" y1="566.1" x2="967" y2="550.2"/>
+	</g>
+	<g id="SPLINE_266_">
+		<path class="st0" d="M967.7,569.1c0-0.3,0-0.5,0-0.6c0-0.2-0.1-0.3-0.1-0.4c0-0.1-0.1-0.3-0.1-0.4c-0.1-0.4-0.2-0.7-0.3-1
+			c-0.1-0.2-0.1-0.4-0.2-0.5"/>
+	</g>
+	<g id="SPLINE_267_">
+		<path class="st0" d="M967,550.2c-0.3,0.1-0.6,0.2-0.9,0.3c-0.1,0-0.2,0-0.3,0.1"/>
+	</g>
+	<g id="LINE_288_">
+		<line class="st0" x1="965.5" y1="549.1" x2="965.7" y2="550.6"/>
+	</g>
+	<g id="SPLINE_268_">
+		<path class="st0" d="M965.5,549.1c0.1,0,0.1,0,0.2,0c0.3,0,0.5-0.1,0.8-0.2c0.2-0.1,0.4-0.2,0.5-0.3c0.2-0.1,0.3-0.3,0.4-0.5
+			c0.2-0.2,0.2-0.5,0.2-0.8"/>
+	</g>
+	<g id="LINE_289_">
+		<line class="st0" x1="965" y1="550.6" x2="965" y2="549.1"/>
+	</g>
+	<g id="LINE_290_">
+		<line class="st0" x1="965" y1="550.6" x2="962.8" y2="550.6"/>
+	</g>
+	<g id="LINE_293_">
+		<line class="st0" x1="962.8" y1="550.6" x2="962.8" y2="565.6"/>
+	</g>
+	<g id="LINE_296_">
+		<line class="st0" x1="965" y1="567.1" x2="965" y2="565.6"/>
+	</g>
+	<g id="LINE_298_">
+		<line class="st0" x1="962.8" y1="565.6" x2="965" y2="565.6"/>
+	</g>
+	<g id="SPLINE_269_">
+		<path class="st0" d="M967.7,569.1c0-0.3-0.1-0.6-0.2-0.8c-0.1-0.2-0.2-0.3-0.4-0.5c-0.2-0.1-0.4-0.2-0.5-0.3
+			c-0.2-0.1-0.5-0.2-0.8-0.2c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="LINE_299_">
+		<line class="st0" x1="965.7" y1="565.7" x2="965.5" y2="567.2"/>
+	</g>
+	<g id="SPLINE_270_">
+		<path class="st0" d="M965.7,565.7c0.1,0,0.2,0,0.3,0.1c0.3,0.1,0.6,0.2,0.9,0.3"/>
+	</g>
+	<g id="SPLINE_271_">
+		<path class="st0" d="M965.5,567.2c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0"/>
+	</g>
+	<g id="SPLINE_272_">
+		<path class="st0" d="M965,565.6c0.1,0,0.2,0,0.4,0c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="SPLINE_273_">
+		<path class="st0" d="M965.7,550.6c-0.1,0-0.2,0-0.4,0c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	<g id="SPLINE_274_">
+		<path class="st0" d="M965,549.1c0.1,0,0.2,0,0.2,0c0.1,0,0.2,0,0.3,0"/>
+	</g>
+	<g id="SPLINE_275_">
+		<path class="st0" d="M966.7,631.3c0.3,0,0.5,0,0.8,0c0.1,0,0.1,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_276_">
+		<path class="st0" d="M967.7,653.1c-0.1,0-0.1,0-0.2,0c-0.2,0-0.5,0-0.8,0"/>
+	</g>
+	<g id="SPLINE_277_">
+		<path class="st0" d="M961.3,633.2c0,0,0.1-0.1,0.4-0.2c0.2-0.2,0.6-0.4,1.1-0.6c0.5-0.2,1-0.4,1.7-0.6c0.7-0.2,1.4-0.4,2.3-0.4"/>
+	</g>
+	<g id="SPLINE_278_">
+		<path class="st0" d="M966.7,631.3c0,0.9-0.4,1.7-1.2,1.8"/>
+	</g>
+	<g id="SPLINE_279_">
+		<path class="st0" d="M965.5,651.2c0.8,0.2,1.2,0.9,1.2,1.8"/>
+	</g>
+	<g id="SPLINE_280_">
+		<path class="st0" d="M966.7,653c-0.8-0.1-1.6-0.2-2.3-0.4c-0.7-0.2-1.2-0.4-1.7-0.6s-0.8-0.4-1.1-0.6c-0.3-0.1-0.4-0.2-0.4-0.2"/>
+	</g>
+	<g id="LINE_300_">
+		<line class="st0" x1="966.7" y1="631.3" x2="966.7" y2="610.5"/>
+	</g>
+	<g id="LINE_301_">
+		<line class="st0" x1="966.7" y1="589.7" x2="966.7" y2="569"/>
+	</g>
+	<g id="LINE_302_">
+		<line class="st0" x1="966.7" y1="547.3" x2="966.7" y2="544.5"/>
+	</g>
+	<g id="LINE_303_">
+		<line class="st0" x1="966.7" y1="655.8" x2="966.7" y2="653"/>
+	</g>
+	<g id="SPLINE_281_">
+		<path class="st0" d="M967.7,569.1c-0.1,0-0.1,0-0.2,0c-0.1,0-0.2,0-0.4,0c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	<g id="SPLINE_282_">
+		<path class="st0" d="M966.7,547.3c0.4,0,0.7,0,1-0.1"/>
+	</g>
+	<g id="SPLINE_283_">
+		<path class="st0" d="M961.3,549.1c0,0,0.1-0.1,0.4-0.2c0.2-0.2,0.6-0.4,1.1-0.6c0.5-0.2,1-0.4,1.7-0.6c0.7-0.2,1.4-0.4,2.3-0.4"/>
+	</g>
+	<g id="SPLINE_284_">
+		<path class="st0" d="M966.7,547.3c0,0.9-0.4,1.7-1.2,1.8"/>
+	</g>
+	<g id="SPLINE_285_">
+		<path class="st0" d="M966.7,569c0-0.9-0.4-1.7-1.2-1.8"/>
+	</g>
+	<g id="SPLINE_286_">
+		<path class="st0" d="M966.7,569c-0.9-0.1-1.7-0.3-2.4-0.5c-0.8-0.2-1.5-0.5-2-0.8c-0.3-0.1-0.5-0.3-0.7-0.4
+			c-0.2-0.1-0.4-0.2-0.4-0.2"/>
+	</g>
+	<g id="SPLINE_287_">
+		<path class="st0" d="M961.6,538.1c-0.3,1.4-0.4,2.8-0.4,4.2"/>
+	</g>
+	<g id="SPLINE_288_">
+		<path class="st0" d="M961.3,542.3c0-1.7,0.1-3.4,0.4-5.1"/>
+	</g>
+	<g id="SPLINE_289_">
+		<path class="st0" d="M968.7,676.6c0,0.1,0,0.1,0,0.2"/>
+	</g>
+	<g id="SPLINE_290_">
+		<path class="st0" d="M966.7,678.2c1.2,0.1,2.1-0.5,2.1-1.5"/>
+	</g>
+	<g id="SPLINE_292_">
+		<path class="st0" d="M964.9,708.9c0.2-1.7,0.5-3.4,0.7-5.1c0.2-1.1,0.3-2.1,0.5-3.2c0.1-0.4,0.1-0.8,0.2-10.7
+			c0-9.9,0.1-10.3,0.2-10.7c0-0.3,0.1-0.6,0.1-0.9"/>
+	</g>
+	<g id="SPLINE_293_">
+		<path class="st0" d="M966.7,678.2c0.1-0.5,0.1-1.1,0-1.6"/>
+	</g>
+	<g id="SPLINE_294_">
+		<path class="st0" d="M961.6,663.1c-0.3-1.7-0.4-3.4-0.4-5.1"/>
+	</g>
+	<g id="SPLINE_295_">
+		<path class="st0" d="M961.3,658c0,1.4,0.1,2.8,0.4,4.2"/>
+	</g>
+	<g id="LINE_305_">
+		<line class="st0" x1="961.7" y1="678.8" x2="961.7" y2="717.7"/>
+	</g>
+	<g id="SPLINE_296_">
+		<path class="st0" d="M968.7,610.5c0,0.1,0,0.1,0,0.2"/>
+	</g>
+	<g id="LINE_328_">
+		<line class="st0" x1="969" y1="497.2" x2="968.8" y2="497.2"/>
+	</g>
+	<g id="SPLINE_299_">
+		<path class="st0" d="M968.7,523.8c0-0.1,0-0.1,0-0.2"/>
+	</g>
+	<g id="SPLINE_300_">
+		<path class="st0" d="M966.7,522.1c1.2-0.1,2.1,0.5,2.1,1.5"/>
+	</g>
+	<g id="SPLINE_302_">
+		<path class="st0" d="M964.9,491.4c0.2,1.7,0.5,3.4,0.7,5.1c0.2,1.1,0.3,2.1,0.5,3.2c0.1,0.4,0.1,0.8,0.2,10.7
+			c0,9.9,0.1,10.3,0.2,10.7c0,0.3,0.1,0.6,0.1,0.9"/>
+	</g>
+	<g id="SPLINE_303_">
+		<path class="st0" d="M966.7,522.1c0.1,0.5,0.1,1.1,0,1.6"/>
+	</g>
+	<g id="LINE_333_">
+		<line class="st0" x1="961.7" y1="521.6" x2="961.7" y2="482.6"/>
+	</g>
+	<g id="SPLINE_307_">
+		<path class="st0" d="M46.1,538.8c0.2,0,0.4,0,0.6-0.2c0.1-0.1,0.3-0.2,0.4-0.3c0.1-0.1,0.1-0.2,0.2-0.3c0.1-0.1,0.1-0.2,0.1-0.4
+			c0-0.1,0-0.2,0-0.3"/>
+	</g>
+	<g id="ELLIPSE_24_">
+		<path class="st0" d="M47.4,521c0-9.2,5.6-17.4,14.1-20.8"/>
+	</g>
+	<g id="LINE_345_">
+		<line class="st0" x1="47.4" y1="537.3" x2="47.4" y2="521"/>
+	</g>
+	<g id="SPLINE_308_">
+		<path class="st0" d="M61.4,500.2c1.2-0.3,2.3-0.5,3.5-0.7c1.2-0.2,2.4-0.3,3.7-0.4"/>
+	</g>
+	<g id="SPLINE_310_">
+		<path class="st0" d="M46.1,661.5c0.2,0,0.4,0,0.6,0.2c0.1,0.1,0.3,0.2,0.4,0.3c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.1,0.2,0.1,0.4
+			c0,0.1,0,0.2,0,0.3"/>
+	</g>
+	<g id="ELLIPSE_25_">
+		<path class="st0" d="M47.4,679.3c0,9.2,5.6,17.4,14.1,20.8"/>
+	</g>
+	<g id="LINE_351_">
+		<line class="st0" x1="47.4" y1="663" x2="47.4" y2="679.3"/>
+	</g>
+	<g id="SPLINE_311_">
+		<path class="st0" d="M61.4,700.2c1.2,0.3,2.3,0.5,3.5,0.7c1.2,0.2,2.4,0.3,3.7,0.4"/>
+	</g>
+	<g id="LINE_399_">
+		<line class="st0" x1="231" y1="703.1" x2="231.3" y2="703.1"/>
+	</g>
+	<g id="LINE_405_">
+		<line class="st0" x1="231.6" y1="634.2" x2="233" y2="634.2"/>
+	</g>
+	<g id="SPLINE_314_">
+		<path class="st0" d="M233,634.2c-0.1-0.2-0.1-0.4-0.2-0.6c-0.1-0.2-0.1-0.4-0.2-0.6c-0.1-0.2-0.1-0.4-0.2-0.7
+			c0-0.1-0.1-0.3-0.1-0.4c0-0.2,0-0.4,0-0.7"/>
+	</g>
+	<g id="SPLINE_315_">
+		<path class="st0" d="M232.3,631.2c-0.1,0.1-0.2,0.1-0.2,0.2c-0.1,0.1-0.1,0.2-0.2,0.3c-0.1,0.2-0.2,0.4-0.2,0.7
+			c-0.1,0.3-0.1,0.5-0.1,0.8c0,0.3,0,0.6,0,0.9"/>
+	</g>
+	<g id="LINE_406_">
+		<line class="st0" x1="231.6" y1="650.1" x2="233" y2="650.1"/>
+	</g>
+	<g id="LINE_407_">
+		<line class="st0" x1="233" y1="650.1" x2="233" y2="634.2"/>
+	</g>
+	<g id="LINE_408_">
+		<line class="st0" x1="231.6" y1="634.2" x2="231.6" y2="650.1"/>
+	</g>
+	<g id="SPLINE_316_">
+		<path class="st0" d="M231.6,650.1c0,0.3,0,0.6,0,0.9c0,0.5,0.1,0.9,0.2,1.3c0,0.1,0.1,0.2,0.1,0.4c0,0.1,0.1,0.2,0.2,0.3
+			s0.1,0.1,0.2,0.2"/>
+	</g>
+	<g id="SPLINE_317_">
+		<path class="st0" d="M232.3,653.1c0-0.3,0-0.5,0-0.6c0-0.2,0-0.3,0.1-0.4c0-0.1,0.1-0.3,0.1-0.4c0.1-0.4,0.2-0.7,0.3-1
+			c0.1-0.2,0.1-0.4,0.2-0.5"/>
+	</g>
+	<g id="SPLINE_318_">
+		<path class="st0" d="M231.6,566.1c0,0.3,0,0.6,0,0.9c0,0.5,0.1,0.9,0.2,1.3c0,0.1,0.1,0.2,0.1,0.4c0,0.1,0.1,0.2,0.2,0.3
+			c0.1,0.1,0.1,0.2,0.2,0.2"/>
+	</g>
+	<g id="LINE_409_">
+		<line class="st0" x1="231.6" y1="550.2" x2="231.6" y2="566.1"/>
+	</g>
+	<g id="SPLINE_319_">
+		<path class="st0" d="M232.3,547.2c-0.1,0.1-0.2,0.1-0.2,0.2c-0.1,0.1-0.1,0.2-0.2,0.3c-0.1,0.2-0.2,0.5-0.2,0.7
+			c-0.1,0.3-0.1,0.5-0.1,0.8c0,0.3,0,0.6,0,0.9"/>
+	</g>
+	<g id="SPLINE_320_">
+		<path class="st0" d="M233,634.2c0.3,0.1,0.6,0.2,0.9,0.3c0.1,0,0.2,0,0.3,0.1"/>
+	</g>
+	<g id="LINE_410_">
+		<line class="st0" x1="234.5" y1="633.1" x2="234.3" y2="634.6"/>
+	</g>
+	<g id="SPLINE_321_">
+		<path class="st0" d="M234.5,633.1c-0.1,0-0.2,0-0.2,0c-0.3,0-0.5-0.1-0.8-0.2c-0.2-0.1-0.4-0.2-0.5-0.4c-0.2-0.1-0.3-0.3-0.4-0.5
+			c-0.2-0.2-0.2-0.5-0.2-0.8"/>
+	</g>
+	<g id="LINE_413_">
+		<line class="st0" x1="237.3" y1="634.7" x2="237.3" y2="649.7"/>
+	</g>
+	<g id="LINE_415_">
+		<line class="st0" x1="235" y1="651.2" x2="235" y2="649.7"/>
+	</g>
+	<g id="LINE_417_">
+		<line class="st0" x1="237.3" y1="649.7" x2="235" y2="649.7"/>
+	</g>
+	<g id="LINE_418_">
+		<line class="st0" x1="235" y1="634.7" x2="235" y2="633.2"/>
+	</g>
+	<g id="LINE_419_">
+		<line class="st0" x1="235" y1="634.7" x2="237.3" y2="634.7"/>
+	</g>
+	<g id="SPLINE_322_">
+		<path class="st0" d="M232.3,653.1c0-0.3,0.1-0.6,0.2-0.8c0.1-0.2,0.2-0.3,0.4-0.5c0.2-0.1,0.4-0.3,0.5-0.4
+			c0.2-0.1,0.5-0.2,0.8-0.2c0.1,0,0.2,0,0.2,0"/>
+	</g>
+	<g id="LINE_421_">
+		<line class="st0" x1="234.3" y1="649.7" x2="234.5" y2="651.2"/>
+	</g>
+	<g id="SPLINE_323_">
+		<path class="st0" d="M234.3,649.7c-0.1,0-0.2,0-0.3,0.1c-0.3,0.1-0.6,0.2-0.9,0.3"/>
+	</g>
+	<g id="SPLINE_324_">
+		<path class="st0" d="M234.5,651.2c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_325_">
+		<path class="st0" d="M235,649.7c-0.1,0-0.2,0-0.4,0c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	<g id="SPLINE_326_">
+		<path class="st0" d="M234.3,634.6c0.1,0,0.2,0,0.4,0c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="SPLINE_327_">
+		<path class="st0" d="M235,633.2c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2,0-0.3,0"/>
+	</g>
+	<g id="LINE_422_">
+		<line class="st0" x1="231.6" y1="550.2" x2="233" y2="550.2"/>
+	</g>
+	<g id="SPLINE_328_">
+		<path class="st0" d="M233,550.2c-0.1-0.2-0.1-0.4-0.2-0.5c-0.1-0.2-0.1-0.4-0.2-0.6c-0.1-0.2-0.1-0.4-0.2-0.7
+			c0-0.1-0.1-0.3-0.1-0.5c0-0.2,0-0.4,0-0.7"/>
+	</g>
+	<g id="LINE_423_">
+		<line class="st0" x1="231.6" y1="566.1" x2="233" y2="566.1"/>
+	</g>
+	<g id="LINE_424_">
+		<line class="st0" x1="233" y1="566.1" x2="233" y2="550.2"/>
+	</g>
+	<g id="SPLINE_329_">
+		<path class="st0" d="M232.3,569.1c0-0.3,0-0.5,0-0.6c0-0.2,0-0.3,0.1-0.4c0-0.1,0.1-0.3,0.1-0.4c0.1-0.4,0.2-0.7,0.3-1
+			c0.1-0.2,0.1-0.4,0.2-0.5"/>
+	</g>
+	<g id="SPLINE_330_">
+		<path class="st0" d="M233,550.2c0.3,0.1,0.6,0.2,0.9,0.3c0.1,0,0.2,0,0.3,0.1"/>
+	</g>
+	<g id="LINE_425_">
+		<line class="st0" x1="234.5" y1="549.1" x2="234.3" y2="550.6"/>
+	</g>
+	<g id="SPLINE_331_">
+		<path class="st0" d="M234.5,549.1c-0.1,0-0.2,0-0.2,0c-0.3,0-0.5-0.1-0.8-0.2c-0.2-0.1-0.4-0.2-0.5-0.3c-0.2-0.1-0.3-0.3-0.4-0.5
+			c-0.2-0.2-0.2-0.5-0.2-0.8"/>
+	</g>
+	<g id="LINE_426_">
+		<line class="st0" x1="235" y1="550.6" x2="235" y2="549.1"/>
+	</g>
+	<g id="LINE_427_">
+		<line class="st0" x1="235" y1="550.6" x2="237.3" y2="550.6"/>
+	</g>
+	<g id="LINE_430_">
+		<line class="st0" x1="237.3" y1="550.6" x2="237.3" y2="565.6"/>
+	</g>
+	<g id="LINE_433_">
+		<line class="st0" x1="235" y1="567.1" x2="235" y2="565.6"/>
+	</g>
+	<g id="LINE_435_">
+		<line class="st0" x1="237.3" y1="565.6" x2="235" y2="565.6"/>
+	</g>
+	<g id="SPLINE_332_">
+		<path class="st0" d="M232.3,569.1c0-0.3,0.1-0.6,0.2-0.8c0.1-0.2,0.2-0.3,0.4-0.5c0.2-0.1,0.4-0.2,0.5-0.3
+			c0.2-0.1,0.5-0.2,0.8-0.2c0.1,0,0.2,0,0.2,0"/>
+	</g>
+	<g id="LINE_436_">
+		<line class="st0" x1="234.3" y1="565.7" x2="234.5" y2="567.2"/>
+	</g>
+	<g id="SPLINE_333_">
+		<path class="st0" d="M234.3,565.7c-0.1,0-0.2,0-0.3,0.1c-0.3,0.1-0.6,0.2-0.9,0.3"/>
+	</g>
+	<g id="SPLINE_334_">
+		<path class="st0" d="M234.5,567.2c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_335_">
+		<path class="st0" d="M235,565.6c-0.1,0-0.2,0-0.4,0c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	<g id="SPLINE_336_">
+		<path class="st0" d="M234.3,550.6c0.1,0,0.2,0,0.4,0c0.1,0,0.2,0,0.4,0"/>
+	</g>
+	<g id="SPLINE_337_">
+		<path class="st0" d="M235,549.1c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2,0-0.3,0"/>
+	</g>
+	<g id="SPLINE_338_">
+		<path class="st0" d="M233.3,631.3c-0.3,0-0.5,0-0.8,0c-0.1,0-0.1,0-0.2,0"/>
+	</g>
+	<g id="SPLINE_339_">
+		<path class="st0" d="M232.3,653.1c0.1,0,0.1,0,0.2,0c0.2,0,0.5,0,0.8,0"/>
+	</g>
+	<g id="SPLINE_340_">
+		<path class="st0" d="M238.8,633.2c0,0-0.1-0.1-0.4-0.2c-0.2-0.2-0.6-0.4-1.1-0.6s-1-0.4-1.7-0.6c-0.7-0.2-1.4-0.4-2.3-0.4"/>
+	</g>
+	<g id="SPLINE_341_">
+		<path class="st0" d="M233.3,631.3c0,0.9,0.4,1.7,1.2,1.8"/>
+	</g>
+	<g id="SPLINE_342_">
+		<path class="st0" d="M234.5,651.2c-0.8,0.2-1.2,0.9-1.2,1.8"/>
+	</g>
+	<g id="SPLINE_343_">
+		<path class="st0" d="M233.3,653c0.8-0.1,1.6-0.2,2.3-0.4c0.7-0.2,1.2-0.4,1.7-0.6c0.5-0.2,0.8-0.4,1.1-0.6
+			c0.3-0.1,0.4-0.2,0.4-0.2"/>
+	</g>
+	<g id="LINE_437_">
+		<line class="st0" x1="233.3" y1="631.3" x2="233.3" y2="610.5"/>
+	</g>
+	<g id="LINE_438_">
+		<line class="st0" x1="233.3" y1="589.7" x2="233.3" y2="569"/>
+	</g>
+	<g id="LINE_439_">
+		<line class="st0" x1="233.3" y1="547.3" x2="233.3" y2="544.5"/>
+	</g>
+	<g id="LINE_440_">
+		<line class="st0" x1="233.3" y1="655.8" x2="233.3" y2="653"/>
+	</g>
+	<g id="SPLINE_344_">
+		<path class="st0" d="M232.3,569.1c0.1,0,0.1,0,0.2,0c0.1,0,0.2,0,0.4,0c0.1,0,0.3,0,0.4,0"/>
+	</g>
+	<g id="SPLINE_345_">
+		<path class="st0" d="M233.3,547.3c-0.4,0-0.7,0-1-0.1"/>
+	</g>
+	<g id="SPLINE_346_">
+		<path class="st0" d="M238.8,549.1c0,0-0.1-0.1-0.4-0.2c-0.2-0.2-0.6-0.4-1.1-0.6s-1-0.4-1.7-0.6c-0.7-0.2-1.4-0.4-2.3-0.4"/>
+	</g>
+	<g id="SPLINE_347_">
+		<path class="st0" d="M233.3,547.3c0,0.9,0.4,1.7,1.2,1.8"/>
+	</g>
+	<g id="SPLINE_348_">
+		<path class="st0" d="M233.3,569c0-0.9,0.4-1.7,1.2-1.8"/>
+	</g>
+	<g id="SPLINE_349_">
+		<path class="st0" d="M233.3,569c0.9-0.1,1.7-0.3,2.4-0.5c0.8-0.2,1.5-0.5,2-0.8c0.3-0.1,0.5-0.3,0.7-0.4c0.2-0.1,0.4-0.2,0.4-0.2"
+			/>
+	</g>
+	<g id="SPLINE_350_">
+		<path class="st0" d="M238.4,538.1c0.3,1.4,0.4,2.8,0.4,4.2"/>
+	</g>
+	<g id="SPLINE_351_">
+		<path class="st0" d="M238.8,542.3c0-1.7-0.1-3.4-0.4-5.1"/>
+	</g>
+	<g id="SPLINE_352_">
+		<path class="st0" d="M231.3,676.6c0,0.1,0,0.1,0,0.2"/>
+	</g>
+	<g id="SPLINE_353_">
+		<path class="st0" d="M233.3,678.2c-1.2,0.1-2.1-0.5-2.1-1.5"/>
+	</g>
+	<g id="SPLINE_355_">
+		<path class="st0" d="M235.1,708.9c-0.2-1.7-0.5-3.4-0.7-5.1c-0.2-1.1-0.3-2.1-0.5-3.2c-0.1-0.4-0.1-0.8-0.2-10.7
+			c-0.1-9.9-0.1-10.3-0.2-10.7c0-0.3-0.1-0.6-0.1-0.9"/>
+	</g>
+	<g id="SPLINE_356_">
+		<path class="st0" d="M233.3,678.2c-0.1-0.5-0.1-1.1,0-1.6"/>
+	</g>
+	<g id="SPLINE_357_">
+		<path class="st0" d="M238.4,663.1c0.3-1.7,0.4-3.4,0.4-5.1"/>
+	</g>
+	<g id="SPLINE_358_">
+		<path class="st0" d="M238.8,658c0,1.4-0.1,2.8-0.4,4.2"/>
+	</g>
+	<g id="LINE_442_">
+		<line class="st0" x1="238.3" y1="678.8" x2="238.3" y2="717.7"/>
+	</g>
+	<g id="SPLINE_359_">
+		<path class="st0" d="M231.3,610.5c0,0.1,0,0.1,0,0.2"/>
+	</g>
+	<g id="LINE_465_">
+		<line class="st0" x1="231" y1="497.2" x2="231.3" y2="497.2"/>
+	</g>
+	<g id="SPLINE_362_">
+		<path class="st0" d="M231.3,523.8c0-0.1,0-0.1,0-0.2"/>
+	</g>
+	<g id="SPLINE_363_">
+		<path class="st0" d="M233.3,522.1c-1.2-0.1-2.1,0.5-2.1,1.5"/>
+	</g>
+	<g id="SPLINE_365_">
+		<path class="st0" d="M235.1,491.4c-0.2,1.7-0.5,3.4-0.7,5.1c-0.2,1.1-0.3,2.1-0.5,3.2c-0.1,0.4-0.1,0.8-0.2,10.7
+			c-0.1,9.9-0.1,10.3-0.2,10.7c0,0.3-0.1,0.6-0.1,0.9"/>
+	</g>
+	<g id="SPLINE_366_">
+		<path class="st0" d="M233.3,522.1c-0.1,0.5-0.1,1.1,0,1.6"/>
+	</g>
+	<g id="LINE_470_">
+		<line class="st0" x1="238.3" y1="521.6" x2="238.3" y2="482.6"/>
+	</g>
+	<g id="SPLINE_369_">
+		<path class="st0" d="M486.4,92.8c-0.3,6.7-0.6,13.3-0.9,20c-0.1,2.1-0.2,4.2-0.2,6.3c-0.1,1.6-0.1,3.2-0.2,4.8
+			c0,1.6-0.1,3.2-0.1,4.8c0,0.4,0,0.8,0,1.2c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0,0,0.1,0,0.1c0.1-0.2,0.1-0.4,0.2-0.5
+			c0-0.3,0.1-0.5,0.1-0.8"/>
+	</g>
+	<g id="SPLINE_370_">
+		<path class="st0" d="M486.5,85.6c-0.1,1.4-0.1,2.8-0.1,4.2c0,1,0,2-0.1,3"/>
+	</g>
+	<g id="SPLINE_371_">
+		<path class="st0" d="M522.7,82.1c0,0.9,0,1.7-0.2,2.6c-0.1,0.9-0.3,1.8-0.6,2.8c-0.2,0.9-0.5,1.9-0.8,2.8
+			c-0.3,0.9-0.6,1.9-0.9,2.9"/>
+	</g>
+	<g id="LINE_480_">
+		<line class="st0" x1="522.7" y1="82.1" x2="522.1" y2="70.5"/>
+	</g>
+	<g id="SPLINE_372_">
+		<path class="st0" d="M679.7,93.2c-0.3-0.9-0.6-1.9-0.9-2.9c-0.3-0.9-0.5-1.9-0.8-2.8c-0.2-0.9-0.4-1.9-0.6-2.8
+			c-0.1-0.9-0.2-1.8-0.2-2.6"/>
+	</g>
+	<g id="LINE_481_">
+		<line class="st0" x1="678" y1="70.5" x2="677.3" y2="82.1"/>
+	</g>
+	<g id="SPLINE_373_">
+		<path class="st0" d="M713.7,92.8c0-1-0.1-2-0.1-3c0-1.4,0-2.8-0.1-4.2"/>
+	</g>
+	<g id="SPLINE_374_">
+		<path class="st0" d="M714.7,129.8c0,0.3,0.1,0.5,0.1,0.8c0,0.1,0,0.3,0.1,0.4c0,0.1,0,0.1,0,0.1c0-0.1,0-0.1,0-0.2
+			c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6c0-0.4,0-0.8,0-1.2c0-1.6-0.1-3.2-0.1-4.8c0-1.6-0.1-3.2-0.2-4.8c-0.1-2.1-0.2-4.2-0.2-6.3
+			c-0.3-6.7-0.6-13.3-0.9-20"/>
+	</g>
+	<g id="LINE_549_">
+		<line class="st0" x1="708.1" y1="254.5" x2="708.1" y2="254.8"/>
+	</g>
+	<g id="LINE_555_">
+		<line class="st0" x1="658.1" y1="255.1" x2="658.1" y2="256.6"/>
+	</g>
+	<g id="SPLINE_382_">
+		<path class="st0" d="M658.1,256.6c-0.2-0.1-0.4-0.1-0.5-0.2c-0.2-0.1-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.1-0.7-0.2
+			c-0.1,0-0.3-0.1-0.5-0.1c-0.2,0-0.4,0-0.7,0"/>
+	</g>
+	<g id="SPLINE_383_">
+		<path class="st0" d="M655.2,255.9c0-0.1,0.1-0.1,0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.2-0.1,0.4-0.2,0.7-0.2c0.3,0,0.5-0.1,0.8-0.1
+			c0.3,0,0.6,0,0.9,0"/>
+	</g>
+	<g id="LINE_556_">
+		<line class="st0" x1="674" y1="255.1" x2="674" y2="256.6"/>
+	</g>
+	<g id="LINE_557_">
+		<line class="st0" x1="674" y1="256.6" x2="658.1" y2="256.6"/>
+	</g>
+	<g id="LINE_558_">
+		<line class="st0" x1="658.1" y1="255.1" x2="674" y2="255.1"/>
+	</g>
+	<g id="SPLINE_384_">
+		<path class="st0" d="M674,255.1c0.3,0,0.6,0,0.9,0c0.5,0,0.9,0.1,1.3,0.2c0.1,0,0.2,0.1,0.4,0.1c0.1,0,0.2,0.1,0.3,0.2
+			c0.1,0.1,0.1,0.1,0.2,0.2"/>
+	</g>
+	<g id="SPLINE_385_">
+		<path class="st0" d="M677,255.9c-0.3,0-0.5,0-0.6,0c-0.2,0-0.3,0-0.4,0.1c-0.2,0-0.3,0.1-0.4,0.1c-0.4,0.1-0.7,0.2-1,0.3
+			c-0.2,0.1-0.4,0.1-0.6,0.2"/>
+	</g>
+	<g id="SPLINE_386_">
+		<path class="st0" d="M542,255.5c0.3,0,0.6,0,0.9,0c0.5,0,0.9,0.1,1.3,0.2c0.1,0,0.2,0.1,0.4,0.1c0.1,0,0.2,0.1,0.3,0.2
+			c0.1,0.1,0.2,0.1,0.2,0.2"/>
+	</g>
+	<g id="LINE_559_">
+		<line class="st0" x1="526.1" y1="255.5" x2="542" y2="255.5"/>
+	</g>
+	<g id="SPLINE_387_">
+		<path class="st0" d="M523.1,256.2c0.1-0.1,0.1-0.2,0.2-0.2c0.1-0.1,0.2-0.1,0.3-0.2c0.2-0.1,0.5-0.2,0.7-0.2
+			c0.3-0.1,0.5-0.1,0.8-0.1s0.6,0,0.9,0"/>
+	</g>
+	<g id="SPLINE_388_">
+		<path class="st0" d="M658.1,256.6c0.1,0.3,0.2,0.6,0.3,0.9c0,0.1,0,0.2,0.1,0.3"/>
+	</g>
+	<g id="LINE_560_">
+		<line class="st0" x1="657" y1="258" x2="658.5" y2="257.8"/>
+	</g>
+	<g id="SPLINE_389_">
+		<path class="st0" d="M657,258c0-0.1,0-0.2,0-0.2c0-0.3-0.1-0.5-0.2-0.8c-0.1-0.2-0.2-0.4-0.4-0.5c-0.1-0.2-0.3-0.3-0.4-0.4
+			c-0.3-0.2-0.5-0.2-0.8-0.2"/>
+	</g>
+	<g id="LINE_563_">
+		<line class="st0" x1="658.6" y1="260.8" x2="673.6" y2="260.8"/>
+	</g>
+	<g id="LINE_565_">
+		<line class="st0" x1="675.1" y1="258.5" x2="673.6" y2="258.5"/>
+	</g>
+	<g id="LINE_567_">
+		<line class="st0" x1="673.6" y1="260.8" x2="673.6" y2="258.5"/>
+	</g>
+	<g id="LINE_568_">
+		<line class="st0" x1="658.6" y1="258.5" x2="657.1" y2="258.5"/>
+	</g>
+	<g id="LINE_569_">
+		<line class="st0" x1="658.6" y1="258.5" x2="658.6" y2="260.8"/>
+	</g>
+	<g id="SPLINE_390_">
+		<path class="st0" d="M677,255.9c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.1-0.3,0.2-0.5,0.4c-0.1,0.2-0.3,0.4-0.3,0.5
+			c-0.1,0.2-0.2,0.5-0.2,0.8c0,0.1,0,0.2,0,0.2"/>
+	</g>
+	<g id="LINE_571_">
+		<line class="st0" x1="673.6" y1="257.8" x2="675.1" y2="258"/>
+	</g>
+	<g id="SPLINE_391_">
+		<path class="st0" d="M673.6,257.8c0-0.1,0-0.2,0.1-0.3c0.1-0.3,0.2-0.6,0.3-0.9"/>
+	</g>
+	<g id="SPLINE_392_">
+		<path class="st0" d="M675.1,258c0,0.1,0,0.2,0,0.2c0,0.1,0,0.2,0,0.2"/>
+	</g>
+	<g id="SPLINE_393_">
+		<path class="st0" d="M673.6,258.5c0-0.1,0-0.2,0-0.4c0-0.1,0-0.2,0-0.4"/>
+	</g>
+	<g id="SPLINE_394_">
+		<path class="st0" d="M658.5,257.8c0,0.1,0,0.2,0,0.4c0,0.1,0,0.2,0,0.4"/>
+	</g>
+	<g id="SPLINE_395_">
+		<path class="st0" d="M657.1,258.5c0-0.1,0-0.2,0-0.2c0-0.1,0-0.2,0-0.2"/>
+	</g>
+	<g id="LINE_572_">
+		<line class="st0" x1="526.1" y1="255.5" x2="526.1" y2="256.9"/>
+	</g>
+	<g id="SPLINE_396_">
+		<path class="st0" d="M526.1,256.9c-0.2-0.1-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.1-0.7-0.2
+			c-0.1,0-0.3-0.1-0.5-0.1c-0.2,0-0.4,0-0.7,0"/>
+	</g>
+	<g id="LINE_573_">
+		<line class="st0" x1="542" y1="255.5" x2="542" y2="256.9"/>
+	</g>
+	<g id="LINE_574_">
+		<line class="st0" x1="542" y1="256.9" x2="526.1" y2="256.9"/>
+	</g>
+	<g id="SPLINE_397_">
+		<path class="st0" d="M545,256.2c-0.3,0-0.5,0-0.6,0c-0.2,0-0.3,0-0.4,0.1c-0.1,0-0.3,0.1-0.4,0.1c-0.4,0.1-0.7,0.2-1,0.3
+			c-0.2,0.1-0.4,0.1-0.5,0.2"/>
+	</g>
+	<g id="SPLINE_398_">
+		<path class="st0" d="M526.1,256.9c0.1,0.3,0.2,0.6,0.3,0.9c0,0.1,0,0.2,0.1,0.3"/>
+	</g>
+	<g id="LINE_575_">
+		<line class="st0" x1="525" y1="258.4" x2="526.5" y2="258.2"/>
+	</g>
+	<g id="SPLINE_399_">
+		<path class="st0" d="M525,258.4c0-0.1,0-0.2,0-0.2c0-0.3-0.1-0.5-0.2-0.8c-0.1-0.2-0.2-0.4-0.3-0.6c-0.1-0.2-0.3-0.3-0.5-0.4
+			c-0.2-0.2-0.5-0.2-0.8-0.2"/>
+	</g>
+	<g id="LINE_576_">
+		<line class="st0" x1="526.5" y1="258.9" x2="525" y2="258.9"/>
+	</g>
+	<g id="LINE_577_">
+		<line class="st0" x1="526.5" y1="258.9" x2="526.5" y2="261.1"/>
+	</g>
+	<g id="LINE_580_">
+		<line class="st0" x1="526.5" y1="261.1" x2="541.5" y2="261.1"/>
+	</g>
+	<g id="LINE_583_">
+		<line class="st0" x1="543" y1="258.9" x2="541.5" y2="258.9"/>
+	</g>
+	<g id="LINE_585_">
+		<line class="st0" x1="541.5" y1="261.1" x2="541.5" y2="258.9"/>
+	</g>
+	<g id="SPLINE_400_">
+		<path class="st0" d="M545,256.2c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.1-0.3,0.2-0.5,0.4c-0.1,0.2-0.2,0.4-0.3,0.6
+			c-0.1,0.2-0.2,0.5-0.2,0.8c0,0.1,0,0.2,0,0.2"/>
+	</g>
+	<g id="LINE_586_">
+		<line class="st0" x1="541.6" y1="258.2" x2="543.1" y2="258.4"/>
+	</g>
+	<g id="SPLINE_401_">
+		<path class="st0" d="M541.6,258.2c0-0.1,0-0.2,0.1-0.3c0.1-0.3,0.2-0.6,0.3-0.9"/>
+	</g>
+	<g id="SPLINE_402_">
+		<path class="st0" d="M543.1,258.4c0,0.1,0,0.2,0,0.3c0,0.1,0,0.2,0,0.2"/>
+	</g>
+	<g id="SPLINE_403_">
+		<path class="st0" d="M541.5,258.9c0-0.1,0-0.2,0-0.4c0-0.1,0-0.2,0-0.4"/>
+	</g>
+	<g id="SPLINE_404_">
+		<path class="st0" d="M526.5,258.2c0,0.1,0,0.2,0,0.4c0,0.1,0,0.2,0,0.4"/>
+	</g>
+	<g id="SPLINE_405_">
+		<path class="st0" d="M525,258.9c0-0.1,0-0.2,0-0.2c0-0.1,0-0.2,0-0.3"/>
+	</g>
+	<g id="SPLINE_406_">
+		<path class="st0" d="M655.2,256.8c0-0.3,0-0.5,0-0.8c0-0.1,0-0.2,0-0.2"/>
+	</g>
+	<g id="SPLINE_407_">
+		<path class="st0" d="M677,255.9c0,0.1,0,0.1,0,0.2c0,0.2,0,0.5,0,0.8"/>
+	</g>
+	<g id="SPLINE_408_">
+		<path class="st0" d="M657.1,262.3c0,0-0.1-0.1-0.2-0.4c-0.1-0.2-0.4-0.6-0.6-1.1c-0.2-0.5-0.4-1-0.6-1.7c-0.2-0.7-0.3-1.4-0.4-2.3
+			"/>
+	</g>
+	<g id="SPLINE_409_">
+		<path class="st0" d="M655.2,256.8c0.9,0,1.7,0.4,1.8,1.2"/>
+	</g>
+	<g id="SPLINE_410_">
+		<path class="st0" d="M675.1,258c0.2-0.8,0.9-1.2,1.8-1.2"/>
+	</g>
+	<g id="SPLINE_411_">
+		<path class="st0" d="M676.9,256.8c-0.1,0.8-0.2,1.6-0.4,2.3c-0.2,0.7-0.4,1.2-0.6,1.7c-0.2,0.5-0.4,0.8-0.6,1.1
+			c-0.2,0.2-0.3,0.4-0.3,0.4"/>
+	</g>
+	<g id="LINE_587_">
+		<line class="st0" x1="655.2" y1="256.8" x2="634.5" y2="256.9"/>
+	</g>
+	<g id="LINE_588_">
+		<line class="st0" x1="613.7" y1="256.9" x2="586.4" y2="257"/>
+	</g>
+	<g id="LINE_589_">
+		<line class="st0" x1="565.7" y1="257.1" x2="544.9" y2="257.2"/>
+	</g>
+	<g id="LINE_590_">
+		<line class="st0" x1="523.2" y1="257.2" x2="520.4" y2="257.3"/>
+	</g>
+	<g id="LINE_591_">
+		<line class="st0" x1="679.7" y1="256.8" x2="676.9" y2="256.8"/>
+	</g>
+	<g id="SPLINE_412_">
+		<path class="st0" d="M545,256.2c0,0.1,0,0.1,0,0.2c0,0.1,0,0.2,0,0.4c0,0.1,0,0.3,0,0.4"/>
+	</g>
+	<g id="SPLINE_413_">
+		<path class="st0" d="M523.2,257.2c0-0.4,0-0.7-0.1-1"/>
+	</g>
+	<g id="SPLINE_414_">
+		<path class="st0" d="M525,262.6c0,0-0.1-0.1-0.2-0.4c-0.2-0.2-0.4-0.6-0.6-1.1c-0.2-0.5-0.4-1-0.6-1.7c-0.2-0.7-0.4-1.4-0.4-2.3"
+			/>
+	</g>
+	<g id="SPLINE_415_">
+		<path class="st0" d="M523.2,257.2c0.9,0,1.7,0.4,1.8,1.2"/>
+	</g>
+	<g id="SPLINE_416_">
+		<path class="st0" d="M544.9,257.2c-0.9,0-1.7,0.4-1.8,1.2"/>
+	</g>
+	<g id="SPLINE_417_">
+		<path class="st0" d="M544.9,257.2c-0.1,0.9-0.3,1.7-0.5,2.4c-0.2,0.8-0.5,1.5-0.8,2c-0.1,0.3-0.3,0.5-0.4,0.7
+			c-0.1,0.2-0.2,0.4-0.2,0.4"/>
+	</g>
+	<g id="SPLINE_418_">
+		<path class="st0" d="M700.5,254.8c0,0,0.1,0,0.1,0"/>
+	</g>
+	<g id="SPLINE_419_">
+		<path class="st0" d="M702.1,256.8c0.1-1.2-0.5-2.1-1.5-2.1"/>
+	</g>
+	<g id="SPLINE_421_">
+		<path class="st0" d="M713.9,258.6c-1.7-0.2-3.4-0.5-5.2-0.7c-1.1-0.2-2.1-0.3-3.2-0.5c-0.4-0.1-0.8-0.1-1.2-0.2
+			c-0.4-0.1-0.8-0.1-1.2-0.2c-0.3,0-0.6-0.1-0.9-0.1"/>
+	</g>
+	<g id="SPLINE_422_">
+		<path class="st0" d="M702.1,256.8c-0.5-0.1-1.1-0.1-1.6,0"/>
+	</g>
+	<g id="SPLINE_423_">
+		<path class="st0" d="M687,261.9c-1.7,0.3-3.4,0.4-5.1,0.4"/>
+	</g>
+	<g id="SPLINE_424_">
+		<path class="st0" d="M681.9,262.3c1.4,0,2.8-0.1,4.2-0.4"/>
+	</g>
+	<g id="LINE_593_">
+		<line class="st0" x1="702.7" y1="261.8" x2="727.9" y2="261.8"/>
+	</g>
+	<g id="SPLINE_425_">
+		<path class="st0" d="M565.5,255c0.1,0,0.1,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_426_">
+		<path class="st0" d="M580,262.1c1.4,0.3,2.8,0.4,4.2,0.4"/>
+	</g>
+	<g id="SPLINE_427_">
+		<path class="st0" d="M584.2,262.5c-1.7,0-3.4-0.1-5.1-0.4"/>
+	</g>
+	<g id="SPLINE_428_">
+		<path class="st0" d="M613.5,255c0,0,0.1,0,0.2,0"/>
+	</g>
+	<g id="SPLINE_429_">
+		<path class="st0" d="M628,262.1c1.4,0.3,2.8,0.4,4.2,0.4"/>
+	</g>
+	<g id="SPLINE_430_">
+		<path class="st0" d="M632.2,262.5c-1.7,0-3.4-0.1-5.1-0.4"/>
+	</g>
+	<g id="LINE_630_">
+		<line class="st0" x1="492" y1="254.5" x2="492" y2="254.8"/>
+	</g>
+	<g id="SPLINE_433_">
+		<path class="st0" d="M499.6,254.8c-0.1,0-0.1,0-0.2,0"/>
+	</g>
+	<g id="SPLINE_434_">
+		<path class="st0" d="M498,256.8c-0.1-1.2,0.5-2.1,1.4-2.1"/>
+	</g>
+	<g id="SPLINE_436_">
+		<path class="st0" d="M486.3,258.6c1.7-0.2,3.4-0.5,5.2-0.7c1.1-0.2,2.1-0.3,3.2-0.5c0.4-0.1,0.8-0.1,1.3-0.2
+			c0.4-0.1,0.8-0.1,1.2-0.2c0.3,0,0.6-0.1,0.9-0.1"/>
+	</g>
+	<g id="SPLINE_437_">
+		<path class="st0" d="M498,256.8c0.5-0.1,1.1-0.1,1.6,0"/>
+	</g>
+	<g id="SPLINE_438_">
+		<path class="st0" d="M513.1,261.9c1.7,0.3,3.4,0.4,5.1,0.4"/>
+	</g>
+	<g id="SPLINE_439_">
+		<path class="st0" d="M518.2,262.3c-1.4,0-2.8-0.1-4.2-0.4"/>
+	</g>
+	<g id="LINE_635_">
+		<line class="st0" x1="497.4" y1="261.8" x2="472.2" y2="261.8"/>
+	</g>
+</g>
+<g id="_x30_">
+	<g id="LINE_23_">
+		<line class="st0" x1="658.1" y1="713.9" x2="673.2" y2="713.9"/>
+	</g>
+	<g id="LINE_44_">
+		<line class="st0" x1="769.2" y1="973.5" x2="430.8" y2="973.5"/>
+	</g>
+	<g id="LINE_45_">
+		<line class="st0" x1="771.8" y1="960" x2="428.2" y2="960"/>
+	</g>
+	<g id="LINE_46_">
+		<line class="st0" x1="520.6" y1="1131.1" x2="520.6" y2="1130.9"/>
+	</g>
+	<g id="LINE_47_">
+		<line class="st0" x1="679.4" y1="1130.9" x2="679.5" y2="1131.1"/>
+	</g>
+	<g id="LINE_54_">
+		<line class="st0" x1="517.5" y1="1136.8" x2="510" y2="1136.8"/>
+	</g>
+	<g id="LINE_55_">
+		<line class="st0" x1="510" y1="1136.8" x2="498" y2="1136.8"/>
+	</g>
+	<g id="LINE_56_">
+		<line class="st0" x1="498" y1="1136.8" x2="490.3" y2="1136.8"/>
+	</g>
+	<g id="LINE_57_">
+		<line class="st0" x1="517.5" y1="1132.5" x2="510" y2="1132.5"/>
+	</g>
+	<g id="LINE_58_">
+		<line class="st0" x1="510" y1="1132.5" x2="498" y2="1132.5"/>
+	</g>
+	<g id="LINE_59_">
+		<line class="st0" x1="498" y1="1132.5" x2="490.3" y2="1132.5"/>
+	</g>
+	<g id="LINE_66_">
+		<line class="st0" x1="709.7" y1="1136.8" x2="702.2" y2="1136.8"/>
+	</g>
+	<g id="LINE_67_">
+		<line class="st0" x1="702.2" y1="1136.8" x2="690.2" y2="1136.8"/>
+	</g>
+	<g id="LINE_68_">
+		<line class="st0" x1="690.2" y1="1136.8" x2="682.6" y2="1136.8"/>
+	</g>
+	<g id="LINE_69_">
+		<line class="st0" x1="709.7" y1="1132.5" x2="702.2" y2="1132.5"/>
+	</g>
+	<g id="LINE_70_">
+		<line class="st0" x1="702.2" y1="1132.5" x2="690.2" y2="1132.5"/>
+	</g>
+	<g id="LINE_71_">
+		<line class="st0" x1="690.2" y1="1132.5" x2="682.6" y2="1132.5"/>
+	</g>
+	<g id="LINE_199_">
+		<line class="st0" x1="428.2" y1="960" x2="428.3" y2="945.5"/>
+	</g>
+	<g id="LINE_200_">
+		<line class="st0" x1="428.2" y1="960" x2="771.8" y2="960"/>
+	</g>
+	<g id="LINE_210_">
+		<line class="st0" x1="997.6" y1="455" x2="997.6" y2="745.3"/>
+	</g>
+	<g id="LINE_211_">
+		<line class="st0" x1="984.1" y1="747.9" x2="984.1" y2="452.4"/>
+	</g>
+	<g id="LINE_223_">
+		<line class="st0" x1="1161" y1="747" x2="1161" y2="662.8"/>
+	</g>
+	<g id="LINE_224_">
+		<line class="st0" x1="1161" y1="537.3" x2="1161" y2="453"/>
+	</g>
+	<g id="LINE_320_">
+		<line class="st0" x1="969" y1="735.2" x2="961.6" y2="735.2"/>
+	</g>
+	<g id="LINE_336_">
+		<line class="st0" x1="969" y1="465.1" x2="961.6" y2="465.1"/>
+	</g>
+	<g id="LINE_337_">
+		<line class="st0" x1="984.1" y1="747.9" x2="984.1" y2="452.4"/>
+	</g>
+	<g id="LINE_347_">
+		<line class="st0" x1="202.4" y1="455" x2="202.4" y2="745.3"/>
+	</g>
+	<g id="LINE_348_">
+		<line class="st0" x1="215.9" y1="747.9" x2="215.9" y2="452.4"/>
+	</g>
+	<g id="LINE_360_">
+		<line class="st0" x1="39" y1="747" x2="39" y2="662.8"/>
+	</g>
+	<g id="LINE_361_">
+		<line class="st0" x1="39" y1="537.3" x2="39" y2="453"/>
+	</g>
+	<g id="LINE_457_">
+		<line class="st0" x1="231" y1="735.2" x2="238.4" y2="735.2"/>
+	</g>
+	<g id="LINE_473_">
+		<line class="st0" x1="231" y1="465.1" x2="238.4" y2="465.1"/>
+	</g>
+	<g id="LINE_474_">
+		<line class="st0" x1="215.9" y1="747.9" x2="215.9" y2="452.4"/>
+	</g>
+	<g id="LINE_484_">
+		<line class="st0" x1="769.2" y1="226.5" x2="430.8" y2="226.5"/>
+	</g>
+	<g id="LINE_485_">
+		<line class="st0" x1="771.8" y1="240" x2="428.2" y2="240"/>
+	</g>
+	<g id="LINE_486_">
+		<line class="st0" x1="520.6" y1="68.9" x2="520.6" y2="69.1"/>
+	</g>
+	<g id="LINE_487_">
+		<line class="st0" x1="679.4" y1="69.1" x2="679.5" y2="68.9"/>
+	</g>
+	<g id="LINE_494_">
+		<line class="st0" x1="517.5" y1="63.2" x2="510" y2="63.2"/>
+	</g>
+	<g id="LINE_495_">
+		<line class="st0" x1="510" y1="63.2" x2="498" y2="63.2"/>
+	</g>
+	<g id="LINE_496_">
+		<line class="st0" x1="498" y1="63.2" x2="490.3" y2="63.2"/>
+	</g>
+	<g id="LINE_497_">
+		<line class="st0" x1="517.5" y1="67.5" x2="510" y2="67.5"/>
+	</g>
+	<g id="LINE_498_">
+		<line class="st0" x1="510" y1="67.5" x2="498" y2="67.5"/>
+	</g>
+	<g id="LINE_499_">
+		<line class="st0" x1="498" y1="67.5" x2="490.3" y2="67.5"/>
+	</g>
+	<g id="LINE_506_">
+		<line class="st0" x1="709.7" y1="63.2" x2="702.2" y2="63.2"/>
+	</g>
+	<g id="LINE_507_">
+		<line class="st0" x1="702.2" y1="63.2" x2="690.2" y2="63.2"/>
+	</g>
+	<g id="LINE_508_">
+		<line class="st0" x1="690.2" y1="63.2" x2="682.6" y2="63.2"/>
+	</g>
+	<g id="LINE_509_">
+		<line class="st0" x1="709.7" y1="67.5" x2="702.2" y2="67.5"/>
+	</g>
+	<g id="LINE_510_">
+		<line class="st0" x1="702.2" y1="67.5" x2="690.2" y2="67.5"/>
+	</g>
+	<g id="LINE_511_">
+		<line class="st0" x1="690.2" y1="67.5" x2="682.6" y2="67.5"/>
+	</g>
+	<g id="LINE_639_">
+		<line class="st0" x1="428.2" y1="240" x2="428.3" y2="254.5"/>
+	</g>
+	<g id="LINE_640_">
+		<line class="st0" x1="428.2" y1="240" x2="771.8" y2="240"/>
+	</g>
+</g>
+<g id="L_x5F_BOTTOM_x5F_8.875X4.18X1.36">
+	<g id="LWPOLYLINE_285_">
+		<rect x="493.5" y="1003.8" class="st2" width="213.1" height="100.3"/>
+	</g>
+</g>
+<g id="L_x5F_RIGHT_x5F_4.81X6.875X1.36">
+	<g id="LWPOLYLINE_286_">
+		<rect x="1012.9" y="517.5" class="st2" width="115.5" height="165.1"/>
+	</g>
+</g>
+<g id="L_x5F_LEFT_x5F_4.81X6.875X1.36">
+	<g id="LWPOLYLINE_287_">
+		<rect x="71.7" y="517.5" class="st2" width="115.5" height="165.1"/>
+	</g>
+</g>
+<g id="L_x5F_TOP_x5F_8.875X4.18X1.36">
+	<g id="LWPOLYLINE_288_">
+		<rect x="493.5" y="95.8" class="st2" width="213.1" height="100.4"/>
+	</g>
+</g>
+</svg>

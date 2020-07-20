@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\ServiceProvider\ServiceProvider.csproj" />
+    <ProjectReference Include="..\..\..\CoreEngine\ADOEngine\ADOEngine.csproj" />
     <ProjectReference Include="..\..\..\CoreEngine\RelationalEngine\RelationalEngine\RelationalEngine.csproj" />
   </ItemGroup>
 </Project>

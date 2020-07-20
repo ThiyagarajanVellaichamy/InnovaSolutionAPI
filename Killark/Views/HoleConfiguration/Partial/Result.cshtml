@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>    
+    <div id="canvas_div_pdf">
+        <div class="result_data_head" style="display:none;"><h4>Enclosure Selection</h4></div>
+        <div class="whole-result-data">
+            <div class="enclouserForm">
+                <form class="form-inline">
+                    <div class="row">
+                        <div class="col-md-11 col-lg-11 result_left_parts">
+                            <div class="row pb-20 result_section1">
+                                <div class="form-group col-lg-6 col-md-6 sec1_container line">
+                                    <label class="enclosurelabel" for="resEnclosureType">Enclosure Type</label>
+                                    <input type="text" readonly class="form-control pull-left" id="resEnclosureType">
+                                </div>
+                                <div class="form-group col-lg-6 col-md-6 sec1_container">
+                                    <label class="enclosurelabel" for="resCatalogNum">Catalog Number</label>
+                                    <input type="text" readonly class="form-control" id="resCatalogNum">
+                                    <span class="result1_wld">[W" L" D"]</span>
+                                </div>
+                            </div>
+                            <div class="row pb-20 result_section1">
+                                <div class="form-group col-lg-6 col-md-6 sec1_container line">
+                                    <label class="enclosurelabel" for="resIntDimension">Internal Dimensions</label>
+                                    <input type="text" readonly class="form-control pull-left" id="resIntDimension">
+                                </div>
+                                <div class="form-group col-lg-6 col-md-6 sec1_container">
+                                    <label class="enclosurelabel" for="resExtDimension">External Dimensions</label>
+                                    <input type="text" readonly class="form-control pull-left" id="resExtDimension">
+                                </div>
+                            </div>
+                            <!--- Summary Table start-->
+                            <div class="container-fluid" style="padding: 0">
+                                <table class="table enclosureTable">
+                                    <tbody>
+                                        <tr class="result_section2">
+                                            <td class="sec2_container line">
+                                                <label class="label label_sec2" for="resOperators">Number of Operators</label>
+                                                <input type="text" readonly class="form-control" id="resOperators">
+                                            </td>
+                                            <td class="sec2_container  right_part_line">
+                                                <label class="label label_sec2" for="resMaxSize">Max Sizes - NPT/Metric</label>
+                                                <input type="text" readonly class="form-control" id="resMaxSize">
+                                            </td>
+                                            <td class="sec2_container">
+                                                <label class="label lastSec_label" for="resWeight">Weight LBS (Kg)</label>
+                                                <input type="text" readonly class="form-control lastSec_input" id="resWeight">
+                                            </td>
+                                        </tr>
+                                        <tr class="result_section2">
+                                            <td class="sec2_container line">
+                                                <label class="label label_sec2" for="resExtGndKit">External Grounding Kit</label>
+                                                <input type="text" readonly class="col-lg-3 form-control pull-right" id="resExtGndKit">
+                                            </td>
+                                            <td class="sec2_container right_part_line">
+                                                <label class="label label_sec2" for="resMountingFeet">Internal Grounding Kit</label>
+                                                <input type="text" readonly class="form-control pull-left" id="resIntGndKit">
+                                            </td>
+                                            <td class="sec2_container">
+                                                <label class="label lastSec_label" for="resHinges">Hinges</label>
+                                                <input type="text" readonly class="form-control pull-left lastSec_input" id="resHinges">
+                                            </td>
+                                        </tr>
+                                        <tr class="result_section2">
+                                            <td class="sec2_container">
+                                                <label class="label lastSec_label newUpdate" for="resHingePlacement">Hinge Placement</label>
+                                                <input type="text" readonly class="form-control pull-left lastSec_input" id="resHingePlacement">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- Summary Table end-->
+                        </div>
+                        <div class="col-md-1 col-lg-1 result_img">
+                            <img class="enclosureImage enclosureImage_result_img" src="~/Content/images/EXBLTP/NOHINGE/EXBLTP-664 N4.jpg">
+                        </div>
+                    </div>
+                    <div class="row pb-20 result_section3_1">
+                        <div class="form-group col-lg-4 col-md-4 certificate_sec">
+                            <label class="enclosurelabel" for="resCertType">Certification Type</label>
+                            <input type="text" readonly class="form-control sec3_1_input" id="resCertType">
+                        </div>
+                        <div class="form-group col-lg-4 col-md-4 mounting_sec">
+                            <label class="enclosurelabel" for="resCertType">Mounting Pan</label>
+                            <input type="text" readonly class="form-control sec3_1_input" id="resMountingPanel">
+                        </div>
+                    </div>
+                    <div class="row pb-20 result_section3">
+                        <div class="form-group col-lg-6 col-md-6 sec3_container">
+                            <label class="enclosurelabel" for="resBoltType">Enclosure Cover Bolt Type</label>
+                            <input type="text" readonly class="form-control pull-left" id="resBoltType">
+                        </div>
+                    </div>
+                    <div class="row pb-20 result_section3">
+                        <div class="form-group col-lg-6 col-md-6 sec3_container">
+                            <label class="enclosurelabel" for="resFinish">Finish</label>
+                            <input type="text" readonly class="form-control pull-left" id="resFinish">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="result_data_head" style="display:none;"><h4>Operators/Holes</h4></div>
+        <div class="bottom-tab footer-notes">
+            <div class="clearfix hc-info-data table-full scrollstyle resultTable" id="autoheight">
+                <div class="table-responsive">
+                    <div class="bot-table">
+                        <table class="table" id="summaryTable">
+                            <thead>
+                                <tr>
+                                    <th class="no-row">
+                                        <a href="javascript:void(0)" class="nmb-image">
+                                            <img src="~/Content/images/tb1.png" alt="order-arrow"
+                                                 title="Arrow">
+                                        </a>
+                                    </th>
+                                    <th>
+                                        <span>View</span><a href="javascript:void(0)" class="arrow-image">
+                                            <img src="~/Content/images/tarow.png"
+                                                 alt="order-arrow" title="Arrow">
+                                        </a>
+                                    </th>
+                                    <th>Hole/Operator ID</th>
+                                    <th>Hole/Operator Type</th>
+                                    <th>Hole/Operator Subtype</th>
+                                    <th>Hole/Operator Size</th>
+                                    <th>Catalog No</th>
+                                    <th>X Coordinate</th>
+                                    <th>Y Coordinate</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="note_container">
+                <h4 class="text-center">Note <span class="glyphicon glyphicon-trash cleardata" id="clear"></span></h4>
+                <div class="note_content">
+                    <textarea class="form-control" id="comment"></textarea>
+                </div>
+            </div>
+            <div class="result_data_head pdf_txt" style="display:none;">
+                <h4>Note</h4>
+                <p id="data_part"></p>
+            </div>
+        </div>
+        <div style="clear:both"></div>   
+
+        <div id="popup" style="text-align:center; display: none;">
+            <h3>Add Note</h3>
+            <div class="content row">
+                <textarea class="addnoteTextarea" style="width: 70%;"></textarea>
+                <div style="padding:15px 5px">
+                    <a class="kil-btn kil-btn-small noteSaveBtn" href="#" style="text-align: center;">Save</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

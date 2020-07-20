@@ -1,0 +1,172 @@
+﻿<!-- box-1 starts -->
+<div class="hc-box1 hc-box-height even-cls-box full-height">
+    <!-- Pop up form starts-->
+    <div class="clearfix bsubmenu1 pop2-position mpop" id="ansi-popup">
+        <div id="myForm" class="customPopup">
+            <form id="popFormANSI" type="ANSI">
+                <div class="col-md-8 pop-lft-dis">
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Side</label>
+                        <select id="ansiSide" name="ansiSide" onchange="boxOptionOnChange('ANSI');" uid="faceType">
+                            <option value="1">Bottom Side</option>
+                            <option value="2">Top Side</option>
+                            <option value="3">Left Side</option>
+                            <option value="4">Right Side</option>
+                        </select>
+                    </div>
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Hole Size</label>
+                        <select id="ansiHoleSize" name="ansiHoleSize" onchange="boxOptionOnChange('ANSI');" uid="holeSize">
+                            <option value="1">1/2 NPT</option>
+                            <option value="2">3/4 NPT</option>
+                            <option value="3">1 NPT</option>
+                            <option value="4">1 1/4 NPT</option>
+                            <option value="5">1 1/2 NPT</option>
+                            @*<option value="6">2 NPT</option>
+                            <option value="7">1/4 NPT</option>
+                            <option value="8">3/8 NPT</option>*@
+                        </select>
+                    </div>
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Component</label>
+                        <select id="ansiComponent" uid="holeComponent" onchange="componentOnChange('ansiComponent')"></select>
+                    </div>
+                    <div class="pfrm-holes" style="margin-bottom:0px;">
+                        <label>Number of Holes</label>
+                        <input style="bottom:-1px;" type="number" placeholder="" 
+                               class="noOfHole_1" value="1" onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm" style="bottom:2px;right:68px;">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input type="number" placeholder="" value="" 
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i3.png" alt="Preview" title="ANSI Hole" class="popup2-img">
+                    </div>
+                    <div class="preview_img_number">
+                        <input type="text" name="ansiReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="ansiHole">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Pop up form ends-->
+    <!-- Pop up form starts-->
+    <div class="clearfix bsubmenu2 pop2-position mpop" id="metric-popup">
+        <div id="myForm" class="customPopup">
+            <form id="popFormMetric" type="Metric">
+                <div class="col-md-8 pop-lft-dis">
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Side</label>
+                        <select id="metricSide" name="metricSide" 
+                                onchange="boxOptionOnChange('Metric');" uid="faceType">
+                            <option value="1">Bottom Side</option>
+                            <option value="2">Top Side</option>
+                            <option value="3">Left Side</option>
+                            <option value="4">Right Side</option>
+                        </select>
+                    </div>
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Hole Size</label>
+                        <select id="metricHoleSize" name="metricHoleSize" 
+                                onchange="boxOptionOnChange('Metric');" uid="holeSize">
+                            <option value="1">M20</option>
+                            <option value="2">M25</option>
+                            <option value="3">M32</option>
+                            <option value="4">M40</option>
+                            <option value="5">M50</option>
+                            <option value="6">M63</option>
+                            <option value="7">M75</option>
+                            <option value="8">M16</option>
+                        </select>
+                    </div>
+                    <div class="pfrm-group" style="margin-bottom:0px;">
+                        <label>Component</label>
+                        <select id="metricComponent" uid="holeComponent" 
+                                onchange="componentOnChange('metricComponent')"></select>
+                    </div>
+                    <div class="pfrm-holes" style="margin-bottom:0px;">
+                        <label>Number of Holes</label>
+                        <input type="number" placeholder="" class="noOfHole_1" value="1" 
+                               onkeypress="return IsNumeric(event);">
+                    </div>
+                    <div class="pfrm-xy-frm" style="bottom:2px;right:68px;">
+                        <input type="checkbox" value="">
+                        <div class="xy-values">
+                            <div class="pfrm-xval">
+                                <label>X</label>
+                                <input style="bottom:-1px;" type="number" placeholder="" value=""
+                                       onkeypress="return isNumberKey(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                            <div class="pfrm-yval">
+                                <label>Y</label>
+                                <input type="number" placeholder="" value="" onkeypress="return isNumberKey(event);"
+                                       ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 preview">
+                    <p>Preview</p>
+                    <div class="pre-image">
+                        <img src="~/Content/images/i3.png" alt="Preview" title="Metric Hole" class="popup2-img">
+                    </div>
+                    <div class="preview_img_number catlog-Metric">
+                        <input type="text" name="metricReadoutString" value="" readonly />
+                    </div>
+                </div>
+                <div class="pfrm-btn-grp">
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel">Cancel</a>
+                    <a href="javascript:void(0)" class="kil-btn kil-btn-small popup-cancel" type="plot" name="metricHole">Add</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- Pop up form ends-->
+    <div class="hc-box-inner sameheight_large_device">
+        <div class="cover-option-header">
+            <label>Box Option</label>
+        </div>
+        <div class="tab-content">
+            <!-- tab-2 row starts -->
+            <div id="view-tab2" class="tab-pane fade in active">
+                <div class="clearfix box1-menu box-view">
+                    <ul class="list-unstyled b1-par-menu">
+                        <li>
+                            <a href="ansi-popup" id="ansi-popup">
+                                <img src="~/Content/images/i3.png" alt="ANSI">
+                                ANSI
+                            </a>
+                        </li>
+                        <li>
+                            <a href="metric-popup" id="metric-popup">
+                                <img src="~/Content/images/i3.png" alt="Metric">
+                                Metric
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- tab-2 row End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- box-1 End -->

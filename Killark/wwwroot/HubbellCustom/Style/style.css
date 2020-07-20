@@ -1,0 +1,476 @@
+﻿.SVGContainer {
+    width: 100%;
+    height: 100%;
+    /*background-color: rgb(200, 200, 200);*/
+    background-color: #fff;
+}
+.emptyhr {
+    height: 5px;
+    visibility: hidden;
+    margin: 0px;
+}
+
+.groupElement:hover {
+    cursor: default;
+}
+
+.groupElementMove {
+    cursor: grabbing;
+}
+
+.innerCircle {
+    opacity: 0.5;
+    /*fill: #f17221;*/
+    fill: yellow;
+    stroke-width: 0;
+}
+
+.outerCircle {
+    fill: transparent;
+    stroke: grey;
+    stroke-width: 1;
+}
+
+.innerRect {
+    opacity: 0.5;
+    /*fill: #f17221;*/
+    fill: yellow;
+    stroke-width: 0;
+}
+
+.outerRect {
+    fill: transparent;
+    stroke: grey;
+    stroke-width: 1;
+}
+
+.textCircle {
+    stroke: black;
+    stroke-width: 0;
+    font-size: 1rem;
+}
+
+.primaryOperator {
+    stroke: blue;
+}
+
+.alignmentSelected{
+    stroke: grey;
+}
+
+.gridLine {
+    opacity: 0.75;
+    stroke: grey;
+    stroke-width: 0.5;
+    z-index: -1;
+}
+
+.disabled{
+    opacity: 0.25;
+}
+
+.btnSelected {
+    background-color: transparent;
+    color: #199C66;
+}
+
+/*button:focus,
+.btn:focus,
+.btn-small:focus {
+    outline: none;
+    box-shadow: none;
+}*/
+
+.xyInput {
+    width: 6rem;
+    font-size: 0.9rem;
+    color: #000;
+}
+
+.xyInputResult {
+    width: 5rem;
+    font-size: 1rem;
+    color: #000;
+}
+
+.xyInputFailed:focus {
+    box-shadow: 0 0 12px #ff0000;
+}
+
+/*Result Page*/
+.enclouserForm, .enclouserSelection {
+    border: 1px solid #cccccc;
+    border-radius: 7px;
+    margin: 5px 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+form.form-inline .form-group {
+    margin-bottom: 5px !important;
+}
+
+.stepheadCaption {
+    margin: 0 20px 0 243px;
+}
+
+    .stepheadCaption span {
+        font-size: 10px;
+        font-weight: bold;
+        margin: 0 171px 0 0px;
+    }
+
+.stepHead {
+    background: #199c66;
+    margin: 0 5px 10px 5px;
+    text-align: center;
+    height: 30px;
+    border-radius: 1px;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 3px;
+    font-size: 18px;
+}
+
+form.form-inline input {
+    border: 1px solid #199c66 !important;
+    height: 20px !important;
+    font-size: 12px !important;
+    text-align: center;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: #b2b2b2;
+    height: 10px;
+}
+
+.enclousetab thead, .enclousetab tbody {
+    background: #b2b2b2;
+    font-size: 10px;
+    text-align: center;
+}
+.split{
+    float:right;
+}
+
+.tableClass {
+    margin: 15px 20px;
+}
+
+table.step4Data {
+    border-collapse: collapse;
+    border-radius: 5px;
+    border-style: hidden; /* hide standard table (collapsed) border */
+    box-shadow: 0 0 0 1px #000; /* this draws the table border  */
+    width: 100%;
+}
+
+td.step4Data {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 0px 5px !important;
+}
+
+th.step4Data {
+    text-align: center !important;
+    border: 1px solid #000;
+    padding: 4px;
+    background-color: #b2b2b2;
+}
+
+tr:nth-child(even) {
+    background-color: #b2b2b2;
+}
+
+.submitClass {
+    background: #199c66;
+    border-radius: 5px;
+    color: #fff;
+    padding: 5px 40px;
+    float: right;
+    margin: 15px 30px 0 0;
+    cursor: pointer;
+    position: relative;
+}
+
+.navPanel {
+    margin: 0 20%;
+    font-size: 12px;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 200px;
+    width: 50%;
+}
+
+div.navPanel .navState {
+    background-color: #199c66;
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 50px;
+    cursor: pointer;
+    color: #fff;
+}
+
+div.navPanel .navStateCont {
+    background-color: #199c66;
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+div.state1, div.state2, div.state3 {
+    position: absolute;
+    width: 225px;
+    height: 3px;
+    z-index: -1;
+    background: #199c66;
+    top: 22px;
+}
+
+div.state1 {
+    left: 320px;
+}
+
+div.state2 {
+    left: 567px;
+}
+
+div.state3 {
+    left: 814px;
+}
+/*Result Page End*/
+
+/*User Profile Page*/
+.userProfile {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.userProfileForm {
+    border: 1px solid #cccccc;
+    margin-top: 50px;
+    box-shadow: 0px 1px 9px 1px #cccccc;
+    border-radius: 5px;
+}
+
+.userProfileForm h4 {
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 1.1rem;
+    letter-spacing: 0.4px;
+}
+.userProfileForm div.row {
+    margin-bottom: 15px;
+}
+
+.userProfileForm div.row input {
+    border: 1px solid #199C66;
+    border-radius: 5px;
+    font-weight: normal;
+}
+.userProfileForm .form-control {
+    height: 25px;
+}
+
+div sup.req {
+    color: #ff0000;    
+}
+
+.addnoteTextarea {
+    color: black;
+    padding: 10px 8px;
+    margin-bottom: 15px;
+    border-radius: 0.3rem;
+    background: transparent;
+    border: 1px solid #000;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+
+    .overlay:target {
+        visibility: visible;
+        opacity: 1;
+    }
+
+.popup {
+    margin: 0 auto;
+    top: 30%;
+    padding: 20px 50px;
+    background: #fff;
+    border-radius: 5px;
+    width: 30%;
+    position: relative;
+    transition: all 5s ease-in-out;
+}
+
+    .popup h2 {
+        margin-top: 0;
+        color: #333;
+        font-family: Tahoma, Arial, sans-serif;
+    }
+
+    .popup .close {
+        position: absolute;
+        top: 20px;
+        right: 30px;
+        transition: all 200ms;
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: none;
+        color: black;
+    }
+
+        .popup .close:hover {
+            color: black;
+        }
+
+    .popup .content {
+        max-height: 30%;
+        overflow: auto;
+    }
+
+.center{
+    text-align: center;
+}
+.profile_btn_part {
+    padding: 5px 5px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.profile_btn_part button {
+    margin: 0 10px;
+}
+.userProfileForm label {
+    font-weight: bold;
+    font-size: 0.9rem;
+    letter-spacing: 0.4px;
+}
+.userProfileForm .vr_line::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 1px;
+    height: 305px;
+    border: 0.5px solid #199C66;
+    top: 0;
+    right: 0;
+}
+.manatory_note {
+    display: inline-block;
+    position: absolute;
+    right: 65px;
+    bottom: 20px;
+    font-size: 1rem;
+}
+
+/* login styles start*/
+.login_container {
+    width: 100%;
+    text-align: center;
+}
+.login_container .form-body {
+    padding: 0;
+}
+.login_container .two-btn.login_button {
+    padding: 15px 0 5px 0;
+}
+.left_empty {
+    width: 24%;
+    float: left;
+}
+.button_loginpart,
+.forget_part {
+    width: 74%;
+    /*float: left;*/
+}
+.forget_part.forget_container {
+    padding: 10px 0px 15px 0px;
+    font-size: 12px;
+}
+.forget_part.forget_container a {
+    /*border-bottom: 1px solid #337ab7;*/
+}
+.forget_part.forget_container input {
+    position: relative;
+    top: 3px;
+}
+.forget_part.forget_container label {
+    font-size: 12px;
+    font-weight: normal;
+}
+.login_container .two-btn.login_button .button_loginpart button {
+    margin: 0 10px;
+}
+.login_container .input-lrg input {
+    width: 18rem;
+    border: 1px solid #199C66;
+    border-radius: 5px;
+    font-weight: normal;
+    height: 25px;
+}
+.log-form h4 {
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 1.1rem;
+    letter-spacing: 0.4px;
+}
+.log-form label {
+    font-weight: bold;
+    font-size: 0.9rem;
+    letter-spacing: 0.4px;
+    padding: 0;
+    width: 25%;
+    text-align: left;
+}
+.forget_wrapper .left_empty,
+.register_wrapper .left_empty {
+    width: 40%;
+}
+.forget_wrapper .forget_part.forget_container,
+.register_wrapper .register_link {
+    width: 60%;
+    text-align: left;    
+    font-size: 12px;
+    float: left;
+}
+.forget_wrapper .forget_part.forget_container {
+    padding: 10px 0px 10px 7px;
+}
+.register_wrapper .register_link {
+    padding: 0px 0px 20px 7px;
+}
+.log-form .button_loginpart input {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    left: 2px;
+    display: none !important;
+}
+.log-form .button_loginpart label {
+    font-size: 12px;
+    font-weight: normal;
+    display: none;
+}
+.log-form .reset_part h4 {
+    text-align: center;
+    margin-bottom: 0;
+}
+/* login styles end*/
